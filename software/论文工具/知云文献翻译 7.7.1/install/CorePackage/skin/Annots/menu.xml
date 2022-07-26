@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window bktrans="true" showshadow="true" >
+<Font name="微软雅黑" size="12" bold="false" default="true" />
+<Font shared="true" id="30" name="微软雅黑" size="12" bold="true"/>
+
+<!-- Menu样式 -->
+<Default name="Menu" shared="true" value="itemfont=&quot;12&quot; inset=&quot;2,2,2,2&quot; itemtextpadding=&quot;30,0,0,0&quot; itembkcolor=&quot;0xFFC1E3FF&quot; itemselectedbkcolor=&quot;0xFFC1E3FF&quot;" />
+
+<Menu>
+	<MenuElement width="80" name="Delete" text="删除"/>
+</Menu>
+
+</Window>

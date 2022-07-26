@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="English" lName="English" lcid="0x0409" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDOK" title="OK"/>
+		<Item id="2" name="IDCANCEL" title="Cancel"/>
+		<Item id="201" name="IDS_CREATE_PDF" title="Create PDF"/>
+		<Item id="202" name="IDS_CREATE_BLANK" title="From blank page"/>
+		<Item id="203" name="IDS_CREATE_FILE" title="From file..."/>
+		<Item id="305" name="IDS_MERGE_FILE" title="Merge files..."/>
+		<Item id="306" name="IDS_CREATE_SCANNER" title="From Scanner..."/>
+		<Item id="32768" name="ID_POPUP_DELETE" title="Delete"/>
+		<Item id="32771" name="ID_POPUP_UP" title="Move up"/>
+		<Item id="32770" name="ID_POPUP_DOWN" title="Move down"/>
+		<Item id="32772" name="IDS_LIST_PATH" title="Path"/>
+		<Item id="32773" name="IDS_LIST_SIZE" title="Size"/>
+	</Strings>
+	<Dialogs>
+		<Dialog id="120" name="IDD_SPMERGEPDFDLG" title="Merge Files">
+			<Item id="302" name="IDC_BTN_ADD_FILE" title="Add file"/>
+			<Item id="303" name="IDC_BTN_ADD_FOLDER" title="Add folder"/>
+			<Item id="204" name="IDC_BTN_MERGE" title="Merge file"/>
+			<Item id="2" name="IDCANCEL" title="Cancel"/>
+		</Dialog>	
+	</Dialogs>
+</Localization>

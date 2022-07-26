@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (PRC)" lName="简体中文" lcid="0x0804" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDOK" title="确定"/>
+		<Item id="2" name="IDCANCEL" title="取消"/>
+		<Item id="3" name="IDS_SIGNATURE" title="签名"/>
+		<Item id="4" name="IDS_SIGNATURE_PRO" title="验证签名(&amp;P)"/>
+		<Item id="5" name="IDS_SIGNATURE_DEL" title="删除签名域(&amp;D)"/>
+		<Item id="6" name="IDS_NO_CERT_PRIVATE" title="没有找到签名者对应的证书私钥,请导入证书或插入密钥盘再操作" tooltip="" status="" short=""/>
+		<Item id="7" name="IDS_STRING_NEED_PIN" title="密钥盘PIN码不能为空！" tooltip="" status="" short=""/>
+		<Item id="8" name="IDS_STRING_PROMPT" title="iStylePDF 安全性" tooltip="" status="" short=""/>
+		<Item id="9" name="IDS_STRING_PIN_ERROR" title="口令错误，请重新输入" tooltip="" status="" short=""/>
+		<Item id="10" name="IDS_STRING_SIG_HASH" title="签名摘要" tooltip="" status="" short=""/>
+		<Item id="11" name="IDS_STRING_SIG_VALID" title="签名有效，由&quot;%s&quot;签名。" tooltip="" status="" short=""/>
+		<Item id="12" name="IDS_STRING_SIG_VALID_SUM" title="自应用本签名以来，&quot;文档&quot;未被修改" tooltip="" status="" short=""/>
+		<Item id="13" name="IDS_STRING_SIG_INVALID" title="签名无效，由&quot;%s&quot;签名。" tooltip="" status="" short=""/>
+		<Item id="14" name="IDS_STRING_SIG_INVALID_SUM" title="自应用本签名以来，文档已被更改或损坏" tooltip="" status="" short=""/>
+		<Item id="15" name="IDS_STRING_MODIFY_PAGES" title="已修改&quot;%d&quot;页" tooltip="" status="" short=""/>
+		<Item id="16" name="IDS_TREE_SIG_NAME" title="修订版%d：由&quot;%s&quot;签名" tooltip="" status="" short=""/>
+		<Item id="17" name="IDS_TREE_SIG_VALID" title="数字签名有效：" tooltip="" status="" short=""/>
+		<Item id="18" name="IDS_TREE_SIG_AUTHOR" title="由当前用户签名" tooltip="" status="" short=""/>
+		<Item id="19" name="IDS_TREE_SIG_INVALID" title="数字签名无效：" tooltip="" status="" short=""/>
+		<Item id="20" name="IDS_TREE_SIG_NO_VERIFY" title="该数字签名未验证" tooltip="" status="" short=""/>
+		<Item id="21" name="IDS_TREE_SIG_INFO" title="签名详细信息" tooltip="" status="" short=""/>
+		<Item id="22" name="IDS_TREE_CERT_INFO" title="证书详细信息..." tooltip="" status="" short=""/>
+		<Item id="23" name="IDS_TREE_FIELD_POS" title="域：%s 位于第 %d 页" tooltip="" status="" short=""/>
+		<Item id="24" name="IDS_TREE_DOC_REVISION" title="文档修订版次:第 %d/%d 版" tooltip="" status="" short=""/>
+		<Item id="25" name="IDS_TREE_NO_SIG_FIELD" title="未签名的签名域" tooltip="从扫描仪" status="" short=""/>
+		<Item id="26" name="IDS_STRING_NO_FINE_SIGCLIENT" title="没有安装签章客户端软件，请安装签章客户端之后再操作" tooltip="" status="" short=""/>
+		<Item id="27" name="IDS_STRING_EDIT_DETAILS" title="修改详细信息：" tooltip="" status="" short=""/>
+		<Item id="28" name="IDS_STRING_HAS_PAGES_MODIFIED" title="%d 个页面被修改" tooltip="" status="" short=""/>
+		<Item id="29" name="IDS_STRING_USE_CERT_ERROR" title="使用该数字证书签名失败！" tooltip="" status="" short=""/>
+		<Item id="30" name="IDS_STRING_FILE_OPEN_ERROR" title="文件被其他程序占用，打开文件保存失败！" tooltip="" status="" short=""/>
+		<Item id="31" name="IDS_STRING_UNKNOW" title="数字签名保存出现未知异常，请检查文件和证书是否使用正常！" tooltip="" status="" short=""/>
+		<Item id="32" title="没有找到可以使用的证书，请导入证书到容器或者插入密钥盘再操作！" tooltip="" status="" short=""/>
+		<Item id="33" title="没有可用的签名外观！" tooltip="" status="" short=""/>
+		<Item id="34" title="清除签名(&amp;C)" tooltip="" status="" short=""/>
+		<Item id="35" title="全部签名验证完毕，总共耗时%d毫秒！" tooltip="" status="" short=""/>
+		<Item id="36" title="正在整理签名的修订版次..." tooltip="" status="" short=""/>
+		<Item id="37" title="该功能已经过期，请联系软件供应商！" tooltip="" status="" short=""/>
+		<Item id="38" title="签名：验证和查看所有签名" tooltip="" status="" short=""/>
+		<Item id="39" title="电子签章" tooltip="" status="" short=""/>
+		<Item id="40" title="签名之后文档有修改" tooltip="" status="" short=""/>
+		<Item id="41" title="由本签名控制的文档修订版次尚未被更改，但在其后，文档已被更改。" tooltip="" status="" short=""/>
+		<Item id="42" name="IDS_CLOSE" title="关闭"/>
+		<Item id="100" title="数字签名插件" tooltip="" status="" short=""/>
+		<Item id="107" title="签名文档" tooltip="" status="" short=""/>
+		<Item id="108" title="签名属性" tooltip="" status="" short=""/>
+		<Item id="114" title="请输入证书密码" tooltip="" status="" short=""/>
+		<Item id="115" title="验证所有签名" tooltip="" status="" short=""/>
+		<Item id="116" title="日期格式设置" tooltip="" status="" short=""/>
+		<Item id="204" title="详细信息" tooltip="" status="" short=""/>
+		<Item id="213" title="证书名称" tooltip="" status="" short=""/>
+		<Item id="214" title="高级设置" tooltip="" status="" short=""/>
+		<Item id="215" title="钥匙密码：" tooltip="" status="" short=""/>
+		<Item id="217" title="定位模式：" tooltip="" status="" short=""/>
+		<Item id="225" title="查看证书..." tooltip="" status="" short=""/>
+		<Item id="227" title="签章名称：" tooltip="" status="" short=""/>
+		<Item id="228" title="签名" tooltip="" status="" short=""/>
+		<Item id="229" title="您正在使用的证书需要密钥认证" tooltip="" status="" short=""/>
+		<Item id="230" title="证书密码" tooltip="" status="" short=""/>
+		<Item id="231" title="签名信息" tooltip="" status="" short=""/>
+		<Item id="232" title="有效性小结" tooltip="" status="" short=""/>
+		<Item id="233" title="签名者：" tooltip="" status="" short=""/>
+		<Item id="234" title="原因：" tooltip="" status="" short=""/>
+		<Item id="235" title="日期：" tooltip="" status="" short=""/>
+		<Item id="236" title="添加..." tooltip="" status="" short=""/>
+		<Item id="239" title="确定要验证所有签名吗？&#x0D;对大型文档或多个签名也许会占用较多时间" tooltip="" status="" short=""/>
+		<Item id="240" title="确定" tooltip="" status="" short=""/>
+		<Item id="241" title="正在验证签名...%d / %d" tooltip="" status="" short=""/>
+    <Item id="242" title="签名模板：" tooltip="" status="" short=""/>
+		<Item id="246" title="是否启用" tooltip="" status="" short=""/>
+		<Item id="264" title="字体名称：" tooltip="" status="" short=""/>
+		<Item id="265" title="字体大小：" tooltip="" status="" short=""/>
+		<Item id="266" title="字体颜色：" tooltip="" status="" short=""/>
+		<Item id="267" title="横向位置：" tooltip="" status="" short=""/> 
+		<Item id="268" title="纵向位置：" tooltip="" status="" short=""/>
+		<Item id="269" title="日期格式" tooltip="" status="" short=""/>
+		<Item id="270" title="确认" tooltip="" status="" short=""/>
+		<Item id="271" title="取消" tooltip="" status="" short=""/>
+		<Item id="272" title="签章缩放" tooltip="" status="" short=""/>
+		<Item id="279" title="记住密码" tooltip="" status="" short=""/>
+		<Item id="280" title="证书过滤" tooltip="" status="" short=""/>
+		<Item id="281" title="页面范围" tooltip="" status="" short=""/>
+    <Item id="325" title="日期格式设置" tooltip="" status="" short=""/>
+		<Item id="32700" title="操作提示" tooltip="" status="" short=""/>
+		<Item id="32769" title="显示签名属性(&amp;S)..." tooltip="" status="" short=""/>
+		<Item id="32770" title="验证签名(&amp;V)" tooltip="" status="" short=""/>
+		<Item id="32776" title="放置签名(&amp;P)" tooltip="" status="" short=""/>
+		<Item id="32777" title="清除签名(&amp;C)" tooltip="" status="" short=""/>
+		<Item id="32779" title="验证所有签名" tooltip="" status="" short=""/>
+    <Item id="34000" title="签名包含嵌入的时间戳！" tooltip="" status="" short=""/>    
+		<Item id="34001" title="时间戳颁发机构：" tooltip="" status="" short=""/>    
+		<Item id="34002" title="二维条码" tooltip="" status="" short=""/> 
+		<Item id="34003" title="光学防伪" tooltip="" status="" short=""/> 		
+		<Item id="34004" title="盖骑缝章" tooltip="" status="" short=""/>
+		<Item id="34005" title="手写签名" tooltip="" status="" short=""/>
+		<Item id="34006" title="位置" tooltip="" status="" short=""/> 		
+		<Item id="34007" title="添加位置：" tooltip="" status="" short=""/>
+		<Item id="34008" title="签名图片内" tooltip="" status="" short=""/>
+		<Item id="34009" title="签名图片外" tooltip="" status="" short=""/>
+		<Item id="34010" title="骑缝章设置" tooltip="" status="" short=""/>
+		<Item id="34011" title="起始页" tooltip="" status="" short=""/>
+		<Item id="34012" title="签章页面" tooltip="" status="" short=""/>
+		<Item id="34013" title="全部页" tooltip="" status="" short=""/>
+		<Item id="34014" title="奇数页" tooltip="" status="" short=""/>
+		<Item id="34015" title="偶数页" tooltip="" status="" short=""/>
+		<Item id="34016" title="骑缝设置" tooltip="" status="" short=""/>
+		<Item id="34017" title="鼠标一次定位签章" tooltip="" status="" short=""/>
+		<Item id="34018" title="鼠标定位连续多页签章" tooltip="" status="" short=""/>
+		<Item id="34019" title="鼠标定位连续签章" tooltip="" status="" short=""/>
+		<Item id="34020" title="签章验证" tooltip="" status="" short=""/>
+		<Item id="34021" title="撤销签章" tooltip="" status="" short=""/>
+		<Item id="34022" title="数字签名" tooltip="" status="" short=""/>
+		<Item id="34023" title="签名认证" tooltip="" status="" short=""/>
+		<Item id="34024" title="查看证书" tooltip="" status="" short=""/>
+		<Item id="34025" title="KCL201_没有检测到电子钥匙盘！" tooltip="" status="" short=""/>
+		<Item id="34026" title="批量验证" tooltip="" status="" short=""/>
+		<Item id="34027" title="参数设置" tooltip="" status="" short=""/>
+		<Item id="34028" title="打印设置" tooltip="" status="" short=""/>
+		<Item id="34029" title="签章脱密" tooltip="" status="" short=""/>
+		<Item id="34030" title="(共%d枚)" tooltip="" status="" short=""/>
+		<Item id="34031" title="商密二代" tooltip="" status="" short=""/>
+		<Item id="34032" title="附加文字设置" tooltip="" status="" short=""/>
+		<Item id="34033" title="文字:" tooltip="" status="" short=""/>
+		<Item id="34034" title="字体:" tooltip="" status="" short=""/>
+		<Item id="34035" title="字号:" tooltip="" status="" short=""/>
+		<Item id="34036" title="颜色:" tooltip="" status="" short=""/>
+		<Item id="34037" title="位置:" tooltip="" status="" short=""/>
+		<Item id="34038" title="变量:" tooltip="" status="" short=""/>
+		<Item id="34039" title="签离线章" tooltip="" status="" short=""/>
+		<Item id="34040" title="自动数字签名" tooltip="" status="" short=""/>
+		<Item id="34041" title="浮于内容上方" tooltip="" status="" short=""/>
+		<Item id="34042" title="时间附加" tooltip="" status="" short=""/>
+		<Item id="34043" title="附加文字" tooltip="" status="" short=""/>
+		<Item id="34044" title="记忆参数" tooltip="" status="" short=""/>
+		<Item id="34045" title="设置" tooltip="" status="" short=""/>
+		
+		<Item id="34046" title="密码长度错误!" tooltip="" status="" short=""/>
+		<Item id="34047" title="字体尺寸请输入1-100之间的数字!" tooltip="" status="" short=""/>
+		<Item id="34048" title="打印设置异常!" tooltip="" status="" short=""/>
+		<Item id="34049" title="根证书安装失败，请确认根证书文件是否正确!" tooltip="" status="" short=""/>
+		<Item id="34050" title="KCL809_操作失败，请拔掉当前钥匙盘再进行操作。" tooltip="" status="" short=""/>
+		<Item id="34051" title="KCL214_请插入原始电子钥匙盘，然后再进行该操作！" tooltip="" status="" short=""/>
+		<Item id="34052" title="iSignature电子签章系统有升级版本，请运行&lt;在线升级&gt;软件完成升级！" tooltip="" status="" short=""/>
+		<Item id="34053" title="签章助手组件未注册/未安装！" tooltip="" status="" short=""/>
+		<Item id="34054" title="文档中不存在印章" tooltip="" status="" short=""/>
+		<Item id="34055" title="KCL808_操作失败，签章助手未启用或未授权" tooltip="" status="" short=""/>
+		<Item id="34056" title="脱密操作不可逆，电子签章将不保护文档，且签章外观变成黑白。" tooltip="" status="" short=""/>
+		<Item id="34057" title="签名位置错误/签名区域过小" tooltip="" status="" short=""/>
+		<Item id="34058" title="KCL001_未检测到签章客户端授权文件" tooltip="" status="" short=""/>
+		<Item id="34059" title="KCL002_签章客户端授权文件解析失败" tooltip="" status="" short=""/>
+		<Item id="34060" title="KCL003_签章系统文件数据非法" tooltip="" status="" short=""/>
+		<Item id="34061" title="KCL004_该签章功能未授权" tooltip="" status="" short=""/>
+		<Item id="34062" title="KCL005_%s授权已过期，请联系厂商更新授权" tooltip="" status="" short=""/>
+		<Item id="34063" title="KCL202_电子钥匙盘中不存在电子签章" tooltip="" status="" short=""/>
+		<Item id="34064" title="服务器端未定义印章过期时间控制功能" tooltip="" status="" short=""/>
+		<Item id="34065" title="请先保存文档，再进行签章!" tooltip="" status="" short=""/>
+		<Item id="34066" title="签章页面范围错误" tooltip="" status="" short=""/>
+		<Item id="34067" title="获取钥匙盘有效期异常，请重新尝试签章!" tooltip="" status="" short=""/>
+		<Item id="34068" title="KCL205_电子钥匙盘未生效，不能签章!" tooltip="" status="" short=""/>
+		<Item id="34069" title="KCL206_电子钥匙盘已过期，不能签章!" tooltip="" status="" short=""/>
+		<Item id="34070" title="载入签章模块失败，请重新安装应用程序" tooltip="" status="" short=""/>
+		<Item id="34071" title="无法获取原文，数字签名失败!" tooltip="" status="" short=""/>
+		<Item id="34072" title="KCL231_数字签名失败!" tooltip="" status="" short=""/>
+		<Item id="34073" title="无法获取证书，数字签名失败!" tooltip="" status="" short=""/>
+		<Item id="34074" title="数字签名成功!" tooltip="" status="" short=""/>
+		<Item id="34075" title="请先保存文档!" tooltip="" status="" short=""/>
+		<Item id="34076" title="KCL272_验证签章人证书失败，签章人证书已过期或未生效!" tooltip="" status="" short=""/>
+		<Item id="34077" title="KCL274 验证签章人证书失败，签章人证书根证书验证未通过!" tooltip="" status="" short=""/>
+		<Item id="34078" title="KCL270_验证签章人证书失败，签章人证书已被吊销!" tooltip="" status="" short=""/>
+		<Item id="34079" title="KCL276 验证签章人证书失败，签章人证书根证书安装未成功!" tooltip="" status="" short=""/>
+		<Item id="34080" title="KCL266_验证签章人证书失败，未检测到签章人证书吊销列表!" tooltip="" status="" short=""/>
+		<Item id="34081" title="KCL260_验证签章人证书失败，未检测到签章人证书!" tooltip="" status="" short=""/>
+		<Item id="34082" title="KCL262_验证签章人根证书失败，未检测到签章人根证书!" tooltip="" status="" short=""/>
+		<Item id="34083" title="KCL264_验证签章人根证书失败，签章人证书与该证书的根证书不匹配!" tooltip="" status="" short=""/>
+		<Item id="34084" title="KCL268_验证签章人证书失败，签章人证书与该证书吊销列表不匹配!" tooltip="" status="" short=""/>
+		<Item id="34085" title="离线签章日志文件不存在!" tooltip="" status="" short=""/>
+		
+		<Item id="34086" title="字体大小格式错误" tooltip="" status="" short=""/>
+		<Item id="34087" title="请选中日期格式" tooltip="" status="" short=""/>
+		<Item id="34088" title="骑缝章参数设置错误!" tooltip="" status="" short=""/>
+		<Item id="34089" title="证书信息错误!" tooltip="" status="" short=""/>
+		<Item id="34090" title="获取印章图片失败!" tooltip="" status="" short=""/>
+		<Item id="34091" title="请选择有效的签章后再进行操作" tooltip="" status="" short=""/>
+		<Item id="34092" title="KCL281_验证制章人证书失败，未检测到制章人证书！" tooltip="" status="" short=""/>
+		<Item id="34093" title="KCL273_验证制章人证书失败，制章人证书已过期或未生效!" tooltip="" status="" short=""/>
+		<Item id="34094" title="KCL275_验证制章人证书失败，制章人证书根证书验证未通过!" tooltip="" status="" short=""/>
+		<Item id="34095" title="KCL271_验证制章人证书失败，制章人证书已被吊销！" tooltip="" status="" short=""/>
+		<Item id="34096" title="KCL277_验证制章人证书失败，制章人证书根证书安装未成功!" tooltip="" status="" short=""/>
+		<Item id="34097" title="KCL267_验证制章人证书失败，未检测到制章人证书吊销列表！" tooltip="" status="" short=""/>
+		<Item id="34098" title="KCL263_验证制章人根证书失败，未检测到制章人根证书！" tooltip="" status="" short=""/>
+		<Item id="34099" title="KCL265_验证制章人根证书失败，制章人证书与该证书的根证书不匹配！" tooltip="" status="" short=""/>
+		<Item id="34100" title="KCL269_验证制章人证书失败，制章人证书与该证书吊销列表不匹配！" tooltip="" status="" short=""/>
+		<Item id="34101" title="KCL261_验证签章人证书失败，签章人证书不在印章的签章人证书列表中！" tooltip="" status="" short=""/>
+		<Item id="34102" title="KCL278_验证印章制章时间失败，印章未生效！" tooltip="" status="" short=""/>
+		<Item id="34103" title="KCL279_验证印章制章时间失败，印章已经过期！" tooltip="" status="" short=""/>
+		<Item id="34104" title="硬件密钥盘授权还剩%ld天过期，请尽快续期！" tooltip="" status="" short=""/>
+		
+		<Item id="34105" title="证书校验失败" tooltip="" status="" short=""/>
+		<Item id="34106" title="         请升级iWebPDF2015！&#x000D;&#x000A; &#x000D;&#x000A;    详询： http://www.kinggrid.com" tooltip="" status="" short=""/>
+		<Item id="34107" title="宋体" tooltip="" status="" short=""/>
+			
+		<Item id="34108" title="居上" tooltip="" status="" short=""/>	
+		<Item id="34109" title="居中" tooltip="" status="" short=""/>
+		<Item id="34110" title="居下" tooltip="" status="" short=""/>
+		<Item id="34111" title="左上" tooltip="" status="" short=""/>		
+		<Item id="34112" title="左中" tooltip="" status="" short=""/>
+		<Item id="34113" title="左下" tooltip="" status="" short=""/>
+		<Item id="34114" title="右上" tooltip="" status="" short=""/>
+		<Item id="34115" title="右中" tooltip="" status="" short=""/>
+		<Item id="34116" title="右下" tooltip="" status="" short=""/>
+		<Item id="34117" title="左上外" tooltip="" status="" short=""/>
+		<Item id="34118" title="中上外" tooltip="" status="" short=""/>
+		<Item id="34119" title="右上外" tooltip="" status="" short=""/>
+		<Item id="34120" title="左下外" tooltip="" status="" short=""/>
+		<Item id="34121" title="中下外" tooltip="" status="" short=""/>
+		<Item id="34122" title="右下外" tooltip="" status="" short=""/>
+		<Item id="34123" title="左外上" tooltip="" status="" short=""/>
+		<Item id="34124" title="左外中" tooltip="" status="" short=""/>
+		<Item id="34125" title="左外下" tooltip="" status="" short=""/>
+		<Item id="34126" title="右外上" tooltip="" status="" short=""/>
+		<Item id="34127" title="右外中" tooltip="" status="" short=""/>
+		<Item id="34128" title="右外下" tooltip="" status="" short=""/>
+		
+		<Item id="34129" title="调用签章助手失败！" tooltip="" status="" short=""/>
+		<Item id="34130" title="调用手机盾失败！" tooltip="" status="" short=""/>
+			
+			
+		<Item id="34131" title="验证说明：&#x000D;&#x000A;一、根证书验证为可选项，勾选则进行根证书验证，如果提示根证书已经安装，则不需要选择根证书&#x000D;&#x000A;  文件，否则，需要选择根证书文件。未勾选则不进行根证书验证。&#x000D;&#x000A;二、吊销列表验证为可选项，勾选则进行吊销列表验证，必须选择吊销列表文件，不勾选则不进行&#x000D;&#x000A; 吊销列表验证。&#x000D;&#x000A;三、数字签名验证是默认选项。" tooltip="" status="" short=""/>
+		<Item id="34132" title="根证书验证" tooltip="" status="" short=""/>	
+		<Item id="34133" title="选择" tooltip="" status="" short=""/>	
+		<Item id="34134" title="(未安装)" tooltip="" status="" short=""/>	
+		<Item id="34135" title="验证证书是否是可信第三方证书颁发机构颁发" tooltip="" status="" short=""/>	
+		<Item id="34136" title="吊销列表验证" tooltip="" status="" short=""/>	
+		<Item id="34137" title="(验证数字证书是否已吊销)" tooltip="" status="" short=""/>	
+		<Item id="34138" title="数字签名验证" tooltip="" status="" short=""/>	
+		<Item id="34139" title="验证数字签名信息是否被篡改" tooltip="" status="" short=""/>
+		<Item id="34140" title="(已安装)" tooltip="" status="" short=""/>
+			
+		<Item id="34141" title="证书文件(*.cer;*.p7b)\0*.cer;0*.p7b\0" tooltip="" status="" short=""/>
+		<Item id="34142" title="证书文件(*.crl)\0*.crl\0" tooltip="" status="" short=""/>						
+		<Item id="34143" title="请在此处输入信息" tooltip="" status="" short=""/>						
+		
+		<Item id="34144" title="验证结果" tooltip="" status="" short=""/>						
+		<Item id="34145" title="根证书" tooltip="" status="" short=""/>						
+		<Item id="34146" title="吊销列表" tooltip="" status="" short=""/>
+			
+		<Item id="34147" title="未选择根证书验证！" tooltip="" status="" short=""/>						
+		<Item id="34148" title="验证失败，未找到信任机构根证书！" tooltip="" status="" short=""/>						
+		<Item id="34149" title="验证成功，证书受颁发机构信任！" tooltip="" status="" short=""/>						
+		<Item id="34150" title="验证失败，证书已过期或未生效！" tooltip="" status="" short=""/>						
+		<Item id="34151" title="验证成功，证书不在所指定的吊销列表中！" tooltip="" status="" short=""/>						
+		<Item id="34152" title="验证成功，证书存在所指定的吊销列表中！" tooltip="" status="" short=""/>		
+		<Item id="34153" title="未选择吊销列表验证！" tooltip="" status="" short=""/>
+		<Item id="34154" title="验证成功，文档完好无损！" tooltip="" status="" short=""/>
+		<Item id="34155" title="验证失败，文档已被更改！" tooltip="" status="" short=""/>
+			
+		<Item id="34156" title="签章统计信息" tooltip="" status="" short=""/>
+		<Item id="34157" title="时戳证书" tooltip="" status="" short=""/>	
+			
+		<Item id="34158" title="文档内共有签章" tooltip="" status="" short=""/>
+		<Item id="34159" title="有效签章" tooltip="" status="" short=""/>
+		<Item id="34160" title="无效签章" tooltip="" status="" short=""/>
+		<Item id="34161" title="未保护签章" tooltip="" status="" short=""/>
+			
+		<Item id="34162" title="文档未被保护！" tooltip="" status="" short=""/>
+		<Item id="34163" title="文档已被篡改" tooltip="" status="" short=""/>
+		<Item id="34164" title="（时间戳不可信任）" tooltip="" status="" short=""/>
+		<Item id="34165" title="文档完好无损" tooltip="" status="" short=""/>
+		<Item id="34166" title="（时间戳可信任）" tooltip="" status="" short=""/>
+		<Item id="34167" title="应用程序：" tooltip="" status="" short=""/>	
+		
+		<Item id="34168" title="文档内容保护" tooltip="" status="" short=""/>	
+		<Item id="34169" title="保护区域：" tooltip="" status="" short=""/>	
+		<Item id="34170" title="授权单位：" tooltip="" status="" short=""/>	
+		<Item id="34171" title="用户名称：" tooltip="" status="" short=""/>	
+		<Item id="34172" title="密钥序列：" tooltip="" status="" short=""/>	
+		<Item id="34173" title="签章名称：" tooltip="" status="" short=""/>
+		<Item id="34174" title="签章时间：" tooltip="" status="" short=""/>
+		<Item id="34175" title="(源自时间戳服务器)" tooltip="" status="" short=""/>
+		<Item id="34176" title="计算机IP：" tooltip="" status="" short=""/>
+		<Item id="34177" title="扩展信息：" tooltip="" status="" short=""/>
+		<Item id="34178" title="制章人名：" tooltip="" status="" short=""/>
+		<Item id="34179" title="制章时间：" tooltip="" status="" short=""/>
+		
+		<Item id="34184" title="离线日志" tooltip="" status="" short=""/>
+		<Item id="34185" title="签章+日期" tooltip="" status="" short=""/>
+		<Item id="34186" title="电子签名" tooltip="" status="" short=""/>
+		<Item id="34187" title="签名+日期" tooltip="" status="" short=""/>
+		<Item id="34188" title="撤销签章需要输入密码" tooltip="" status="" short=""/>
+		<Item id="34189" title="请输入密码" tooltip="" status="" short=""/>
+			
+		<Item id="34190" title="年" tooltip="" status="" short=""/>	
+		<Item id="34191" title="月" tooltip="" status="" short=""/>	
+		<Item id="34192" title="日" tooltip="" status="" short=""/>		
+		
+		<Item id="34193" title="保护文档内容" tooltip="" status="" short=""/>	
+		<Item id="34194" title="未生效" tooltip="" status="" short=""/>	
+		<Item id="34195" title="已过期" tooltip="" status="" short=""/>
+		<Item id="34196" title="多页签章" tooltip="" status="" short=""/>
+		<Item id="34197" title="印章类型：" tooltip="" status="" short=""/>	
+		<Item id="34198" title="签章序列：" tooltip="" status="" short=""/>
+		<Item id="34199" title="选择页" tooltip="" status="" short=""/>
+		<Item id="34200" title="数字签名需要输入密码" tooltip="" status="" short=""/>
+		<Item id="34201" title="商密一代" tooltip="" status="" short=""/>
+		<Item id="34202" title="政务印章" tooltip="" status="" short=""/>
+		<Item id="34203" title="文件名称：" tooltip="" status="" short=""/>
+		<Item id="34204" title="(时间源来自于签章服务器)" tooltip="" status="" short=""/>
+		<Item id="34205" title="印章雾化" tooltip="" status="" short=""/>
+		<Item id="34206" title="是" tooltip="" status="" short=""/>
+		<Item id="34207" title="否" tooltip="" status="" short=""/>
+		<Item id="34208" title="加载xml文件失败!" tooltip="" status="" short=""/>
+		<Item id="34209" title="请选择相应的签章!" tooltip="" status="" short=""/>
+		<Item id="34210" title="KCL204_没有进行正确初始化的电子钥匙盘!" tooltip="" status="" short=""/>
+		<Item id="34211" title="函数执行失败，您的操作将取消" tooltip="" status="" short=""/>
+		<Item id="34212" title="KCL209_电子钥匙盘里没有通过审核的印章!" tooltip="" status="" short=""/>
+		<Item id="34213" title="没有找到电子钥匙盘的驱动文件!" tooltip="" status="" short=""/>
+		<Item id="34214" title="验证证书有效性过程中获取证书信息失败!" tooltip="" status="" short=""/>
+		<Item id="34215" title="验证证书有效性过程中转换证书对象失败!" tooltip="" status="" short=""/>
+		<Item id="34216" title="KCL234_数字证书已过期或未生效!" tooltip="" status="" short=""/>
+		<Item id="34217" title="您的证书将在 %d 天后开始生效!" tooltip="" status="" short=""/>
+		<Item id="34218" title="您的证书将在 %d小时%d分%d秒 后开始生效!" tooltip="" status="" short=""/>
+		<Item id="34219" title="您的证书还有 %d小时%d分%d秒 到期，请及时办理证书延期!" tooltip="" status="" short=""/>
+		<Item id="34220" title="您的证书还有 %d 天到期，请及时办理证书延期!" tooltip="" status="" short=""/>
+		<Item id="34221" title="您的证书已过期 %d 天，请及时办理证书延期!" tooltip="" status="" short=""/>
+		<Item id="34222" title="您的证书已过期 %d小时%d分%d秒 ，请及时办理证书延期!" tooltip="" status="" short=""/>
+		<Item id="34223" title="验证失败，证书不受颁发机构信任!" tooltip="" status="" short=""/>
+		<Item id="34224" title="KCL280_验证失败，未知原因的验证失败!" tooltip="" status="" short=""/>
+		<Item id="34225" title="请选择根证书文件路径!" tooltip="" status="" short=""/>
+		<Item id="34226" title="根证书文件路径不存在!" tooltip="" status="" short=""/>
+		<Item id="34227" title="服务器验证证书失败" tooltip="" status="" short=""/>
+		<Item id="34228" title="(时间源来自于本地)" tooltip="" status="" short=""/>
+		<Item id="34229" title="暂不支持此功能!" tooltip="" status="" short=""/>
+		<Item id="34230" title="盖骑缝章文档页数不能小于2页!" tooltip="" status="" short=""/>
+		<Item id="34231" title="签章已失效，您的操作被取消!" tooltip="" status="" short=""/>
+		<Item id="34232" title="数字签名失败，原因:" tooltip="" status="" short=""/>
+		<Item id="34233" title="没有查找到该印章!" tooltip="" status="" short=""/>
+		<Item id="34234" title="检测电子密钥盘异常!" tooltip="" status="" short=""/>
+		<Item id="34235" title="连接服务器失败。" tooltip="" status="" short=""/>
+		<Item id="34235" title="文档内不存在电子签章,不能脱密！" tooltip="" status="" short=""/>
+		<Item id="34237" title="请插入文档中签章的原始电子钥匙盘进行脱密。" tooltip="" status="" short=""/>
+		<Item id="34238" title="电脑未安装二维条码组件!" tooltip="" status="" short=""/>
+		<Item id="34239" title="请在第一页定位签章。" tooltip="" status="" short=""/>
+		<Item id="34240" title="签章失败，操作被取消。" tooltip="" status="" short=""/>
+		<Item id="34241" title="请选择吊销列表文件路径！" tooltip="" status="" short=""/>
+		<Item id="34242" title="吊销列表文件路径不存在！" tooltip="" status="" short=""/>
+		<Item id="34243" title="获取证书内容失败，请退出应用程序后重试！" tooltip="" status="" short=""/>
+		<Item id="34244" title="KCL203_电脑插入了太多电子钥匙盘！" tooltip="" status="" short=""/>
+		<Item id="34245" title="KCL212_非法的电子钥匙盘!" tooltip="" status="" short=""/>
+		<Item id="34246" title="没有签章图片可以制作!" tooltip="" status="" short=""/>
+		<Item id="34247" title="写入签章图片数据失败!" tooltip="" status="" short=""/>
+		
+		<Item id="34248" title="提示" tooltip="" status="" short=""/>
+		<Item id="34249" title="不再提示 (当天有效)" tooltip="" status="" short=""/>
+		<Item id="34250" title="前往续期" tooltip="" status="" short=""/>
+		<Item id="34251" title="电子印章已过期，请尽快续期！" tooltip="" status="" short=""/>
+		<Item id="34252" title="电子印章还有" tooltip="" status="" short=""/>
+		<Item id="34253" title="天" tooltip="" status="" short=""/>
+		<Item id="34254" title="到期,请尽快续期!" tooltip="" status="" short=""/>
+		<Item id="34255" title="钥匙盘还有" tooltip="" status="" short=""/>
+		<Item id="34256" title="错误原因:" tooltip="" status="" short=""/>
+		<Item id="34257" title="没有签名位置" tooltip="" status="" short=""/>
+		<Item id="34258" title="未联网，禁止打印，返回值:" tooltip="" status="" short=""/>
+		<Item id="34259" title="证书容器获取失败" tooltip="" status="" short=""/>
+		<Item id="34260" title="发送验证码" tooltip="" status="" short=""/>
+		<Item id="34261" title="验证码：" tooltip="" status="" short=""/>
+		<Item id="34262" title=" s后刷新" tooltip="" status="" short=""/>
+		<Item id="34263" title="扫码签章" tooltip="" status="" short=""/>
+		<Item id="34264" title="选择主体:" tooltip="" status="" short=""/>
+	</Strings>
+	<Dialogs>		
+	</Dialogs>
+</Localization>

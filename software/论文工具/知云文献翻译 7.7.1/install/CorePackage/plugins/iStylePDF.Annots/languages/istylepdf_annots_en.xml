@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="English" lName="English" lcid="0x0409" prefFont=""/>
+	<Strings>
+		<Item id="206" name="IDD_DIALOG_COMMON" title="General" tooltip="" status="" short=""/>
+		<Item id="207" name="IDD_DIALOG_APPEARANCE" title="Appearance" tooltip="" status="" short=""/>
+		<Item id="32768" name="ID_ANNOTS_MENU_BAR" title="Comments" tooltip="Comments" status="" short=""/>
+		<Item id="32769" name="ID_ANNOTS_TEXT" title="Notes Tool" tooltip="Notes Tool" status="" short=""/>
+		<Item id="32771" name="ID_ANNOTS_LINE" title="Line Tool" tooltip="Line Tool" status="" short=""/>
+		<Item id="32772" name="IDS_ANNOT_PROPERTY" title="Property" tooltip="" status="" short=""/>
+		<Item id="32773" name="IDS_CATEGORIES" title="Categories" tooltip="" status="" short=""/>
+		<Item id="32774" name="ID_OPEN_POPUP" title="Open Popup Window" tooltip="" status="" short=""/>
+		<Item id="32775" name="ID_DEL_ANNOT" title="Delete" tooltip="" status="" short=""/>
+		<Item id="32776" name="ID_PROP_ANNOT" title="Property" tooltip="" status="" short=""/>
+		<Item id="32777" name="ID_ANNOTS_RECT" title="Rectangle Tool" tooltip="Rectangle Tool" status="" short=""/>
+		<Item id="32778" name="ID_ANNOTS_CIRCLE" title="Ellipse Tool" tooltip="Ellipse Tool" status="" short=""/>
+		<Item id="32779" name="ID_ANNOTS_LINEARROW" title="Arrow Tool" tooltip="Arrow Tool" status="" short=""/>
+		<Item id="32780" name="ID_ANNOTS_STAMP" title="Stamp Tool" tooltip="Insert Picture Stamp" status="" short=""/>
+		<Item id="32781" name="ID_ANNOTS_HIGHLIGHT" title="Highlight Text Tool" tooltip="Highlight Text Tool" status="" short=""/>
+		<Item id="32782" name="ID_ANNOTS_STRIKEOUT" title="Strikeout Text Tool" tooltip="Strikeout Text Tool" status="" short=""/>
+		<Item id="32783" name="ID_ANNOTS_UNDERLINE" title="Underline Text Tool" tooltip="Underline Text Tool" status="" short=""/>
+		<Item id="32784" name="ID_ANNOTS_TYPEWRITER" title="Typewriter Tool" tooltip="Typewriter Tool" status="" short=""/>
+		<Item id="32785" name="ID_ANNOTS_TOOLBAR" title="Comment And Markup Toolbar" tooltip="Comment And Markup Toolbar" status="" short=""/>
+		<Item id="32786" name="ID_ANNOTS_LINE_MEASURE" title="Distance Tool" tooltip="Distance Tool" status="" short=""/>
+		<Item id="32787" name="" title="The value must be between -500 and 500." tooltip="" status="" short=""/>
+		<Item id="32788" name="" title="The value must be between 0 and 500." tooltip="" status="" short=""/>
+		<Item id="32789" name="ID_ANNOTS_PRE_MEASURE" title="Perimeter Tool" tooltip="Perimeter Tool" status="" short=""/>
+		<Item id="32790" name="ID_ANNOTS_AREA_MEASURE" title="Area Tool" tooltip="Area Tool" status="" short=""/>
+		<Item id="32791" name="IDS_FINISH_MEASURE" title="Complete" tooltip="" status="" short=""/>
+		<Item id="32792" name="IDS_CANCEL_MEASURE" title="Cancel" tooltip="" status="" short=""/>
+		<Item id="32793" name="" title="Measuring Toolbar" tooltip="" status="" short=""/>
+		<Item id="32795" name="IDS_ANNOT_DEL" title="Delete Annot" tooltip="Delete Annot" status="" short=""/>
+		<Item id="32796" name="ID_ANNOTS_STAMP_MODEL" title="Stamp Model" tooltip="Stamp Model" status="" short=""/>
+		<Item id="32800" name="ID_FREETEXT_CUT" title="Cut" tooltip="" status="" short=""/>
+		<Item id="32801" name="ID_FREETEXT_COPY" title="Copy" tooltip="" status="" short=""/>
+		<Item id="32802" name="ID_FREETEXT_PASTE" title="Paste" tooltip="" status="" short=""/>
+		<Item id="32803" name="ID_FREETEXT_SELECTALL" title="SelectAll" tooltip="" status="" short=""/>
+		<Item id="32804" name="ID_FREETEXT_CANCEL" title="Cancel" tooltip="" status="" short=""/>
+		<Item id="32805" name="ID_ANNOTS_TYPEWRITER_CALLOUT" title="Text Annotation" tooltip="Text Annotation Tool" status="" short=""/>
+		<Item id="32806" name="ID_ANNOTS_PANE" title="AnnotPane" tooltip="" status="" short=""/>
+		<Item id="32807" name="ID_ANNOTS_PAGENO" title="Page %d" tooltip="" status="" short=""/>
+		<Item id="32808" name="ID_ANNOTS_SEARCH" title="Search" tooltip="" status="" short=""/>
+		<Item id="32809" name="ID_MEASUREMENT_AREA" title="sq" tooltip="" status="" short=""/>
+		<Item id="32810" name="ID_MEASUREMENT_PT" title="pt" tooltip="" status="" short=""/>
+		<Item id="32811" name="ID_MEASUREMENT_INCH" title="in" tooltip="" status="" short=""/>
+		<Item id="32812" name="ID_MEASUREMENT_MM" title="mm" tooltip="" status="" short=""/>
+		<Item id="32813" name="ID_MEASUREMENT_CM" title="cm" tooltip="" status="" short=""/>
+		<Item id="32814" name="ID_MEASUREMENT_FT" title="ft" tooltip="" status="" short=""/>
+		<Item id="32815" name="ID_MEASUREMENT_YARD" title="yd" tooltip="" status="" short=""/>
+		<Item id="32816" name="ID_MEASUREMENT_METER" title="m" tooltip="" status="" short=""/>
+		<Item id="32817" name="ID_MEASUREMENT_KM" title="km" tooltip="" status="" short=""/>
+		<Item id="32818" name="ID_MEASUREMENT_MILE" title="mi" tooltip="" status="" short=""/>
+		<Item id="32900" name="ID_RROTATE_ANNOT" title="clockwise" tooltip="" status="" short=""/>
+		<Item id="32901" name="ID_LROTATE_ANNOT" title="anticlockwise" tooltip="" status="" short=""/>		
+	</Strings>
+	<Dialogs>
+		<Dialog id="205" name="IDD_DIALOG_CATEGORIES" title="">
+			<Item id="1" name="IDOK" title="OK"/>
+			<Item id="2" name="IDCANCEL" title="Cancel"/>
+		</Dialog>
+		<Dialog id="206" name="IDD_DIALOG_COMMON" title="General">
+			<Item id="1000" name="IDC_STATIC_AUTHOR" title="Author:" tooltip=""/>
+			<Item id="1001" name="IDC_STATIC_SUBJECT" title="Subject:" tooltip=""/>
+			<Item id="1002" name="IDC_STATIC_CREATION" title="Created:" tooltip=""/>
+			<Item id="1003" name="IDC_STATIC_MODIFIED" title="Modified:" tooltip=""/>
+		</Dialog>
+		<Dialog id="207" name="IDD_DIALOG_DRAW_APPEARANCE" title="Appearance">
+			<Item id="1009" name="IDC_STATIC_COLOR" title="Stroke Color:" tooltip=""/>
+			<Item id="1010" name="IDC_STATIC_TRANSPARENT" title="Opacity:" tooltip=""/>
+			<Item id="1012" name="IDC_STATIC_WIDTH" title="Border Width:" tooltip=""/>
+			<Item id="1015" name="IDC_STATIC_COLOR2" title="Fill Color:" tooltip=""/>
+			<Item id="1016" name="IDC_STATIC_START_STYLE" title="Line Starting Style:" tooltip=""/>
+			<Item id="1017" name="IDC_STATIC_END_STYLE" title="Line Ending Style:" tooltip=""/>
+			<Item id="1042" name="IDC_STATIC_LL" title="Leading Length:" tooltip=""/>
+			<Item id="1024" name="IDC_STATIC_LLE" title="Leading Extension:" tooltip=""/>
+		</Dialog>
+		<Dialog id="220" name="IDD_DIALOG_MARKUP_APPEARANCE" title="Appearance">
+			<Item id="1009" name="IDC_STATIC_COLOR" title="Fill Color:" tooltip=""/>
+			<Item id="1010" name="IDC_STATIC_TRANSPARENT" title="Opacity:" tooltip=""/>
+		</Dialog>
+		<Dialog id="225" name="IDD_DIALOG_FREEWRITE_CFG" title="">
+			<Item id="1053" name="IDC_STATIC_SIZE" title="Font Size" tooltip=""/>
+			<Item id="1054" name="IDC_STATIC_CLR" title="Text Color" tooltip=""/>
+		</Dialog>
+		<Dialog id="227" name="IDD_DIALOG_STAMP_MODEL" title="StampModel">
+			<Item id="1055" name="IDC_ST_TYPE" title="  Stamp  Style:"/>
+			<Item id="1050" name="IDC_OK_BTN" title="OK"/>
+			<Item id="2" name="IDCANCEL" title="Cancel"/>
+		</Dialog>
+		<Dialog id="228" name="IDD_DIALOG_STAMP_MODEL_001_DLG" title="">
+			<Item id="1056" name="IDC_ST_CONTENT" title="Contents:"/>
+			<Item id="1057" name="IDC_ST_DATETIME" title="DateTime:"/>
+			<Item id="1058" name="IDC_ST_INDEX" title="   Number:"/>
+			<Item id="1059" name="IDC_ST_COLOR" title="       Color:"/>
+		</Dialog>
+		<Dialog id="229" name="IDD_DIALOG_STAMP_MODEL_002_DLG" title="">
+			<Item id="1056" name="IDC_ST_CONTENT2" title="Contents:"/>
+			<Item id="1057" name="IDC_ST_DATETIME2" title="DateTime:"/>
+			<Item id="1058" name="IDC_ST_INDEX2" title="   Number:"/>
+			<Item id="1059" name="IDC_ST_COLOR2" title="       Color:"/>
+		</Dialog>
+		<Dialog id="107" name="IDD_WPMEASURESETTINGS" title="Distance Tool">
+			<Item id="1025" name="IDC_ST_GROUP_M" title="Measurement"/>
+			<Item id="1026" name="IDC_ST_GROUP_O" title="Position"/>
+			<Item id="1027" name="IDC_ST_GROUP_S" title="Scale"/>
+			<Item id="1028" name="IDC_ST_DISTANCE" title=" Distance:"/>
+			<Item id="1029" name="IDC_ST_INDEX2" title="Angle:"/>
+			<Item id="1035" name="IDC_ST_PERIMETER" title="Perimeter:"/>
+			<Item id="1037" name="IDC_ST_AREA" title="Area:"/>
+			<Item id="1043" name="IDC_CHECK_USE_SCALE" title="if the document have scale and units,Please used."/>
+			<Item id="2" name="IDCANCEL" title="Close"/>
+		</Dialog>
+	</Dialogs>
+</Localization>

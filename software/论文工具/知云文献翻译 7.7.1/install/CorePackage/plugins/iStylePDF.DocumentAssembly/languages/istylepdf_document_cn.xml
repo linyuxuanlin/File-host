@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (PRC)" lName="简体中文" lcid="0x0804" prefFont=""/>
+	<Strings>
+		<Item id="200" name="IDS_DOCUMENT_MENU_BAR" title="文档(&D)" tooltip="" status="" short=""/>
+		<Item id="201" name="IDS_INSERT_PAGES" title="插入页面..." tooltip="" status="" short=""/>
+		<Item id="202" name="IDS_INSERT_EMPTY" title="插入空白页面..." tooltip="" status="" short=""/>
+		<Item id="203" name="IDS_EXTRACT_PAGES" title="提取页面..." tooltip="" status="" short=""/>
+		<Item id="204" name="IDS_DEL_PAGES" title="删除页面..." tooltip="" status="" short=""/>
+		<Item id="205" name="IDS_ROTATE_PAGES" title="旋转页面..." tooltip="" status="" short=""/>
+		<Item id="206" name="IDS_CROP_PAGES" title="裁剪页面..." tooltip="" status="" short=""/>
+		<Item id="398" name="IDS_SPLIT_PAGES" title="拆分页面..." tooltip="" status="" short=""/>
+		<Item id="405" name="IDC_EXPORT_TXT" title="PDF转TXT..." tooltip="" status="" short=""/>
+		<Item id="285" name="IDC_STATIC_INSERTPAGES" title="（总计%d页）" tooltip="" status="" short=""/>
+		<Item id="3000" name="IDC_DELETESPAGES_RETAINONEPAGE" title="无法删除所有页面,必须至少保留一页。" tooltip="" status="" short=""/>
+		<Item id="3001" name="IDC_DELETESPAGES_DELETEWARRING" title="起始页码必须小于或等于结束页码。" tooltip="" status="" short=""/>
+		<Item id="3002" name="IDC_DELETESPAGES_STRINGVALUE1" title="本文档中没有页码为&quot;%d&quot;的页面。" tooltip="" status="" short=""/>
+		<Item id="3003" name="IDC_DELETESPAGES_STRINGVALUE2" title="确认删除页面&quot;%d&quot;吗？" tooltip="" status="" short=""/>
+		<Item id="3004" name="IDC_DELETESPAGES_STRINGVALUE3" title="确认要删除&quot;%d&quot;到&quot;%d&quot;的页面吗？" tooltip="" status="" short=""/>
+		<Item id="3005" name="IDC_DELETESPAGES_STRINGVALUE4" title="该文件已存在,请重新另存新路径保存文件!" tooltip="" status="" short=""/>
+		<Item id="3006" name="IDC_DELETESPAGES_STRINGVALUE5" title="该文件不存在或选中的文件是不合法文件!" tooltip="" status="" short=""/>
+		<Item id="3007" name="IDC_DELETESPAGES_STRINGVALUE6" title="所选择文档的插入位置不能为空!" tooltip="" status="" short=""/>
+		<Item id="3008" name="IDC_DELETESPAGES_STRINGVALUE7" title="没有足够的权限插入该文件,请重新选择要插入的文件!" tooltip="" status="" short=""/>
+		<Item id="3009" name="IDC_DELETESPAGES_STRINGVALUE8" title="选取的保存路径不存在或是不合法,请重新选择!" tooltip="" status="" short=""/>
+		<Item id="4000" name="IDS_EMPTYPAGE_A0" title="A0" tooltip="" status="" short=""/>
+		<Item id="4001" name="IDS_EMPTYPAGE_A1" title="A1" tooltip="" status="" short=""/>
+		<Item id="4002" name="IDS_EMPTYPAGE_A2" title="A2" tooltip="" status="" short=""/>
+		<Item id="4003" name="IDS_EMPTYPAGE_A3" title="A3" tooltip="" status="" short=""/>
+		<Item id="4004" name="IDS_EMPTYPAGE_A4" title="A4" tooltip="" status="" short=""/>
+		<Item id="4005" name="IDS_EMPTYPAGE_A5" title="A5" tooltip="" status="" short=""/>
+		<Item id="4006" name="IDS_EMPTYPAGE_B0" title="B0" tooltip="" status="" short=""/>
+		<Item id="4007" name="IDS_EMPTYPAGE_B1" title="B1" tooltip="" status="" short=""/>
+		<Item id="4008" name="IDS_EMPTYPAGE_B2" title="B2" tooltip="" status="" short=""/>
+		<Item id="4009" name="IDS_EMPTYPAGE_B3" title="B3" tooltip="" status="" short=""/>
+		<Item id="4010" name="IDS_EMPTYPAGE_B4" title="B4" tooltip="" status="" short=""/>
+		<Item id="4011" name="IDS_EMPTYPAGE_B5" title="B5" tooltip="" status="" short=""/>		
+		<Item id="4012" name="IDS_EMPTYPAGE_LETTER_ANSIA" title="letter/ANSI A" tooltip="" status="" short=""/>
+		<Item id="4013" name="IDS_EMPTYPAGE_TABLOID_ANSIB" title="Tabloid/ANSI B" tooltip="" status="" short=""/>
+		<Item id="4014" name="IDS_EMPTYPAGE_ANSISUPERB" title="ANSI Super B" tooltip="" status="" short=""/>
+		<Item id="4015" name="IDS_EMPTYPAGE_ANSIC" title="ANSI C" tooltip="" status="" short=""/>
+		<Item id="4016" name="IDS_EMPTYPAGE_ANSID" title="ANSI D" tooltip="" status="" short=""/>
+		<Item id="4017" name="IDS_EMPTYPAGE_ANSIE" title="ANSI E" tooltip="" status="" short=""/>
+		<Item id="4018" name="IDS_EMPTYPAGE_ANSIF" title="ANSI F" tooltip="" status="" short=""/>
+		<Item id="4019" name="IDS_EMPTYPAGE_UILEGAL" title="US Legal" tooltip="" status="" short=""/>
+		<Item id="4020" name="IDS_EMPTYPAGE_STATEMENT" title="Statement" tooltip="" status="" short=""/>
+		<Item id="4021" name="IDS_EMPTYPAGE_EXECUTIVE" title="Executive" tooltip="" status="" short=""/>
+		<Item id="4022" name="IDS_EMPTYPAGE_FOLIO" title="Folio" tooltip="" status="" short=""/>
+		<Item id="4023" name="IDS_EMPTYPAGE_QUARTO" title="Quarto" tooltip="" status="" short=""/>
+		<Item id="4024" name="IDS_EMPTYPAGE_NOTE" title="Note" tooltip="" status="" short=""/>
+		<Item id="4025" name="IDS_EMPTYPAGE_ENVELOPE9" title="Envelop #9" tooltip="" status="" short=""/>
+		<Item id="4026" name="IDS_EMPTYPAGE_ENVELOPE10" title="Envelop #10" tooltip="" status="" short=""/>
+		<Item id="4027" name="IDS_EMPTYPAGE_ENVELOPE11" title="Envelop #11" tooltip="" status="" short=""/>
+		<Item id="4028" name="IDS_EMPTYPAGE_ENVELOPE14" title="Envelop #14" tooltip="" status="" short=""/>
+		<Item id="4029" name="IDS_EMPTYPAGE_ENVELOPEDL" title="Envelop DL" tooltip="" status="" short=""/>
+		<Item id="4030" name="IDS_EMPTYPAGE_ENVELOPEC3" title="Envelop C3" tooltip="" status="" short=""/>
+		<Item id="4031" name="IDS_EMPTYPAGE_ENVELOPEC4" title="Envelop C4" tooltip="" status="" short=""/>
+		<Item id="4032" name="IDS_EMPTYPAGE_ENVELOPEC5" title="Envelop C5" tooltip="" status="" short=""/>
+		<Item id="4033" name="IDS_EMPTYPAGE_ENVELOPEC6" title="Envelop C6" tooltip="" status="" short=""/>
+		<Item id="4034" name="IDS_EMPTYPAGE_ENVELOPEC65" title="Envelop C65" tooltip="" status="" short=""/>
+		<Item id="4035" name="IDS_EMPTYPAGE_ENVELOPEB4" title="Envelop B4" tooltip="" status="" short=""/>
+		<Item id="4036" name="IDS_EMPTYPAGE_ENVELOPEB5" title="Envelop B5" tooltip="" status="" short=""/>
+		<Item id="4037" name="IDS_EMPTYPAGE_ENVELOPEB6" title="Envelop B6" tooltip="" status="" short=""/>
+		<Item id="4038" name="IDS_EMPTYPAGE_MONARCH" title="Env.Monarch" tooltip="" status="" short=""/>
+		<Item id="4039" name="IDS_EMPTYPAGE_PERSONAL" title="Env.Personal" tooltip="" status="" short=""/>
+		<Item id="4040" name="IDS_EMPTYPAGE_18X24" title="18x24" tooltip="" status="" short=""/>
+		<Item id="4041" name="IDS_EMPTYPAGE_24X36" title="24x36" tooltip="" status="" short=""/>
+		<Item id="4042" name="IDS_EMPTYPAGE_30X24" title="30x24" tooltip="" status="" short=""/>
+		<Item id="5000" name="IDS_UNITCONVERSION_CENTIMETER" title="厘米" tooltip="" status="" short=""/>
+		<Item id="5001" name="IDS_UNITCONVERSION_INCHES" title="英寸" tooltip="" status="" short=""/>
+		<Item id="5002" name="IDS_UNITCONVERSION_MILLIMETER" title="毫米" tooltip="" status="" short=""/>
+		<Item id="5003" name="IDS_UNITCONVERSION_PIXEL" title="像素" tooltip="" status="" short=""/>
+		<Item id="5004" name="IDS_UNITCONVERSION_POINT" title="点" tooltip="" status="" short=""/>
+		<Item id="6000" name="IDS_LOCATION_BEFORE" title="之前" tooltip="" status="" short=""/>
+		<Item id="6001" name="IDS_LOCATION_BEHIND" title="之后" tooltip="" status="" short=""/>
+		<Item id="6002" name="IDC_STATIC_TOTALPAGES" title="（总计%d页）" tooltip="" status="" short=""/>
+		<Item id="32768" name="IDS_CLOCKWISE_90" title="顺时针90度" tooltip="" status="" short=""/>
+		<Item id="32769" name="IDS_UNCLOCKWISE_90" title="逆时针90度" tooltip="" status="" short=""/>
+		<Item id="32770" name="IDS_CLOCK_180" title="180度" tooltip="" status="" short=""/>
+		<Item id="32771" name="IDS_ODD_EVEN" title="全部页面" tooltip="矩形工具" status="" short=""/>
+		<Item id="32772" name="IDS_ODD" title="仅双数页" tooltip="" status="" short=""/>
+		<Item id="32773" name="IDS_EVEN" title="仅单数页" tooltip="" status="" short=""/>
+		<Item id="32774" name="IDS_LANDSCAPE" title="横向页面" tooltip="" status="" short=""/>
+		<Item id="32775" name="IDS_PORTRAIT" title="纵向页面" tooltip="" status="" short=""/>
+		<Item id="32776" name="IDS_ANY_DIRECTION" title="任意方向页面" tooltip="" status="" short=""/>
+		<Item id="32777" name="IDS_HEADER_FOOTER" title="页眉和页脚" tooltip="" status="" short=""/>
+		<Item id="32778" name="IDS_HEADER_FOOTER_ADD" title="添加..." tooltip="" status="" short=""/>
+		<Item id="32779" name="IDS_HEADER_FOOTER_UPDATE" title="更新..." tooltip="" status="" short=""/>
+		<Item id="32780" name="IDS_HEADER_FOOTER_DEL" title="删除..." tooltip="" status="" short=""/>
+		<Item id="32781" name="IDS_HEADER_TIP_UPDATE" title="本文件已包含页眉或页脚，您确定要替换现有的页眉或页脚吗？&#x000A;&#x000A;&#x000A;如果不替换则有可能覆盖现有的页眉或页脚。" tooltip="" status="" short=""/>
+		<Item id="32782" name="IDS_HEADER_TIP_DEL" title="您确定要永久删除页眉和页脚信息吗？" tooltip="" status="" short=""/>
+		<Item id="32783" name="IDS_HEADER_TIP_NO_HEAD" title="iStylePDF无法在本文件中找到任何页眉或页脚信息，如果您看到页眉或页脚信息，其并不是Adobe或者iStylePDF添加的，因此无法被检测到。" tooltip="" status="" short=""/>
+		<Item id="32784" name="IDS_FONT_SIZE_TIP" title="数值在&quot;1&quot;到&quot;10000&quot;之间" tooltip="" status="" short=""/>
+		<Item id="32785" name="IDS_TXT_CROP" title="裁剪框"   tooltip="" status="" short=""/>
+		<Item id="32786" name="IDS_TXT_BLEED" title="溢出框"   tooltip="" status="" short=""/>
+		<Item id="32787" name="IDS_TXT_TRIM" title="修剪框"   tooltip="" status="" short=""/>
+		<Item id="32788" name="IDS_TXT_ART" title="艺术框"   tooltip="" status="" short=""/>
+		<Item id="32789" name="IDS_TXT_ALLPAGE" title="全部页面" tooltip="" status="" short=""/>
+		<Item id="32790" name="IDS_TXT_ODDPAGE" title="仅奇数页" tooltip="" status="" short=""/>
+		<Item id="32791" name="IDS_TXT_EVENPAGE" title="仅偶数页" tooltip="" status="" short=""/>
+		<Item id="32792" name="IDC_ST_TOTALPAGES" title="总计%d页"/>
+		<Item id="32793" name="IDC_ST_CROPPAGESIZE" title="裁剪页面尺寸: %.2f * %.2f 毫米"/>
+		<Item id="32794" name="IDC_TXT_SEPARATOR" title="部分"/>
+		<Item id="32795" name="IDC_TXT_SPLITTIP" title="文档将被拆分成%d份"/>
+		<Item id="32796" name="IDC_TXT_SPLITWARN" title="拆分页码中存在异常的字符串请检查"/>
+		<Item id="32797" name="IDC_TXT_EXPORTTXTWARN" title="页面范围非法"/>
+	</Strings>
+	<Dialogs>
+		<Dialog id="107"   name="IDD_SPROATEPAGES" title="旋转页面">
+			<Item id="1"   name="IDOK" title="确定"/>
+			<Item id="2"   name="IDCANCEL" title="取消"/>
+			<Item id="212" name="IDC_STATIC_DIRECTION" title="方向："/>
+			<Item id="213" name="IDC_STATIC_GROUP_PAGERANGE" title="页面范围"/>
+			<Item id="214" name="IDC_RADIO_ALL" title="所有页面"/>
+			<Item id="215" name="IDC_RADIO_SELECTED_PAGE" title="选定的页面"/>
+			<Item id="216" name="IDC_RADIO_PAGES" title="页面"/>
+			<Item id="217" name="IDC_STATIC_FROM" title="从："/>
+			<Item id="218" name="IDC_RADIO_PAGES" title="到"/>  
+			<Item id="301" name="IDC_STATIC_ROTATE" title="旋转:"/>
+		</Dialog>
+		<Dialog id="109"   name="IDD_SPDELETEPAGES" title="删除页面">
+			<Item id="1"   name="IDOK" title="确定"/>
+			<Item id="2"   name="IDCANCEL" title="取消"/>
+			<Item id="298" name="IDC_STATIC_PAGERANGE" title="页面范围"/>
+			<Item id="220" name="IDC_DELETEPAGES_SELECTPAGES" title="选定的页面"/>			
+			<Item id="221" name="IDC_STATIC_DELETEPAGES_FROM" title="从："/>
+			<Item id="222" name="IDC_STATIC_DELETEPAGES_TO" title="到"/>
+		</Dialog>
+		<Dialog id="110" name="IDD_SPDELETEPAGESMESSAGEBOX1" title="iStylePDF">
+			<Item id="1"   name="IDOK" title="确定"/>
+		</Dialog> 
+		<Dialog id="111" name="IDD_SPDELETEPAGESMESSAGEBOX2" title="iStylePDF">
+			<Item id="1"   name="IDOK" title="是"/>
+			<Item id="2"   name="IDCANCEL" title="否"/>
+		</Dialog> 
+		<Dialog id="117"   name="IDD_SPINSERTEMPTYPAGE" title="插入空白页">
+			<Item id="1"   name="IDOK" title="确定"/>
+			<Item id="2"   name="IDCANCEL" title="取消"/>
+			<Item id="265" name="IDC_STATIC_PAGES" title="页面大小"/>
+			<Item id="233" name="IDC_RADIO_STANDARD" title="标准"/>
+			<Item id="212" name="IDC_STATIC_DIRECTION" title="方向:"/>
+			<Item id="244" name="IDC_RADIO_VERTICAL" title="垂直"/> 
+			<Item id="245" name="IDC_RADIO_LEVEL" title="水平"/>
+			<Item id="246" name="IDC_STATIC_OBJECTIVE" title="目标"/>
+			<Item id="247" name="IDC_STATIC_LOCATION" title="位置:"/>
+			<Item id="250" name="IDC_RADIO_FRIESTPAGE" title="第一页"/>	
+			<Item id="251" name="IDC_STATIC_SOURCE" title="最末页"/>	
+			<Item id="252" name="IDC_STATIC_SOURCE" title="页"/>			
+		</Dialog>
+		<Dialog id="118" name="IDD_SPINSERTPAGE" title="插入页面">
+			<Item id="1"   name="IDOK" title="确定"/>
+			<Item id="2"   name="IDCANCEL" title="取消"/>
+			<Item id="251" name="IDC_RADIO_ENDPAGE" title="最末页"/>
+			<Item id="252" name="IDC_RADIO_ANYPAGE" title="页"/>
+			<Item id="265" name="IDC_RADIO_FILESOURCE" title="从文件"/>
+			<Item id="267" name="IDC_BUTTON_BROWSE" title="浏览..."/> 
+			<Item id="279" name="IDC_STATIC_INSERTLOCATION" title="位置:"/>
+			<Item id="281" name="IDC_RADIO_FIRSTPAGE" title="第一页"/>
+			<Item id="296" name="IDC_STATIC_OBJECT" title="目标"/>
+			<Item id="297" name="IDC_STATIC_SOURCE" title="来源"/>				
+		</Dialog>
+		<Dialog id="119" name="IDD_SPEXTRACTPAGES" title="提取页面">
+			<Item id="1"   name="IDOK" title="确定"/>
+			<Item id="2"   name="IDCANCEL" title="取消"/>
+			<Item id="286" name="IDC_STATIC_EXTRACTPAGES" title="页面范围"/>
+			<Item id="289" name="IDC_RADIO_ALLPAGES" title="全部(A)"/>
+			<Item id="261" name="IDC_CHECK_OPTION1" title="提取后删除页面(D)"/>
+			<Item id="262" name="IDC_CHECK_OPTION2" title="保存提取的页面到新文件(P)"/>
+			<Item id="291" name="IDC_RADIO_CURRENTPAGE" title="当前页面"/>
+			<Item id="292" name="IDC_RADIO_ANYPAGES" title="页:"/> 
+			<Item id="272" name="IDC_STATIC_STARTPAGE" title="从:"/>
+			<Item id="274" name="IDC_STATIC_ENDPAGE" title="到"/>
+			<Item id="287" name="IDC_STATIC_EXTRACTOPTION" title="选项"/>
+			<Item id="288" name="IDC_STATIC_EXTRACTSAVE" title="另存为"/>
+			<Item id="293" name="IDC_STATIC_DESTINATIONFOLDER" title="目标文件路径(F)"/>
+			<Item id="295" name="IDC_BUTTON_SAVEFILE" title="浏览(W)..."/> 
+		</Dialog>
+		<Dialog id="121" name="IDD_SPADDHEADERFOOTER" title="添加页眉和页脚">
+			<Item id="339"   name="ID_OK" title="确定"/>
+			<Item id="2"   name="IDCANCEL" title="取消"/>
+			<Item id="307" name="IDC_ST_FONT_INFO" title="字体"/>
+			<Item id="308" name="IDC_ST_FONT_SIZE" title="大小"/>
+			<Item id="310" name="IDC_ST_PAGE_GAP" title="页边距(厘米)"/>
+			<Item id="311" name="IDC_ST_TOP" title="上"/>
+			<Item id="312" name="IDC_ST_BOTTOM" title="下"/>
+			<Item id="313" name="IDC_ST_LEFT" title="左"/> 
+			<Item id="314" name="IDC_ST_RIGHT" title="右"/>
+			<Item id="315" name="IDC_ST_LEFT_HEADER" title="左侧页眉文本"/>
+			<Item id="316" name="IDC_ST_CENTER_HEADER" title="中间页眉文本"/>
+			<Item id="317" name="IDC_ST_RIGHT_HEADER" title="右侧页眉文本"/>
+			<Item id="318" name="IDC_ST_LEFT_FOOTER" title="左侧页脚文本"/>
+			<Item id="319" name="IDC_ST_CENTER_FOOTER" title="中间页脚文本"/>
+			<Item id="320" name="IDC_ST_RIGHT_FOOTER" title="右侧页脚文本"/>
+			<Item id="321" name="IDC_BTN_INSERT_PAGENUM" title="插入页码"/>
+			<Item id="322" name="IDC_BTN_INSERT_DATE" title="插入日期"/>
+			<Item id="341" name="IDC_BTN_SETTINGS" title="设置..."/>
+		</Dialog>
+		<Dialog id="122" name="IDD_SPSETTINGSDLG" title="页码和日期格式">
+			<Item id="1"   name="IDOK" title="确定"/>
+			<Item id="2"   name="IDCANCEL" title="取消"/>
+			<Item id="342" name="IDC_ST_DATE_FORMAT" title="日期格式："/>
+			<Item id="343" name="IDC_ST_PAGE_FORMAT" title="页码格式："/>
+		</Dialog>
+		
+		<Dialog id="2006"   name="IDD_SPSPLITEDOC" title="拆分页面">
+			<Item id="1"    name="IDOK" title="确定"/>
+			<Item id="8"    name="IDCLOSE" title="取消"/>
+			<Item id="397"  name="IDC_ST_SPLITDOC" title="拆分文档"/>
+		</Dialog>
+		<Dialog id="123" name="IDD_SPCROPPAGES" title="PDF页面裁剪">
+			<Item id="123" name="IDD_SPCROPPAGES" title="PDF页面裁剪"/>
+			<Item id="350" name="IDC_ST_PREVIEW" title="预览"/>
+			<Item id="348" name="IDC_ST_GP_CROP_MARGINS" title="裁剪外边框"/>
+			<Item id="353" name="IDC_ST_CROPSTYLE" title="边框"/>
+			<Item id="351" name="IDC_CHK_ALLCROP" title="显示所有"/>
+			<Item id="366" name="IDC_ST_MARGIN_CTL" title="外边框控制(单位：毫米)"/>
+			<Item id="354" name="IDC_ST_CROP_TOP" title="上边距:"/>
+			<Item id="357" name="IDC_ST_CROP_BOTTOM" title="下边距:"/>
+			<Item id="361" name="IDC_ST_CROP_LEFT" title="左边距:"/>
+			<Item id="363" name="IDC_ST_CROP_RIGHT" title="右边距:"/>
+			<Item id="367" name="IDC_BTN_ZERO" title="设置为零边距"/>
+			<Item id="368" name="IDC_BTN_CROP_BLANK" title="重置"/>
+			<Item id="349" name="IDC_ST_PAGERANGE" title="页面范围"/>
+			<Item id="369" name="IDC_RADIO_CROP_ALLPAGES" title="所有页面"/>
+			<Item id="370" name="IDC_RADIO_CROP_CURRENTPAGE" title="当前页面"/>
+			<Item id="371" name="IDC_RADIO_CROP_ANYPAGES" title="范围页面"/>
+			<Item id="374" name="IDC_ST_APPLYTO" title="应用到："/>
+			<Item id="101" name="IDR_DOCUMENTASSEMBLYADDIN" title="确定"/>
+			<Item id="2"   name="IDCANCEL" title="取消"/>
+		</Dialog>
+		<Dialog id="2006"  name="IDD_SPSPLITEDOC" title="PDF页面拆分">
+			<Item id="2006" name="IDD_SPSPLITEDOC" title="PDF页面拆分"/>
+			<Item id="397" name="IDC_ST_SPLITDOC" title="拆分文档"/>
+			<Item id="380" name="IDC_RADIO_PAGE"  title="页数"/>
+			<Item id="399" name="IDC_TIPSTATIC"   title=""/>
+			<Item id="381" name="IDC_RADIO_PAGERANGE" title="页面范围"/>
+			<Item id="349" name="IDC_ST_PAGERANGE" title="(例：1,2-3,8-10)"/>
+			<Item id="386" name="IDC_ST_OUTPUTPATH" title="文档路径"/>
+			<Item id="387" name="IDC_RADIO_SRCPATH" title="和原始文件保存在同一文件夹下"/>
+			<Item id="388" name="IDC_RADIO_SCANPATH" title="保存到"/>
+			<Item id="390" name="IDC_BUTTON_SCAN" title="浏览..."/>
+			<Item id="408" name="IDC_GROUPDOCNAME" title="文档名称"/>
+			<Item id="391" name="IDC_RADIO_DOCNAME1" title="在原始文件名前添加标签和编号"/>
+			<Item id="392" name="IDC_RADIO_DOCNAME2" title="在原始文件名后添加标签和编号"/>
+			<Item id="393" name="IDC_CHK_LABEL" title="使用标签:"/>
+			<Item id="394" name="IDC_CHK_SEPARATOR" title="在原始文件名和标签之间使用分隔符:"/>
+			<Item id="395" name="IDC_CHK_COVER" title="不要覆盖已有文件"/>
+			<Item id="1"   name="IDOK"    title="确定"/>
+			<Item id="8"   name="IDCLOSE" title="取消"/>
+		</Dialog>
+		<Dialog id="2007"  name="IDD_EXPORTTXTDLG" title="PDF转TXT">
+			<Item id="409" name="IDC_EXPORTTXT_PAGERANGE" title="页面范围:"/>
+			<Item id="410" name="IDC_EXPORTTXT_TO" title="到"/>
+			<Item id="411" name="IDC_EXPORTTXT_PAGE" title="页"/>
+			<Item id="412" name="IDC_EXPORTTXT_OUTDIR" title="输出目录:"/>
+			<Item id="401" name="IDC_EXPORTTXT_BROWSE" title="浏览..."/>
+			<Item id="1" name="IDOK" title="确定"/>
+		</Dialog>
+	</Dialogs>
+</Localization>

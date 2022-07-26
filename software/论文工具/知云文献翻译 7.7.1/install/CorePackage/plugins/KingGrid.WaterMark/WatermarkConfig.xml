@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<iStylePDF>
+	<WaterMarkModel select="1" visible="1">
+		<WaterMark1 name="[未指定]" type="1" text="" fontname="SimSun" fontsize="72" underline="" fontcolor="0x00000000" fontstyle="" rotate="0" alpha="100" bScale="true" scale="50" updown="1" nApOption="0" HPos="0" HFrom="2" VPos="0" VFrom="2" />
+		<WaterMark2 name="[自定义-未保存]" />
+	</WaterMarkModel>
+	<Options />
+</iStylePDF>

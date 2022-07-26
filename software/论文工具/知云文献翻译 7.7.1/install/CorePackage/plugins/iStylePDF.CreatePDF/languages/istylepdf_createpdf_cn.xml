@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (PRC)" lName="简体中文" lcid="0x0804" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDOK" title="确定"/>
+		<Item id="2" name="IDCANCEL" title="取消"/>
+		<Item id="201" name="IDS_CREATE_PDF" title="创建PDF"/>
+		<Item id="202" name="IDS_CREATE_BLANK" title="从空白页面"/>
+		<Item id="203" name="IDS_CREATE_FILE" title="从文件..."/>
+		<Item id="305" name="IDS_MERGE_FILE" title="合并文件..."/>
+		<Item id="306" name="IDS_CREATE_SCANNER" title="从扫描仪..."/>
+		<Item id="32768" name="ID_POPUP_DELETE" title="删除"/>
+		<Item id="32771" name="ID_POPUP_UP" title="上移"/>
+		<Item id="32770" name="ID_POPUP_DOWN" title="下移"/>
+		<Item id="32772" name="IDS_LIST_PATH" title="路径"/>
+		<Item id="32773" name="IDS_LIST_SIZE" title="大小"/>
+	</Strings>
+	<Dialogs>
+		<Dialog id="120" name="IDD_SPMERGEPDFDLG" title="合并文件">
+			<Item id="302" name="IDC_BTN_ADD_FILE" title="添加文件"/>
+			<Item id="303" name="IDC_BTN_ADD_FOLDER" title="添加文件夹"/>
+			<Item id="204" name="IDC_BTN_MERGE" title="合并文件"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+		</Dialog>	
+	</Dialogs>
+</Localization>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GoldGrid>
+	<iStylePDFXML>
+		<bAutoZoom>1</bAutoZoom>
+		<bAutoVerify>0</bAutoVerify>
+		<bSigByRect>0</bSigByRect>
+		<SealMode>0</SealMode>
+		<CSPName></CSPName>
+		<SignatureType>0</SignatureType>
+		<AllowSignName>0</AllowSignName>
+		<VerifyCert>1</VerifyCert>
+		<SignatureMode>1</SignatureMode>
+		<AutoCertificate>0</AutoCertificate>
+		<SignByCalibrary>1</SignByCalibrary>
+		<bStraddleAddTime>0</bStraddleAddTime>
+		<MenuPrintSetting>0</MenuPrintSetting>
+		<RemSignatureName></RemSignatureName>
+		<SignatureRotation>0</SignatureRotation>
+		<RemCheckMixSeal>1</RemCheckMixSeal>
+		<SignatureUpDown>0</SignatureUpDown>
+		<RememberParams>0</RememberParams>
+		<SealImgProc>1</SealImgProc>
+		<ShowFieldInvalidFlag>0</ShowFieldInvalidFlag>
+		<CloseCertExpireTips CloseTime = "">0</CloseCertExpireTips>
+		<SignatureFog Radius="5">0</SignatureFog>
+		<SignatureSerrate SerrateValue="5">0</SignatureSerrate>
+		<SetSignaturePAP>0</SetSignaturePAP>
+		<DigitalSignByCalibrary>0</DigitalSignByCalibrary>
+		<StraddleDirection>0</StraddleDirection>
+		<CloseKeyExpireTips CloseTime = "">1</CloseKeyExpireTips>
+	</iStylePDFXML>
+	<AddinBtn name="KingGrid.iWebPDF2015" Visible="True">
+		<button Image="32-1_24.png" Enabled="True" type="cmd" ID="KG_ADD_Seal" name="电子签章" Visible="True" Power="True"/>
+		<button Image="32-2_24.png" Enabled="True" type="cmd" ID="KG_ADD_HandWrite_Seal" name="手写签名" Visible="True" Power="True"/>
+		<button Image="32-3_24.png" Enabled="True" type="cmd" ID="KG_ADD_CROSS_PAGE_Seal" name="骑缝章" Visible="False" Power="True"/>
+		<button Image="32-4_24.png" Enabled="True" type="cmd" ID="KG_ADD_BarCode_Seal" name="二维条码" Visible="False" Power="True"/>
+		<button Image="32-6_24.png" Enabled="True" type="cmd" ID="KG_ADD_RayCode_Seal" name="光学防伪" Visible="False" Power="True"/>
+		<button Image="32-5_24.png" Enabled="True" type="cmd" ID="KG_BatchChkSeal" name="批量验证" Visible="False" Power="True"/>
+		<button Image="32-7_24.png" Enabled="True" type="cmd" ID="KG_PARAM_SET" name="参数设置" Visible="True" Power="True"/>
+		<button Image="32-8_24.png" Enabled="True" type="cmd" ID="KG_ADD_Phone_Seal" name="扫码签章" Visible="False" Power="True"/>
+		<button Image="" Enabled="True" type="yqm_popup" ID="KG_ViewSignature_YQM" name="查看签章" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="yqm_popup" ID="KG_DelSignature_YQM" name="删除域签名" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="yqm_popup" ID="KG_PrintSet_YQM" name="打印设置" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="dzqz_popup" ID="KG_ViewSignature" name="查看签章" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="dzqz_popup" ID="KG_DelSignature" name="撤销签章" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="dzqz_popup" ID="KG_DigitSignature" name="数字签名" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="dzqz_popup" ID="KG_DigitVerify" name="签名认证" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="dzqz_popup" ID="KG_ViewCert" name="查看证书" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="dzqz_popup" ID="KG_Decryption" name="签章脱密" Visible="True" Power="True"/>
+		<button Image="" Enabled="True" type="dzqz_popup" ID="KG_PrintSet" name="打印设置" Visible="True" Power="True"/>
+	</AddinBtn>
+	<HANDWRITE>
+		<PenPressure>120</PenPressure>
+		<PenWidthList>一线___二线___三线___四线___五线</PenWidthList>
+		<HandPenWidth>10</HandPenWidth>
+		<HandPenTrans>255</HandPenTrans>
+		<HandPenColor>0</HandPenColor>
+		<UsuallyList>4YBL4nROCPqks6KolHTMBtV2rtVJmtdPgfzJ</UsuallyList>
+		<HandFontName>宋体</HandFontName>
+		<HandFontSize></HandFontSize>
+		<CharSet>DEFAULT_CHARSET</CharSet>
+		<ZoomHand>100%</ZoomHand>
+		<HandWriteWidth>0</HandWriteWidth>
+		<HandWriteHeight>0</HandWriteHeight>
+		<WFFontName>宋体</WFFontName>
+		<WFFontSize>16</WFFontSize>
+		<WFCharSet>134</WFCharSet>
+		<WFColor>0</WFColor>
+		<WFfsBold>True</WFfsBold>
+		<WFfsItalic>False</WFfsItalic>
+		<WFfsUnderline>False</WFfsUnderline>
+		<WFfsStrikeOut>False</WFfsStrikeOut>
+	</HANDWRITE>
+	<ShowAttachText>
+		<AttachChecked>False</AttachChecked>
+		<AttachEnabled>true</AttachEnabled>
+		<AttachFontName>宋体</AttachFontName>
+		<AttachFontSize>12</AttachFontSize>
+		<AttachFontColor>#000000</AttachFontColor>
+		<AttachPosition>3</AttachPosition>
+		<OffsetX>0</OffsetX>
+		<OffsetY>0</OffsetY>
+		<AttachText>5rGf6KW/6YeR5qC856eR5oqA5pyJ6ZmQ5YWs5Y+4DQrpmYTliqDmloflrZfmtYvor5U=</AttachText>
+	</ShowAttachText>
+	<ShowDateTime>
+		<Enabled>0</Enabled>
+		<FontName>宋体</FontName>
+		<FontSize>20</FontSize>
+		<FontColor>#000000</FontColor>
+		<PlacePostiton>1</PlacePostiton>
+		<PostitonLefe>0</PostitonLefe>
+		<PostitonTop>0</PostitonTop>
+		<DateTimeIndex>13</DateTimeIndex>
+	</ShowDateTime>
+	<STRADDLE>
+		<!--骑缝章盖章模式：0 双侧对开，1 单侧多页-->
+		<SingleSidesSplit>0</SingleSidesSplit>
+		<!--骑缝章页面模式：0 所有页，1 奇数页，2 偶数页，3 选择页-->
+		<StraddlePageOddOrEven>0</StraddlePageOddOrEven>
+		<!--骑缝章分配方案-->
+		<SingleSidesSplitParam>50</SingleSidesSplitParam>
+		<!--起始页 默认为空表示从第一页开始-->
+		<FirstPageIndex>1</FirstPageIndex>
+		<!--选择页 当出现选择页盖章时，输入值，默认为空-->
+		<SelectPages></SelectPages>
+	</STRADDLE>
+	<LOG Enabled="false">
+		<!--是否启动日志，False：不生成日志文件；True：生产日志文件-->
+		<!-- 1:错误，2：警告；3：信息；启动日志时才有效-->
+		<LogLevel>3</LogLevel>
+		<!--日志文件最大值，单位K-->
+		<MaxLogFileSize>1024</MaxLogFileSize>
+	</LOG>
+	<SignatureUI>
+		<RememberPassword>1</RememberPassword>
+	</SignatureUI>
+</GoldGrid>

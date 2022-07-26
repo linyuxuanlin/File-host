@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="English" lName="English" lcid="0x0409" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDOK" title="OK"/>
+		<Item id="2" name="IDCANCEL" title="Cancel"/>
+		<Item id="6" name="IDYES" title="Yes"/>
+		<Item id="7" name="IDNO" title="No"/>
+		<Item id="100" name="" title="iWebPDF"/>
+		<Item id = "1108" name = "IDC_STATIC_PROTECT_FILENAME" title = "The file &quot;%s&quot; is protected."/>
+		<Item id = "10000" name = "ID_MENU_FILE" title = "&amp;File" tooltip= "File" status= "" short= ""/>
+		<Item id = "10001" name = "ID_MENU_EDIT" title = "&amp;Edit" tooltip= "Edit" status= "" short= ""/>
+		<Item id = "10002" name = "ID_MENU_VIEW" title = "&amp;View" tooltip= "View" status= "" short= ""/>
+		<Item id = "10003" name = "ID_MENU_TOOL" title = "&amp;Tools" tooltip= "Tools" status= "" short= ""/>
+		<Item id = "10004" name = "ID_MENU_HELP" title = "&amp;Help" tooltip= "Help" status= "" short= ""/>
+		<Item id = "10005" name = "ID_MENU_FILE_NEW" title = "New File (&amp;N) &#09;Ctrl+N" tooltip= "" status= "" short= ""/>
+		<Item id = "10006" name = "ID_MENU_VIEW_TOOLS" title = "Toolbar" tooltip= "" status= "" short= ""/>
+		<Item id = "10007" name = "ID_MENU_VIEW_OTHERWINDOWS" title = "Other Panes" tooltip= "" status= "" short= ""/>
+		<Item id = "10008" name = "ID_MENU_VIEW_PAGESTEUP" title = "Page Setup" tooltip= "" status= "" short= ""/>
+		<Item id = "10009" name = "ID_MENU_VIEW_ROTATE" title = "Rotate View" tooltip= "Rotate View" status= "" short= ""/>
+		<!-- BUTTON -->
+		<Item id = "1094" name = "ID_TAB_CLOSENOACTIVE" title = "Close All Tabs But This" tooltip= "Close all tabs but this" status= "closes this tag for all tags" short= ","/>
+		<Item id = "1095" name = "IDC_BT_META_DATA" title = "Metadata" tooltip= "Metadata" status= "" short= ""/>
+		<!-- MENU -->
+		<Item id = "32000" name = "ID_MENU_FILE_OPEN" title = "Open (&amp;O) ... &#09;Ctrl+O" tooltip= "Open local file" status= "" short= ""/>
+		<Item id = "32001" name = "ID_MENU_FILE_OPEN_URL" title = "Open The URL (&amp;U)..." tooltip= "Open files on the network" status= "opening files on the network" short= ""/>
+		<Item id = "32002" name = "ID_MENU_FILE_SAVE" title = "Save (&amp;S) &#09;Ctrl+S" tooltip= "Save the file" status= "save the file" short= ","/>
+		<Item id = "32003" name = "ID_MENU_FILE_SAVE_AS" title = "Save As (&amp;A)..." tooltip= "Save as" status= "file save as" short= ","/>
+		<Item id = "32004" name = "ID_MENU_FILE_NEW_BLANK" title = "From Blank Page..." tooltip= "Blank page" status= "" short= ""/>
+		<Item id = "32005" name = "ID_MENU_FILE_NEW_TEXT" title = "From Text..." tooltip= "From the text" status= "" short= ""/>
+		<Item id = "32006" name = "ID_MENU_FILE_NEW_IMG" title = "From Image..." tooltip= "From the image" status= "" short= ""/>
+		<Item id = "32007" name = "ID_MENU_FILE_NEW_SCANNER" title = "From the scanner ..." tooltip= "From scanner" status= "" short= ""/>
+		<Item id = "32008" name = "ID_MENU_FILE_CLOSE" title = "Close (&amp;C) &#09;Ctrl+W" tooltip= "Close file" status= "" short= ""/>
+		<Item id = "32009" name = "ID_MENU_FILE_CLOSE_ALL" title = "Close All" tooltip= "Close all" status= "" short= ""/>
+		<Item id = "32010" name = "ID_MENU_FILE_PRINT" title = "Print(&amp;P)... &#09;Ctrl+P" tooltip= "Print document" status= "" short= ""/>
+		<Item id = "32011" name = "ID_MENU_FILE_DOCUMENT_PROPERTY" title = "Document Properties(&amp;D)... &#09;Ctrl+D" tooltip= "Document properties..." status= "document properties" short= "and"/>
+		<Item id = "32012" name = "ID_MENU_FILE_COPY_FULLNAME" title = "Copy Full File Name (&amp;N)" tooltip= "Copy full file name," status= "" short= ""/>
+		<Item id = "32013" name = "ID_MENU_FILE_OPEN_FILEPATH" title = "Open Containing Folder (&amp;C)" tooltip= "Open containing folder" status= "open containing folder" short= ""/>
+		<Item id = "32014" name = "ID_MENU_EDIT_UNDO" title = "Revocation (&amp;U)" tooltip= "Removed" status= "removed" short= ""/>
+		<Item id = "32015" title = "&amp;Redo" tooltip= "" status= "" short= ""/>
+		<Item id = "32016" title = "&amp;Cut" tooltip= "Cut" status= "cut" short= ""/>
+		<Item id = "32017" title = "&amp;Copy &#09;Ctrl+C" tooltip= "copy" status= "copy" short= ""/>
+		<Item id = "32018" title = "&amp;Paste" tooltip= "Paste" status= "paste" short= ""/>
+		<Item id = "32516" title = "Select &amp;All &#09;Ctrl+A" tooltip= "select all" status= "select all" short= ""/>
+		<Item id = "32019" title = "&amp;Delete" tooltip= "Delete" status= "delete" short= "and"/>
+		<Item id = "32020" title = "&amp;Find" tooltip= "Find" status= "find" short= ""/>
+		<Item id = "32021" title = "&amp;Search" tooltip= "Search" status= "search" short= ""/>
+		<Item id = "32022" title = "&amp;Options" tooltip= "Option" status= "option" short= ""/>
+		<Item id = "32023" title = "&amp;File Toolbar" tooltip= "File Toolbar" status= "" short= ""/>
+		<Item id = "32024" title = "&amp;Standard Toolbar" tooltip= "Standard Toolbar" status= "standard bar" short= ","/>
+		<Item id = "32025" title = "&amp;Zoom Toolbar" tooltip= "Zoom Toolbar" status= "zoom tool bar" short= ","/>
+		<Item id = "32026" title = "Find &amp;Toolbar" tooltip= "Find Toolbar" status= "find the tool bar" short= ","/>
+		<Item id = "32027" title = "&amp;Rotate View Toolbar" tooltip= "Rotate View Toolbar" status= "rotate view tool bar" short= ","/>
+		<Item id = "32028" title = "&amp;Comment And Markup Toolbar" tooltip= "comment and markup toolbar" status= "comment and markup toolbar" short= ""/>
+		<Item id = "32029" title = "&amp;Links Editor Toolbar" tooltip= "link editor tool bar" status= "link editor tool bar" short= ","/>
+		<Item id = "32030" title = "&amp;Measurement Toolbar" tooltip= "measurement tool bar" status= "measurement tool bar" short= ","/>
+		<Item id = "32031" title = "Pages &amp;Navigation Toolbar" tooltip= "navigation toolbar" status= "navigation toolbar" short= ""/>
+		<Item id = "32032" title = "&amp;Pages Layout Toolbar" tooltip= "the page layout toolbar" status= "the page layout toolbar" short= ""/>
+		<Item id = "32033" title = "&amp;StatusBar" tooltip= "StatusBar" status= "status bar" short= ","/>
+		<Item id = "32034" title = "&amp;Bookmark" tooltip= "Bookmark" status= "bookmark" short= ""/>
+		<Item id = "32035" title = "&amp;Thumbnails" tooltip= "Thumbnails" status= "thumbnails page" short= ""/>
+		<Item id = "32065" title = "&amp;Managing form controls" tooltip= "Managing form controls" status= "Managing form controls" short= ""/>
+		<Item id = "32036" title = "Layers" tooltip= "" status= "" short= ""/>
+		<Item id = "32037" title = "Fields" tooltip= "field" status= "field" short= ""/>
+		<Item id = "32038" title = "Comments" tooltip= "comment" status= "comment" short= ""/>
+		<Item id = "32039" title = "Actual Size" tooltip= "Actual Size" status= "actual size" short= ""/>
+		<Item id = "32040" title = "Fit Page" tooltip= "Fit Page" status= "in the page" short= ""/>
+		<Item id = "32041" title = "Fit Width" tooltip= "Fit Width" status= "in the width of" short= ""/>
+		<Item id = "32042" title = "Single Page" tooltip= "Single Page" status= "single page" short= ""/>
+		<Item id = "32043" title = "Continuous" tooltip= "Continuous" status= "serial" short= ""/>
+		<Item id = "32044" title = "Facing" tooltip= "Facing" status= "outside" short= ""/>
+		<Item id = "32045" title = "Continuous-Facing" tooltip= "Continuous-Facing" status= "continued outside the" short= ""/>
+		<Item id = "32046" title = "Rotate Left" tooltip= "Rotate Left" status= "left rotate" short= ""/>
+		<Item id = "32047" title = "Rotate Right" tooltip= "Rotate Right" status= "rotate right" short= ""/>
+		<Item id = "32048" title = "Full Screen" tooltip= "Full Screen" status= "full screen" short= ""/>
+		<Item id = "32049" title = "Lock/Unlock All Toolbars" tooltip= "Lock/Unlock All Toolbars" status= "lock/unlock all toolbars" short= ""/>
+		<Item id = "32050" name = "ID_MENU_VIEW_ZOOM_TO" title = "Zoom to ..." tooltip= "Zoom to ..." status= "scale to" short= ""/>
+		<Item id = "32051" name = "ID_MENU_VIEW_GOTO" title = "Go to..." tooltip= "Go to..." status= "" short= ""/>
+		<Item id = "32052" name = "ID_MENU_VIEW_SHOW_COVER" title = "Show cover in facing" tooltip= "Show cover in facing" status= "outside mode cover" short= ""/>
+		<Item id = "32053" name = "ID_MENU_VIEW_SHOW_SPACE" title = "Show white space between pages" tooltip= "Show white space between pages" status= "show white space between pages" short= ""/>
+		<Item id = "32054" name = "ID_MENU_VIEW_ATTACHMENT" title = "Attachments" tooltip= "Attachments" status= "annex" short= ""/>
+		<Item id = "32055" name = "ID_MENU_FILE_SAVEALL" title = "Save All" tooltip= "Save All" status= "save all" short= ""/>
+		<Item id = "32056" name = "ID_MENU_VIEW_MENUBAR" title = "&amp;Menu Bar &#09;F9" tooltip= "Menu Bar" status= "menu bar" short= ","/>
+		<Item id = "32057" name = "ID_MENU_RECENT_FILES" title = "Recent Files(&amp;F)" tooltip = "Recent Files" status = "Recent Files" short= "" />
+		<Item id = "32059" name="ID_MENU_VIEW_PAGE_SPLIT" title="Horizontal Split" tooltip="" status="" short="" />
+		<Item id = "32060" name="ID_MENU_VIEW_PAGE_VER_SPLIT" title="Vertical Split" tooltip="" status="" short="" />
+		<Item id = "32871" name = "ID_MENU_TOOL_ZOOMPOPUP" title = "Zoom Tools" tooltip= "Zoom Tools" status= "zoom tool" short= ""/>
+		<Item id = "32500" title = "Zoom Tools" tooltip= "Zoom Tools" status= "zoom tool" short= ""/>
+		<Item id = "32501" title = "Zoom Out Tool" tooltip= "Zoom Out Tool" status= "zoom out tool" short= ""/>
+		<Item id = "32502" title = "Zoom Level" tooltip= "Zoom Level" status= "zoom level" short= ""/>
+		<Item id = "32503" title = "Zoom In Tool" tooltip= "Zoom In Tool" status= "zoom tool" short= ""/>
+		<Item id = "32512" title = "Zoom Out" tooltip= "Zoom Out" status= "zoom out" short= "and"/>
+		<Item id = "32513" title = "Zoom In" tooltip= "Zoom In" status= "zoom in" short= ""/>
+		<Item id = "32519" name="ID_MENU_TOOL_ZOOM_DYNAMIC" title="Dynamic Zoom" tooltip="Dynamic Zoom" status="" short=""/>
+		<Item id = "32522" title="Auto Roll" tooltip="Auto Roll" status="Auto Roll" short=""/>
+		<Item id = "32523" title="Up Roll" tooltip="Up Roll" status="Up Roll" short=""/>
+		<Item id = "32524" title="Double Up Roll" tooltip="Double Up Roll" status="Double Up Roll" short=""/>
+		<Item id = "32525" title="Down Roll" tooltip="Down Roll" status="Down Roll" short=""/>
+		<Item id = "32526" title="Double Down Roll" tooltip="Double Down Roll" status="Double Down Roll" short=""/>
+		<Item id = "10010" name = "ID_MENU_TOOL_STANDARD" title = "Basic Tools" tooltip= "Basic Tools" status= "basic tools" short= ""/>
+		<Item id = "32504" title = "Hand Tool" tooltip= "Hand Tool" status= "hand tool" short= ""/>
+		<Item id = "32505" title = "Snapshot Tool" tooltip= "Snapshot Tool" status= "snapshot tool" short= ""/>
+		<Item id = "32506" title = "Text Tool" tooltip= "Text Tool" status= "text tool" short= ""/>
+		<Item id = "32507" name = "ID_TOOL_FIND_INPUT" title = "Finding Text" tooltip= "Finding Text" status= "find text" short= ""/>
+		<Item id = "32508" name = "ID_TOOL_FIND_PRO" title = "Find Previous" tooltip= "Find Previous" status= "previous" short= ""/>
+		<Item id = "32509" name = "ID_TOOL_FIND_NEXT" title = "Find Next" tooltip= "Find Next" status= "next" short= ""/>
+		<Item id = "32510" name = "ID_TOOL_FIND_OPTIONS" title = "Search Options" tooltip= "Search Options" status= "find option" short= ""/>
+		<Item id = "32511" name = "ID_MENU_VIEW_FULL_SLIDE" title = "SlideShow" tooltip= "SlideShow" status= "SlideShow" short= ""/>
+		<Item id = "32514" name = "ID_TOOL_FIND_MATCHCASE" title = "Case-Sensitive" tooltip= "Case-Sensitive" status= "case" short= ""/>
+		<Item id = "32515" name = "ID_TOOL_FIND_MATCHWHOLEWORD" title = "Whole Words Only" tooltip= "Whole Words Only" status= "match whole word" short= ","/>
+		<Item id = "32517" name = "ID_TOOL_FIND_CLEAR" title = "Clear Find List" tooltip= "Clear Find List" status= "clear find list" short= ""/>
+		<Item id=  "32518" name="ID_MENU_TOOL_ADD_BOOKMARK" title="Add Bookmark" tooltip="Add Bookmark" status="Add Bookmark" short=""/>
+		<Item id=  "32520" name="ID_MENU_VIEW_COORDINATE" title="Coordinate Tools" tooltip="Coordinate Tools" status="Coordinate Tools" short="" />
+		<Item id=  "32521" name="ID_MENU_TOOL_CAPTUREBITMAP" title="Screenshot Comparison Tool" tooltip="Screenshot Comparison Tool" status="Screenshot Comparison Tool" short="" />
+		<Item id = "32985" name = "ID_ABOUT" title = "About Products" tooltip= "About Products" status= "" short= ""/>
+		<Item id=  "32986" name=  "ID_CHECK_UPDATES" title="Check for updates..." tooltip="Check for updates" status="Check for updates" short=""/>
+		<Item id = "32910" name = "ID_NAVIGATION_FIRST" title = "First Page" tooltip= "First Page" status= "first page" short= ""/>
+		<Item id = "32911" name = "ID_NAVIGATION_PREV" title = "Previous Page" tooltip= "Previous Page" status= "previous page" short= ""/>
+		<Item id = "32913" name = "ID_NAVIGATION_NEXT" title = "Next Page" tooltip= "Next Page" status= "next page" short= ""/>
+		<Item id = "32914" name = "ID_NAVIGATION_LAST" title = "Last Page" tooltip= "Last Page" status= "last page" short= ""/>
+		<Item id = "32915" name = "ID_NAVIGATION_BACK" title = "Returns" tooltip= "Returns" status= "returns" short= ""/>
+		<Item id = "32916" name = "ID_NAVIGATION_FORWARD" title = "Forward" tooltip= "Forward" status= "" short= ""/>
+		<Item id = "33000" name = "IDS_DOCUMENT_PROPERTY" title = "Document Properties" tooltip= "Document Properties" status= "" short= ""/>
+		<Item id = "33001" name = "IDS_CLASSIFICATION" title = "Categories" tooltip= "Categories" status= "" short= ""/>
+		<Item id = "33002" name = "IDS_DESCRIPTION_INFO" title = "Description" tooltip= "Description" status= "" short= ""/>
+		<Item id = "33003" name = "IDS_SECURITY" title = "Security" tooltip= "Security" status= "" short= ""/>
+		<Item id = "33004" name = "IDS_FONT" title = "Fonts" tooltip= "Fonts" status= "" short= ""/>
+		<Item id = "33036" name = "IDS_RIGHT_PRINT_HIGH" title = "High Resolution" tooltip= "" status= "" short= ""/>
+		<Item id = "33037" name = "IDS_RIGHT_PRINT_LOW" title = "Low Resolution(150dpi)" tooltip= "" status= "" short= ""/>
+		<Item id = "33038" name = "IDS_RIGHT_PERMIT" title = "Allowed" tooltip= "" status= "" short= ""/>
+		<Item id = "33039" name = "IDS_RIGHT_NO_PERMIT" title = "Not Allowed" tooltip= "" status= "" short= ""/>
+		<Item id = "33040" name = "IDS_NO_SECURITY" title = "No Security" tooltip= "" status= "" short= ""/>
+		<Item id = "33041" name = "IDS_PASSWORD_SECURITY" title = "Password Security" tooltip= "" status= "" short= ""/>
+		<Item id = "33042" name = "IDS_CRYPT_LEVEL_BITS" title = " bit" tooltip= "" status= "" short= ""/>
+		<Item id = "33043" name = "IDS_CRYPT_LEVEL_NONE" title = "None" tooltip= "" status= "" short= ""/>
+		<Item id = "33044" name = "IDS_CRYPT_LEVEL_UNKNOWN" title = "Unknown" tooltip= "" status= "" short= ""/>
+		<Item id = "33045" name = "IDS_CERT_SECURITY" title = "Certificate Security " tooltip= "" status= "" short= ""/>
+		<Item id = "33047" name = "IDS_BYTES" title = "(bytes)" tooltip= "" status= "" short= ""/>
+		<Item id = "33049" name = "IDS_FONTS_COUNT" title = "Found %d Fonts" tooltip= "" status= "" short= ""/>
+		<Item id="33050" name="ID_BOOKMARK_NEW" title="Add Bookmark" tooltip="Add Bookmark" status="" short="" />
+		<Item id="33051" name="ID_BOOKMARK_DEL" title="Delete" tooltip="Delete Bookmark" status="" short="" />
+		<Item id="33052" name="ID_BOOKMARK_RENAME" title="Rename" tooltip="Rename Bookmark" status="" short="" />
+		<Item id = "33978" name = "IDS_ATTACHMENT_TITLE" title = "Attachments" tooltip= "" status= "" short= ""/>
+		<Item id = "33979" name = "IDS_ENCRYPT_TITLE" title = "(Encrypted)" tooltip= "" status= "" short= ""/>
+		<Item id = "33980" name = "IDS_DAMAGED_FILE" title = "(Corrupted document)" tooltip= "" status= "" short= ""/>
+		<Item id = "33981" name = "IDS_FILE_PRINTING" title = "Printing pages of document..." tooltip= "" status= "" short= ""/>
+		<Item id = "33982" name = "IDS_FONT_EMBEDDED" title = "(Embedded)" tooltip= "" status= "" short= ""/>
+		<Item id = "33983" name = "IDS_FONT_NOEMBEDDED" title = " " tooltip= "" status= "" short= ""/>
+		<Item id = "33984" name = "IDS_FONT_TYPE" title = "Type:" tooltip= "" status= "" short= ""/>
+		<Item id = "33985" name = "IDS_FONT_ENCODING" title = "Encoding:" tooltip= "" status= "" short= ""/>
+		<Item id = "33986" name = "IDS_FONT_CUSTOM" title = "Custom:" tooltip= "" status= "" short= ""/>
+		<Item id = "33987" name = "IDS_FONT_OBJECTNUM" title = "Object Number:" tooltip= "" status= "" short= ""/>	
+		<Item id = "33988" name="IDS_OPTIONS" title="Options" tooltip="" status="" short=""/>
+		<Item id = "33989" name="IDS_OPTIONS_LANGUAGE" title="Languages" tooltip="" status="" short=""/>
+		<Item id="33990" name="IDS_LANGUAGE_STANDARD_NAME" title="Standard Name" tooltip="" status="" short=""/>
+		<Item id="33991" name="IDS_LANGUAGE_LOCAL_NAME" title="Local Name" tooltip="" status="" short=""/>
+		<Item id="33992" name="IDS_TOOL_FIND_INPUT_HINT" title="Find" tooltip="" status="" short=""/>
+		<Item id = "33993" name = "IDS_FILE_EDAMAGED" title = "Unable to open the file &quot;%s&quot;, because this file type is not supported or the file is corrupted." tooltip= "" status= "" short= ""/>
+		<Item id = "33994" name = "IDS_FILE_EUNKNOWN" title = "Unable to open the file &quot;%s&quot;, unknown error: 0x%08d" tooltip= "" status= "" short= ""/>		
+		<Item id="33995" name="IDS_FILE_SAVE_ERROR" title="The file is read only, or have been opened by another application, please save the document using a different name, or save it to another folder." tooltip="" status="" short=""/>
+		<Item id = "33996" name = "IDS_FIND_DONT_RESULT" title = "Find documents has been completed, no more matching item found." tooltip= "" status= "" short= ""/>
+		<Item id="33997" name="IDS_DOC_SAVE_PROMPT" title="The document &quot;%s&quot; was changed. &#x000D;&#x000A;&#x000D;&#x000A;Do you want to save changes before closing?" tooltip="" status="" short=""/>
+		<Item id ="33998" name ="IDS_DOC_CLOSE_PROMPT" title = "Do you want to close all documents?" tooltip= "" status= "" short= ""/>
+		<Item id="33999" name="IDS_VERSION_NAME" title=" " tooltip="" status="" short=""/>
+		<Item id="34000" name="IDS_RECENT_READ_FILE" title="Recent Files:" tooltip="" status="" short=""/>
+       <Item id="34001" name="IDS_FILE_OPEN" title="Open(&amp;O)" tooltip="Open File" status="Open File" short=""/>	   		
+		<Item id="34002" name="IDS_COMPATIBILITY_3" title="Acrobat 3.0 and later" tooltip="" status="" short=""/>
+		<Item id="34003" name="IDS_COMPATIBILITY_5" title="Acrobat 5.0 and later" tooltip="" status="" short=""/>
+		<Item id="34004" name="IDS_COMPATIBILITY_6" title="Acrobat 6.0 and later" tooltip="" status="" short=""/>
+		<Item id="34005" name="IDS_COMPATIBILITY_7" title="Acrobat 7.0 and later" tooltip="" status="" short=""/>
+		<Item id="34006" name="IDS_COMPATIBILITY_9" title="Acrobat 9.0 and later" tooltip="" status="" short=""/>
+		<Item id="34007" name="IDS_COMPATIBILITY_X" title="Acrobat X and later" tooltip="" status="" short=""/>
+		<Item id="34008" name="IDS_ENCRYPT_COMPONENT_ALL" title="Encrypt all document contents" tooltip="" status="" short=""/>
+		<Item id="34009" name="IDS_ENCRYPT_ALL_EXCLUDE_META" title="Encrypt all document contents except metadata" tooltip="" status="" short=""/>
+		<Item id="34010" name="IDS_ENCRYPT_ATTACHMENTS" title="Only encrypt attachments" tooltip="" status="" short=""/>
+		<Item id="34011" name="IDS_PERM_NO" title="Not Allowed" tooltip="" status="" short=""/>
+		<Item id="34012" name="IDS_PRINT_PERM_LOWER" title="Low Resolution(150dpi)" tooltip="" status="" short=""/>
+		<Item id="34013" name="IDS_PRINT_PERM_HIGH" title="High Resolution" tooltip="" status="" short=""/>
+		<Item id="34014" name="IDS_CHANGES_PERM_PAGES" title="Inserting,deleting and rotating pages" tooltip="" status="" short=""/>
+		<Item id="34015" name="IDS_CHANGES_PERM_FORM" title="Filling in form fields and signing existing signature field" tooltip="" status="" short=""/>
+		<Item id="34016" name="IDS_CHANGES_PERM_ANNOT" title="Commenting,filling in form fields and signing existing signature field" tooltip="" status="" short=""/>
+		<Item id="34017" name="IDS_CHANGES_PERM_EXCLUDE_PAGE" title="Any except extracting pages" tooltip="" status="" short=""/>
+		<Item id="34038" name="IDS_FONT_EMBEDDED_SUBSET" title="(Embedded Subset)" tooltip="" status="" short=""/>
+		<Item id="33054" name="IDS_BOOKMARK_NO_TITLE" title="Untitled" tooltip="" status="" short=""/>
+		<Item id="33055" name="IDS_SECURITY_ENTER_PERM_PIN" title="Please Enter &quot;permission passsword&quot;" tooltip="" status="" short=""/>
+		<Item id="33056" name="IDS_SECURITY_HAS_SIGNED" title="You can not change the security of this document, because the document has been signed or verified." tooltip="" status="" short=""/>
+		<Item id="33057" name="IDS_SECURITY_SAME_PASSWORD" title="&quot;Open password&quot;and&quot;Permission password&quot;can not be the same,Please enter a different password." tooltip="" status="" short=""/>
+		<Item id="33058" name="IDS_SECURITY_PWD_MISMATCH" title="Passwords do not match, please check&quot;Password&quot;and&quot;Comfirm password&quot;whether the same." tooltip="" status="" short=""/>
+		<Item id="33059" name="IDS_SECURITY_PWD_EMPTY" title="Password settings can not be empty, please cancel the selection." tooltip="" status="" short=""/>
+		<Item id="33060" name="IDS_SECURITY_NEED_PWD" title="To apply security settings, set the &quot;Document Open Password&quot; or &quot;Permissions Password&quot;." tooltip="" status="" short=""/>
+		<Item id="34018" name="IDS_OPTIONS_PAGEDISPLAY" title="Page Display" tooltip="" status="" short=""/>
+		<Item id="34019" name="IDS_AUTOMATIC" title="Automatic" tooltip="" status="" short=""/>
+		<Item id="34020" name="IDS_DEFAULTVIEW_PAGEONLY" title="Page only" tooltip="" status="" short=""/>
+		<Item id="34021" name="IDS_DEFAULTVIEW_BOOKMARKANDPAGE" title="Bookmarks panel and page" tooltip="" status="" short=""/>
+		<Item id="34022" name="IDS_OPTIONS_FORMS" title="Forms" tooltip="" status="" short=""/>
+		<Item id="34023" name="IDS_HISTORY_NOT_FIND" title="Can not find the specified file" tooltip="" status="" short=""/>
+		<Item id="34024" name="IDS_DEL_SECURITY" title="Are you sure you want to remove security from this document?" tooltip="" status="" short=""/>
+		<Item id="34025" name="IDS_CHANGES_PERM_PAGE_ANNOT" title="Page layout,filling in form fields, and signing existing signature field" tooltip="" status="" short=""/>
+		<Item id="34026" name="IDS_SAVE_OTHER_ERROR" title="Save file error, return value is ：%d" tooltip="" status="" short=""/>
+		<Item id="34027" name="IDS_OPEN_PWD_ERROR" title="Incorrect password, please try again later." tooltip="" status="" short=""/>
+		<Item id="33064" name="ID_ACROFORM_CUT" title="Cut" tooltip="Cut" status="" short=""/>
+		<Item id="33065" name="ID_ACROFORM_COPY" title="Copy" tooltip="Copy" status="" short=""/>
+		<Item id="33066" name="ID_ACROFORM_PASTE" title="Paste" tooltip="Paste" status="" short=""/>
+		<Item id="33067" name="ID_ACROFORM_DEL" title="Delete" tooltip="Delete" status="" short=""/>
+		<Item id="33068" name="ID_ACROFORM_SELECTALL" title="Select All" tooltip="Select All" status="" short=""/>
+		<Item id="34028" name="IDS_MEASURE_UNIT" title="cm" tooltip="cm" status="" short=""/>
+		<Item id="34029" name="IDS_FILE_CERT_ENCRYPT" title="This document uses a digital ID for encryption, but it is used to decrypt the digital ID does not exist. Make sure you have properly installed the digital ID, or contact the author of the document." tooltip="" status="" short=""/>
+		<Item id="34030" name="IDS_FILE_OPEN_FOLDER" title="Open Folder(&amp;F)" tooltip="" status="" short=""/>
+		<Item id="33006" name="IDS_GO_LINK_URI" title="The document is attempting to connect to&#x000D;&#x000A;%s&#x000D;&#x000A;If you trust this site, please click&quot;OK&quot;。Otherwise，please click&quot;Cancel&quot;" tooltip="" status="" short=""/>
+		<Item id="34031" name="IDS_DEFAULT_COLOR" title="Default" tooltip="Default" status="" short=""/>
+		<Item id="34032" name="IDS_MORE_COLOR" title="Custom..." tooltip="Custom..." status="" short=""/>
+		<Item id="1185" name="IDC_CHANGE_SKIN" title="Change Skin..." tooltip="" status="" short="" />
+		<Item id="1187" name="IDC_CHANGE_TEXT_COLOR" title="Text Color..." tooltip="" status="" short="" />
+		<Item id="32061" name="ID_MENU_VIEW_COLOR_DEFAULT" title="Default" tooltip="" status="" short="" />
+		<Item id="32062" name="ID_MENU_VIEW_COLOR_NIGHT" title="Night Mode" tooltip="" status="" short="" />
+		<Item id="32063" name="ID_MENU_VIEW_COLOR" title="Background Mode" tooltip="" status="" short="" />
+		<Item id="1014" title="Submit document data successfully." tooltip="" status="" short="" />
+		<Item id="1015" title="Error occurred during the commit, and the error returned value is &quot;%d&quot;" tooltip="" status="" short="" />
+		<Item id="34036" title="Software registration success, the next restart to take effect." tooltip="" status="" short="" />
+		<Item id="34037" title="Software registration failed, the next restart to continue to register." tooltip="" status="" short="" />
+		<Item id="34039" title="Timestamp server returns&#x000D;&#x000A;&#x000D;&#x000A;HTTP 401 error (Unauthorized)" tooltip="" status="" short="" />
+		<Item id="32064" name="" title="Zip File" tooltip="" status="" short="" />
+		<Item id="3004" name="" title="None" tooltip="" status="" short="" />
+		<Item id="3005" name="" title="Reduce to printer margins" tooltip="" status="" short="" />
+		<Item id="3006" name="" title="lower left" tooltip="" status="" short="" />
+		<Item id="3007" name="" title="upper left" tooltip="" status="" short="" />
+		<Item id="3008" name="" title="upper right" tooltip="" status="" short="" />
+		<Item id="3009" name="" title="lower right" tooltip="" status="" short="" />
+		<Item id="3010" name="" title="Subset:" tooltip="" status="" short="" />
+		<Item id="3011" name="" title="All pages in the scope" tooltip="" status="" short="" />
+		<Item id="3012" name="" title="ODD PAGES ONLY" tooltip="" status="" short="" />
+		<Item id="3013" name="" title="EVEN PAGES ONLY" tooltip="" status="" short="" />
+		<Item id="3014" name="" title="Reverse Print Order" tooltip="" status="" short="" />
+		<Item id="3015" name="" title="Print Quality:" tooltip="" status="" short="" />
+		<Item id="3016" name="" title="Low-Quality" tooltip="" status="" short="" />
+		<Item id="3017" name="" title="High-Quality" tooltip="" status="" short="" />
+		<Item id="3019" name="" title="Document Only" tooltip="" status="" short="" />
+		<Item id="3020" name="" title="Form Field Only" tooltip="" status="" short="" />
+		<Item id="3021" name="" title="Document And MarkUps" tooltip="" status="" short="" />
+		<Item id="34040" name="IDS_STRING_PACK_NAME" title="Name"/>
+		<Item id="34041" name="IDS_STRING_PACK_VERSION" title="Version"/>
+		<Item id="34042" name="IDS_STRING_PACK_STATE" title="State"/>
+		<Item id="34043" name="IDS_STRING_PACK_INSTALL" title="Install"/>
+		<Item id="34044" name="IDS_STRING_PACK_UNINSTALL" title="Unstall"/>
+		<Item id="32066" name="IDS_FILE_OPEN_WARN" title="The currently opened document is dangerous. Do you want to continue opening?" tooltip="" status="" short=""/>
+	</Strings>
+	<Dialogs>
+		<Dialog id = "104" name = "IDD_ABOUTBOX" title = "About" >
+			<Item id = "1" name = "IDOK" title = "OK"/>
+			<Item id="1181" name="IDC_STATIC_INTRODUCE" title="Professional PDF Solutions Products"/>
+			<Item id = "1119" name = "IDC_STATIC_LAW" title = "Legal Notices"/>
+			<Item id = "1116" name = "IDC_EDIT_LICENSE" title = "Warning:&#13;&#10; this computer program is protected by copyright law protection, unauthorized reproduction or distribution of this program, or any part, may result in severe civil and criminal penalties, for known violators will be given comprehensive sanctions within the law."/>
+			<Item id="125" name="IDC_BTN_PACK" title="Management"/>
+		</Dialog>	
+		<Dialog id="232" name="IDD_DIALOG_CATEGORIES" title="">
+			<Item id = "1" name = "IDOK" title = "OK"/>
+			<Item id = "2" name = "IDCANCEL" title = "Cancel"/>
+		</Dialog>
+		<Dialog id="228" name="IDD_DIALOG_DESCRIPTION" title="">
+			<Item id = "33005" name = "IDS_INIT_VIEW" title = "Initial view" tooltip= "" status= "" short= ""/>
+			<Item id = "33008" name = "IDS_FILE_INFO" title = "File Information" tooltip= "" status= "" short= ""/>
+			<Item id = "33009" name = "IDS_FILE_NAME" title = "File Name:" tooltip= "" status= "" short= ""/>
+			<Item id = "33010" name = "IDS_FILE_POSITION" title = "Location:" tooltip= "" status= "" short= ""/>
+			<Item id = "33011" name = "IDS_CREATE_TIME" title = "Created:" tooltip= "" status= "" short= ""/>
+			<Item id = "33012" name = "IDS_MODIFY_TIME" title = "Modified:" tooltip= "" status= "" short= ""/>
+			<Item id = "33013" name = "IDS_FILE_SIZE" title = "File Size:" tooltip= "" status= "" short= ""/>
+			<Item id = "33014" name = "IDS_DOCUMENT_INFO" title = "Document Information" tooltip= "" status= "" short= ""/>
+			<Item id = "33015" name = "IDS_DOCUMENT_TITLE" title = "Title:" tooltip= "" status= "" short= ""/>
+			<Item id = "33016" name = "IDS_DOCUMENT_AUTHOR" title = "Author:" tooltip= "" status= "" short= ""/>
+			<Item id = "33017" name = "IDS_DOCUMENT_SUBJECT" title = "Subject:" tooltip= "" status= "" short= ""/>
+			<Item id = "33018" name = "IDS_DOCUMENT_KEYWORD" title = "Keyword:" tooltip= "" status= "" short= ""/>
+			<Item id = "33019" name = "IDS_FILE_CREATOR" title = "File Creators:" tooltip= "" status= "" short= ""/>
+			<Item id = "33020" name = "IDS_FILE_APPLICATION" title = "Application:" tooltip= "" status= "" short= ""/>
+			<Item id = "33021" name = "IDS_FILE_VERSION" title = "File Version:" tooltip= "" status= "" short= ""/>
+			<Item id = "33022" name = "IDS_FILE_PAGECOUNT" title = "Pages Count:" tooltip= "" status= "" short= ""/>
+			<Item id="33070" name="IDS_FILE_PAGESIZE" title="Page Size:" tooltip="" status="" short=""/>
+		</Dialog>
+		<Dialog id="229" name="IDD_DIALOG_SECURITY" title="">
+			<Item id = "33023" name = "IDS_SECURITY_INFO" title = "Document Security" tooltip= ""/>
+			<Item id = "33024" name = "IDS_SECURITY_DESCRIPTION" title = "The document security Method determines what (if any) changes are allowed." tooltip= ""/>
+			<Item id = "33025" name = "IDS_SECURITY_METHOD" title = "Security Method: " tooltip= ","/>
+			<Item id = "33026" name = "IDS_CRYPT_LEVEL" title = "Encryption Method: " tooltip= ","/>
+			<Item id = "33027" name = "IDS_RIGHT_PRINT" title = "Printing: " tooltip= ","/>
+			<Item id = "33028" name = "IDS_RIGHT_MODIFY" title = "Changing The Document: " tooltip= ","/>
+			<Item id = "33029" name = "IDS_RIGHT_FILE_ASSEMBLY" title = "Document Assembly: " tooltip= ","/>
+			<Item id = "33030" name = "IDS_RIGHT_COPY_CONTENT" title = "Content Copying: " tooltip= ","/>
+			<Item id = "33031" name = "IDS_RIGHT_EXTRACT_PAGE" title = "Page Extraction: " tooltip= ","/>
+			<Item id = "33032" name = "IDS_RIGHT_ANNOTATION" title = "Commenting: " tooltip= ","/>
+			<Item id = "33033" name = "IDS_RIGHT_ACROFORM" title = "Filling Form Fields: " tooltip= ","/>
+			<Item id = "33034" name = "IDS_RIGHT_SIGNATURE" title = "Signing: " tooltip= ","/>
+			<Item id = "33035" name = "IDS_RIGHT_CREATE_TEMP_PAGE" title = "Creation of Template Pages: " tooltip= ","/>
+			<Item id = "33046" name = "IDS_CRYPT_SHOW_INFO" title = "Document Permissions Summary" tooltip= ""/>
+			<Item id = "1036" name = "IDC_BT_CHANGE_SECURITY" title = "Change Settins(&S)..." tooltip= ","/>
+			<Item id = "1037" name = "IDC_BT_SECURITY_INFO" title = "Show Details(&D)..." tooltip= ""/>
+			<Item id = "33048" name = "IDS_CONTENT_ACCESSIBILITY" title = "Content Coping for Accessibility: " tooltip= ","/>
+		</Dialog>
+		<Dialog id="230" name="IDD_DIALOG_FONT" title="">
+			<Item id = "1106" name = "IDC_STATIC_FONT" title = "Fonts used in this document" tooltip= "" status= "" short= ""/>
+		</Dialog>
+		<Dialog id = "261" name = "IDD_DIALOG_PASSWORD" title = "Enter document password" >
+			<Item id = "1" name = "IDOK" title = "OK"/>
+			<Item id = "2" name = "IDCANCEL" title = "Cancel"/>
+			<Item id = "1109" name = "IDC_STATIC_PASSWORD_HINT" title = "Please enter open password or permission password:"/>
+		</Dialog>
+		<Dialog id="263" name="IDD_DIALOG_OPTIONS_LANGUAGE" title="">
+			<Item id="1110" name="IDC_RADIO_DEFAULTUSERS" title="Set to users default regional setting"/>
+			<Item id="1111" name="IDC_RADIO_CUSTOM_LANGUAGE" title="Choose custom language"/>
+		</Dialog>
+		<Dialog id="116" name="IDD_WPPASSSECURITYDLG" title="Password Security -Settings">
+			<Item id="1" name="IDOK" title="OK"/>
+			<Item id="2" name="IDCANCEL" title="Cancel"/>
+			<Item id="1121" name="IDC_ST_SECURITY_LEVEL" title="Security level" tooltip=""/>
+			<Item id="1122" name="IDC_ST_ALGORITHM" title="Compatibility:" tooltip=""/>
+			<Item id="1125" name="IDC_ST_ENCRYPT" title="Encryption Level:" tooltip=""/>
+			<Item id="1128" name="IDC_ST_OPEN_PASSWORD" title="Open password" tooltip=""/>
+			<Item id="1129" name="IDC_CK_REQUIRE_PASSWORD" title="Require a password to open the document" tooltip=""/>
+			<Item id="1130" name="IDC_ST_PASSWORD" title="Password:" tooltip=""/>
+			<Item id="1131" name="IDC_ST_COMFIRM_PASSWORD" title="Confirm password:" tooltip=""/>
+			<Item id="1134" name="IDC_ST_PERMISSIONS" title="Permissions" tooltip=""/>
+			<Item id="1135" name="IDC_CK_REQUIRE_PERM_PASSWORD" title="Require a password to change security settings and access specific functions" tooltip=""/>
+			<Item id="1144" name="IDC_ST_PASSWORD2" title="Password:" tooltip=""/>
+			<Item id="1145" name="IDC_ST_COMFIRM_PASSWORD2" title="Confirm password:" tooltip=""/>
+			<Item id="1138" name="IDC_ST_PERM_PRINTNG" title="Printing allowed:" tooltip=""/>
+			<Item id="1139" name="IDC_ST_PERM_CHANGES" title="Changes allowed:" tooltip=""/>
+			<Item id="1142" name="IDC_CK_ENABLE_COPY" title="Enable copying of text,images and other content" tooltip=""/>
+			<Item id="1143" name="IDC_CK_ENABLE_TEXT_ACCESS" title="Enable text access for screen reader devices for the visually impaired" tooltip=""/>
+			<Item id="1147" name="IDC_ST_ENCRYPT_COM" title="Select Document Components to encrypt" tooltip=""/>
+			<Item id="1148" name="IDC_ST_SELECT_COMPONENT" title="Components:" tooltip=""/>
+		</Dialog>
+		<Dialog id="117" name="IDD_WPSECURITYDETAILINFO" title="Document Security">
+			<Item id="1" name="IDOK" title="OK"/>
+			<Item id="33025" name="IDS_SECURITY_METHOD" title="Security Method:" tooltip=""/>
+			<Item id="1128" name="IDC_ST_OPEN_PASSWORD" title="Document Open Password:" tooltip=""/>
+			<Item id="1152" name="IDC_ST_PERMISSION_PWD" title="Permissions Password:" tooltip=""/>
+			<Item id="33026" name="IDS_CRYPT_LEVEL" title="Encryption Level:" tooltip=""/>
+			<Item id="33027" name="IDS_RIGHT_PRINT" title="Printing:" tooltip=""/>
+			<Item id="33028" name="IDS_RIGHT_MODIFY" title="Changing the Document:" tooltip=""/>
+			<Item id="33029" name="IDS_RIGHT_FILE_ASSEMBLY" title="Document Assembly:" tooltip=""/>
+			<Item id="33030" name="IDS_RIGHT_COPY_CONTENT" title="Content Copying:" tooltip=""/>
+			<Item id="33031" name="IDS_RIGHT_EXTRACT_PAGE" title="Page Extraction:" tooltip=""/>
+			<Item id="33032" name="IDS_RIGHT_ANNOTATION" title="Commenting:" tooltip=""/>
+			<Item id="33033" name="IDS_RIGHT_ACROFORM" title="Form fields Fill-in or Signing:" tooltip=""/>
+			<Item id="33048" name="IDS_CONTENT_ACCESSIBILITY" title="Content Accessibility Enabled:" tooltip=""/>
+		</Dialog>
+		<Dialog id="272" name="IDD_DIALOG_OPTIONS_PAGEDISPLAY" title="Page Display">
+			<Item id="1160" name="IDC_STATIC_INITIALVIEW" title="Initial View" tooltip=""/>
+			<Item id="1161" name="IDC_STATIC_DEFAULTVIEW" title="Default View:" tooltip=""/>
+			<Item id="1162" name="IDC_STATIC_DEFAULTLAYOUT" title="Default Layout and Zoom" tooltip=""/>
+			<Item id="1163" name="IDC_STATIC_PAGELAYOUT" title="Page Layout:" tooltip=""/>
+			<Item id="1164" name="IDC_STATIC_PAGEZOOM" title="Zoom:" tooltip=""/>
+			<Item id="1165" name="IDC_STATIC_RESOLUTION" title="Resolution(pixels/inch)" tooltip=""/>
+			<Item id="1155" name="IDC_RADIO_RESOLUTION_SYSTEM" title="Use system setting:" tooltip=""/>
+			<Item id="1156" name="IDC_RADIO_RESOLUTION_CUSTOM" title="Custom resolution:" tooltip=""/>
+			<Item id="1166" name="IDC_STATIC_PAGECONTENT" title="Page Content and Information" tooltip=""/>
+			<Item id="1112" name="IDC_CHECK_GOTOUPONLINKS" title="Execute goto upon links" tooltip=""/>
+			<Item id="1180" name="IDC_STATIC_UPDATE" title="Update Setting" tooltip=""/>
+			<Item id="1113" name="IDC_CHECK_AUTOUPDATE" title="Remind me when there are updates" tooltip=""/>
+			<Item id="1184" name="IDC_STATIC_BACKGROUND" title="Background Color:" tooltip=""/>
+		</Dialog>
+		<Dialog id="273" name="IDD_DIALOG_OPTIONS_FORMS" title="Forms">
+			<Item id="1168" name="IDC_CHECK_HIGHLIGHT_FIELDS" title="Highlight Fields" tooltip=""/>
+			<Item id="1169" name="IDC_CHECK_HIGHLIGHT_SIGNATURE" title="Signature Fields" tooltip=""/>
+			<Item id="1170" name="IDC_CHECK_HIGHLIGHT_TEXT_BOXES" title="Text Field" tooltip=""/>
+			<Item id="1171" name="IDC_STATIC_HIGHLIGHT_FORM_FIELDS" title="Highlight Form Fields" tooltip=""/>
+			<Item id="1172" name="IDC_CHECK_HIGHLIGHT_COMBOBOXES" title="Combo Boxes" tooltip=""/>
+			<Item id="1173" name="IDC_CHECK_HIGHLIGHT_PUSHUTTONS" title="Push Buttons" tooltip=""/>
+			<Item id="1174" name="IDC_CHECK_HIGHLIGHT_CHECKBOXES" title="Check Boxes" tooltip=""/>
+			<Item id="1175" name="IDC_CHECK_HIGHLIGHT_RADIOBUTTONS" title="Radio Buttons" tooltip=""/>
+			<Item id="1176" name="IDC_CHECK_HIGHLIGHT_LISTBOXES" title="List Boxes" tooltip=""/>
+		</Dialog>
+		<Dialog id="123" name="IDD_WPACTIVATEWND" title="Software registration">
+			<Item id="1" name="IDOK" title="Import Authorization"/>
+			<Item id="2" name="IDCANCEL" title="Cancel"/>
+			<Item id="1196" name="IDC_STATIC_MACHINE" title="MachineCode:"/>
+		</Dialog>		
+		<Dialog id="1538" name="PRINTDLGORD" title="Print">
+			<Item id="1075" name="" title="Printer"/>
+			<Item id="1093" name="" title="&Name:"/>
+			<Item id="1025" name="" title="&Properties..."/>
+			<Item id="1095" name="" title="Status:"/>
+			<Item id="1094" name="" title="Type:"/>
+			<Item id="1097" name="" title="Where:"/>
+			<Item id="1096" name="" title="Comment:"/>
+			<Item id="1072" name="" title="Print range"/>
+			<Item id="1056" name="" title="&All"/>
+			<Item id="1058" name="" title="Pa&ges"/>
+			<Item id="1057" name="" title="&Current Page"/>
+			<Item id="1089" name="" title="&from:"/>
+			<Item id="1090" name="" title="&to:"/>
+			<Item id="1073" name="" title="Copies"/>
+			<Item id="1092" name="" title="Number of &copies:"/>
+			<Item id="1041" name="" title="C&ollate"/>
+			<Item id="1" name="IDOK" title="OK"/>
+			<Item id="2" name="IDCANCEL" title="Cancel"/>
+			<Item id="3000" name="" title="Page Scaling"/>
+			<Item id="3003" name="" title="Type:"/>
+			<Item id="3002" name="" title="Auto-rotate"/>
+			<Item id="1201" name="" title="Select the paper source according to the size of the file page"/>
+			<Item id="1218" name="" title="Grey Print"/>
+			<Item id="1219" name="" title="PreView"/>
+			<Item id="1220" name="" title="Content:"/>
+		</Dialog>
+		<Dialog id="294" name="IDD_COORDINATEPICKER" title="Coordinate picker">
+			<Item id="1204" name="IDC_STATIC_PARAMSETTING" title="Settings"/>
+			<Item id="1202" name="IDC_STATIC_REF_POINT" title="Ref-Point:"/>
+			<Item id="1203" name="IDC_STATIC_MEASUREMENT" title="UnitValue:"/>
+			<Item id="1206" name="IDC_ST_CURSORPOSITION" title="Cursor position"/>
+			<Item id="2" name="IDCANCEL" title="Close"/>
+		</Dialog>
+		<Dialog id="277" name="IDD_DIALOG_ADDIN_MNG" title="Management">
+			<Item id="1" name="IDOK" title="OK"/>
+		</Dialog>		
+	</Dialogs>
+</Localization>

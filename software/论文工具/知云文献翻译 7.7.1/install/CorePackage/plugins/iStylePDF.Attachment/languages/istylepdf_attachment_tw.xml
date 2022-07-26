@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (Taiwan)" lName="繁體中文 (台灣)" lcid="0x0404" prefFont=""/>
+	<Strings>
+		<Item id="101" name="IDS_STRING_TITLE" title="附件"/>
+		<Item id="102" name="IDS_STRING_NAME" title="名稱"/>
+		<Item id="103" name="IDS_STRING_DESC" title="描述"/>
+		<Item id="104" name="IDS_STRING_MODDATE" title="修改時間"/>
+		<Item id="105" name="IDS_STRING_SIZE" title="大小"/>
+		<Item id="106" name="IDS_STRING_COMPRESSED_SIZE" title="壓縮的大小" tooltip="" status="" short=""/>
+		<Item id="107" name="IDS_STRING_TOOL_TIP" title="附件：查看文檔的附件" tooltip="" status="" short=""/>
+		<Item id="109" name="IDS_STRING_POS" title="在文檔中的位置" tooltip="" status="" short=""/>
+		<Item id="110" name="IDS_STRING_ATTACHMENT_LIST" title="附件標籤" tooltip="" status="" short=""/>
+		<Item id="111" name="IDS_STRING_PAGE_NUM" title="第 %d 頁" tooltip="" status="" short=""/>
+		<Item id="112" name="IDS_STRING_ALLFILES" title="所有文件" tooltip="" status="" short=""/>
+		<Item id="113" name="IDS_CONFIRM_DEL" title="確定要刪除&quot;%s&quot;嗎？" tooltip="" status="" short=""/>
+		<Item id="32768" name="IDC_OPEN_ATTACHMENT" title="打開" tooltip="" status="" short=""/>
+		<Item id="32769" name="IDC_SAVE_ATTACHMENT" title="保存" tooltip="" status="" short=""/>
+		<Item id="32770" name="IDC_ADD_ATTACHMENT" title="添加" tooltip="" status="" short=""/>
+		<Item id="32771" name="IDC_DEL_ATTACHMENT" title="刪除" tooltip="" status="" short=""/>
+	</Strings>
+	<Dialogs>		
+	</Dialogs>
+</Localization>

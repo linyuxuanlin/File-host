@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="English" lName="English" lcid="0x0409" prefFont=""/>
+	<Strings>
+		<Item id="216" name="ID_HANDWRITTING_TOOLBAR" title="Handwritting Toolbar" tooltip="" status="" short=""/>
+		<Item id ="32768" name = "IDS_HANDWRITTING" title = "Full-text handwritting" tooltip="Full-text handwritting" status= "" short= ""/>
+		<Item id ="32769" name = "IDS_OPTIONS" title = "Handwritting options" tooltip= "Handwritting options" status= "" short= ""/>
+		<Item id="32770" name="IDS_QUALITY_DEFAULT" title="Default" tooltip="Default" status="" short=""/>
+		<Item id="32771" name="IDS_QUALITY_LOW" title="Low" tooltip="Low" status="" short=""/>
+		<Item id="32772" name="IDS_QUALITY_HIGH" title="High" tooltip="High" status="" short=""/>
+		<Item id="32773" name="IDS_COLOR_AUTO" title="Automatic" tooltip="Automatic" status="" short=""/>
+		<Item id="32774" name="IDS_COLOR_MORE" title="More Colors..." tooltip="More Colors..." status="" short=""/>
+		<Item id="32775" name="IDS_HW_CANCEL" title="Undo" tooltip="Undo" status="" short=""/>
+		<Item id="32776" name="IDS_HW_TEXT" title="Annot" tooltip="Annot" status="" short=""/>
+		<Item id="32777" name="IDS_ANNOT_INFO" title="Comment:View all comments" tooltip="Comment:View all comments" status="" short=""/>
+		<Item id="32778" name="IDS_ANNOT_INFOLIST" title="CommentList" tooltip="CommentList" status="" short=""/>
+	</Strings>
+	<Dialogs>
+		<Dialog id = "107" name = "IDD_OPTIONDLG" title = "Handwritting Options" >
+			<Item id = "1" name = "IDOK" title = "OK"/>
+			<Item id = "2" name= "IDCANCEL" title = "Cancel"/>
+			<Item id = "205" name = "IDC_STATIC_PENCOLOR" title = "Color:"/>
+			<Item id = "206" name = "IDC_STATIC_PENWIDTH" title = "Width:"/>
+			<Item id = "207" name = "IDC_STATIC_ALPHA" title = "Alpha:"/>
+			<Item id="210" name="IDC_STATIC_ELAPSE" title="Elapse:"/>
+			<Item id="213" name="IDC_STATIC_UNIT" title="(Milliseconds)"/>
+			<Item id="215" name="IDC_STATIC_QUALITY" title="Quality:"/>
+		</Dialog>
+	</Dialogs>
+</Localization>

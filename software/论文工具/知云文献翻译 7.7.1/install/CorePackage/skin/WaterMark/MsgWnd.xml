@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="435,215" caption="0,0,0,58" bktrans="true" gdiplustext="true">
+<Font id="0" name="微软雅黑" size="15" bold="true"/>
+<Font id="1" name="微软雅黑" size="14" bold="false" />
+<Font id="2" name="微软雅黑" size="14" bold="false" />
+
+
+ <!-- WinFrom -->
+ <VerticalLayout name="vlayout_background" bkimage="file='bk\background2.png' corner='20,20,160,160'" >
+    <!-- TitleBar -->	
+	<HorizontalLayout height="58"> 
+        <HorizontalLayout name="hlayout_title">			
+			<Label float="true" pos="11,16,0,0" width="413" height="38" bkcolor="#fff9f9f9" />			
+			<Label  name="LMsgTilte" float="true" pos="30,17,0,0" width="556" height="31" text="提示" font="0" textcolor="#333333"/>
+			<Button name="BtnClose" float="true" pos="390,28,0,0" width="12" height="12"  normalimage="file='title\close_new.png'" hotimage="file='title\close_new.png'" pushedimage="file='title\close_new.png'" cursor="hand"/>
+        </HorizontalLayout>
+    </HorizontalLayout>
+	
+<VerticalLayout name="vlayout_content">						
+		<HorizontalLayout width="423" name="hlayout_msg">				
+			<Label name="LIcon" padding="60,34,0,0" width="30" height="30" bkimage="file='msg\question_1.png'"/>
+			<RichEdit name="MsgText" padding="10,33,0,0" width="270" showhtml="true" font="1" textcolor="#333333" text="确认发放的用户是虚拟用户（不匹配key）？" readonly="true"></RichEdit> 					
+		</HorizontalLayout>
+		<!--Control height="10" /-->
+		<!--Label padding="5,0,0,0" width="500" height="2" bkimage="file='bk\line.png'"/-->
+		<!-- Button -->
+		<HorizontalLayout name="hlayout_btn" padding="0,0,0,30" height="35" >			
+			<Button name="BtnAbort" text="终止" padding="20,0,0,0" font="2" cursor="hand" width="70" height="28" textcolor="#ffffff" normalimage="file='button\btn_ok.png'" />
+			<Button name="BtnRetry" text="重试" padding="20,0,0,0" font="2"  cursor="hand" width="70" height="28" textcolor="#ffffff" normalimage="file='button\btn_ok.png' "/>
+			<Button name="BtnIgnore" text="忽略" padding="20,0,0,0" font="2" cursor="hand" width="70" height="28" textcolor="#ffffff" normalimage="file='button\btn_ok.png' "/>	
+			<Button name="BtnCancel" text="取消" padding="20,0,0,0" font="2" cursor="hand" width="70" height="28" textcolor="#333333" normalimage="file='button\btn_cancel.png'"/>
+			<Button name="BtnNo" text="否" padding="20,0,0,0" font="2" cursor="hand"  width="70" height="28" textcolor="#333333" normalimage="file='button\btn_cancel.png' "/>
+			<Button name="BtnYes" text="是" padding="20,0,0,0" font="2" cursor="hand"  width="70" height="28" textcolor="#ffffff" normalimage="file='button\btn_ok.png' "/>
+			<Button name="BtnOk" text="确定" padding="20,0,0,0" font="2" cursor="hand" width="70" height="28" textcolor="#ffffff" normalimage="file='button\btn_ok.png'"/>
+		</HorizontalLayout>
+	</VerticalLayout>
+<!--
+	<Button float="true" pos="30,150,0,0" width="75 height="28" name="btn_cancel" text="确定" font="2" textcolor="#ffffff" hottextcolor="#ffffff" pushedtextcolor="#ffffff"
+				normalimage="file='button\btn1_normal.png' source='0,0,176,80' corner='0,0,0,0'" 				
+				hotimage="file='button\btn1_horver.png' source='0,0,176,80' corner='0,0,0,0'"
+				pushedimage="file='button\btn1_down.png' source='0,0,176,80' corner='0,0,0,0'"
+			/>							
+	-->
+
+		
+</VerticalLayout>
+</Window>

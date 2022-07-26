@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="English" lName="English" lcid="0x0409" prefFont=""/>
+	<Strings>
+		<Item id="200" name="IDS_DOCUMENT_MENU_BAR" title="&amp;Document" tooltip="" status="" short=""/>
+		<Item id="201" name="IDS_INSERT_PAGES" title="Insert Pages..." tooltip="" status="" short=""/>
+		<Item id="202" name="IDS_INSERT_EMPTY" title="Insert Empty Pages..." tooltip="" status="" short=""/>
+		<Item id="203" name="IDS_EXTRACT_PAGES" title="Extract Pages..." tooltip="" status="" short=""/>
+		<Item id="204" name="IDS_DEL_PAGES" title="Delete Pages..." tooltip="" status="" short=""/>
+		<Item id="205" name="IDS_ROTATE_PAGES" title="Rotate Pages..." tooltip="" status="" short=""/>
+		<Item id="206" name="IDS_CROP_PAGES" title="Crop Pages..." tooltip="" status="" short=""/>
+		<Item id="398" name="IDS_SPLIT_PAGES" title="Split Document..." tooltip="" status="" short=""/>
+		<Item id="405" name="IDC_EXPORT_TXT" title="PDF to TXT..." tooltip="" status="" short=""/>
+		<Item id="285" name="IDC_STATIC_INSERTPAGES" title="(total %d pages)" tooltip="" status="" short=""/>
+		<Item id="3000" name="IDC_DELETESPAGES_RETAINONEPAGE" title="You cannot delete all pages from the document. At least one page must remain." tooltip="" status="" short=""/>
+		<Item id="3001" name="IDC_DELETESPAGES_DELETEWARRING" title="The starting page number must be less than or the same as the ending page number." tooltip="" status="" short=""/>
+		<Item id="3002" name="IDC_DELETESPAGES_STRINGVALUE1" title="There is no page numbered &quot;%d&quot; in the document." tooltip="" status="" short=""/>
+		<Item id="3003" name="IDC_DELETESPAGES_STRINGVALUE2" title="Are you sure you want to delete page &quot;%d&quot;？" tooltip="" status="" short=""/>
+		<Item id="3004" name="IDC_DELETESPAGES_STRINGVALUE3" title="Are you sure you want to delete pages &quot;%d&quot; to &quot;%d&quot;？" tooltip="" status="" short=""/>
+		<Item id="3005" name="IDC_DELETESPAGES_STRINGVALUE4" title="The file already exists, please save the file to save the new path!" tooltip="" status="" short=""/>
+		<Item id="3006" name="IDC_DELETESPAGES_STRINGVALUE5" title="The file does not exist, or the selected file is not legal!" tooltip="" status="" short=""/>
+		<Item id="3007" name="IDC_DELETESPAGES_STRINGVALUE6" title="The selected document‘s insertion position can not be empty!" tooltip="" status="" short=""/>
+		<Item id="3008" name="IDC_DELETESPAGES_STRINGVALUE7" title="Not have sufficient rights to insert the file, please re-select the file you want to insert!" tooltip="" status="" short=""/>
+		<Item id="3009" name="IDC_DELETESPAGES_STRINGVALUE8" title="Select the save path does not exist or is not legitimate, please re-select it!" tooltip="" status="" short=""/>
+		<Item id="4000" name="IDS_EMPTYPAGE_A0" title="A0" tooltip="" status="" short=""/>
+		<Item id="4001" name="IDS_EMPTYPAGE_A1" title="A1" tooltip="" status="" short=""/>
+		<Item id="4002" name="IDS_EMPTYPAGE_A2" title="A2" tooltip="" status="" short=""/>
+		<Item id="4003" name="IDS_EMPTYPAGE_A3" title="A3" tooltip="" status="" short=""/>
+		<Item id="4004" name="IDS_EMPTYPAGE_A4" title="A4" tooltip="" status="" short=""/>
+		<Item id="4005" name="IDS_EMPTYPAGE_A5" title="A5" tooltip="" status="" short=""/>
+		<Item id="4006" name="IDS_EMPTYPAGE_B0" title="B0" tooltip="" status="" short=""/>
+		<Item id="4007" name="IDS_EMPTYPAGE_B1" title="B1" tooltip="" status="" short=""/>
+		<Item id="4008" name="IDS_EMPTYPAGE_B2" title="B2" tooltip="" status="" short=""/>
+		<Item id="4009" name="IDS_EMPTYPAGE_B3" title="B3" tooltip="" status="" short=""/>
+		<Item id="4010" name="IDS_EMPTYPAGE_B4" title="B4" tooltip="" status="" short=""/>
+		<Item id="4011" name="IDS_EMPTYPAGE_B5" title="B5" tooltip="" status="" short=""/>		
+		<Item id="4012" name="IDS_EMPTYPAGE_LETTER_ANSIA" title="letter/ANSI A" tooltip="" status="" short=""/>
+		<Item id="4013" name="IDS_EMPTYPAGE_TABLOID_ANSIB" title="Tabloid/ANSI B" tooltip="" status="" short=""/>
+		<Item id="4014" name="IDS_EMPTYPAGE_ANSISUPERB" title="ANSI Super B" tooltip="" status="" short=""/>
+		<Item id="4015" name="IDS_EMPTYPAGE_ANSIC" title="ANSI C" tooltip="" status="" short=""/>
+		<Item id="4016" name="IDS_EMPTYPAGE_ANSID" title="ANSI D" tooltip="" status="" short=""/>
+		<Item id="4017" name="IDS_EMPTYPAGE_ANSIE" title="ANSI E" tooltip="" status="" short=""/>
+		<Item id="4018" name="IDS_EMPTYPAGE_ANSIF" title="ANSI F" tooltip="" status="" short=""/>
+		<Item id="4019" name="IDS_EMPTYPAGE_UILEGAL" title="US Legal" tooltip="" status="" short=""/>
+		<Item id="4020" name="IDS_EMPTYPAGE_STATEMENT" title="Statement" tooltip="" status="" short=""/>
+		<Item id="4021" name="IDS_EMPTYPAGE_EXECUTIVE" title="Executive" tooltip="" status="" short=""/>
+		<Item id="4022" name="IDS_EMPTYPAGE_FOLIO" title="Folio" tooltip="" status="" short=""/>
+		<Item id="4023" name="IDS_EMPTYPAGE_QUARTO" title="Quarto" tooltip="" status="" short=""/>
+		<Item id="4024" name="IDS_EMPTYPAGE_NOTE" title="Note" tooltip="" status="" short=""/>
+		<Item id="4025" name="IDS_EMPTYPAGE_ENVELOPE9" title="Envelop #9" tooltip="" status="" short=""/>
+		<Item id="4026" name="IDS_EMPTYPAGE_ENVELOPE10" title="Envelop #10" tooltip="" status="" short=""/>
+		<Item id="4027" name="IDS_EMPTYPAGE_ENVELOPE11" title="Envelop #11" tooltip="" status="" short=""/>
+		<Item id="4028" name="IDS_EMPTYPAGE_ENVELOPE14" title="Envelop #14" tooltip="" status="" short=""/>
+		<Item id="4029" name="IDS_EMPTYPAGE_ENVELOPEDL" title="Envelop DL" tooltip="" status="" short=""/>
+		<Item id="4030" name="IDS_EMPTYPAGE_ENVELOPEC3" title="Envelop C3" tooltip="" status="" short=""/>
+		<Item id="4031" name="IDS_EMPTYPAGE_ENVELOPEC4" title="Envelop C4" tooltip="" status="" short=""/>
+		<Item id="4032" name="IDS_EMPTYPAGE_ENVELOPEC5" title="Envelop C5" tooltip="" status="" short=""/>
+		<Item id="4033" name="IDS_EMPTYPAGE_ENVELOPEC6" title="Envelop C6" tooltip="" status="" short=""/>
+		<Item id="4034" name="IDS_EMPTYPAGE_ENVELOPEC65" title="Envelop C65" tooltip="" status="" short=""/>
+		<Item id="4035" name="IDS_EMPTYPAGE_ENVELOPEB4" title="Envelop B4" tooltip="" status="" short=""/>
+		<Item id="4036" name="IDS_EMPTYPAGE_ENVELOPEB5" title="Envelop B5" tooltip="" status="" short=""/>
+		<Item id="4037" name="IDS_EMPTYPAGE_ENVELOPEB6" title="Envelop B6" tooltip="" status="" short=""/>
+		<Item id="4038" name="IDS_EMPTYPAGE_MONARCH" title="Env.Monarch" tooltip="" status="" short=""/>
+		<Item id="4039" name="IDS_EMPTYPAGE_PERSONAL" title="Env.Personal" tooltip="" status="" short=""/>
+		<Item id="4040" name="IDS_EMPTYPAGE_18X24" title="18x24" tooltip="" status="" short=""/>
+		<Item id="4041" name="IDS_EMPTYPAGE_24X36" title="24x36" tooltip="" status="" short=""/>
+		<Item id="4042" name="IDS_EMPTYPAGE_30X24" title="30x24" tooltip="" status="" short=""/>
+		<Item id="5000" name="IDS_UNITCONVERSION_CENTIMETER" title="centimeters" tooltip="" status="" short=""/>
+		<Item id="5001" name="IDS_UNITCONVERSION_INCHES" title="inches" tooltip="" status="" short=""/>
+		<Item id="5002" name="IDS_UNITCONVERSION_MILLIMETER" title="millimeters" tooltip="" status="" short=""/>
+		<Item id="5003" name="IDS_UNITCONVERSION_PIXEL" title="picas" tooltip="" status="" short=""/>
+		<Item id="5004" name="IDS_UNITCONVERSION_POINT" title="points" tooltip="" status="" short=""/>
+		<Item id="6000" name="IDS_LOCATION_BEFORE" title="Before" tooltip="" status="" short=""/>
+		<Item id="6001" name="IDS_LOCATION_BEHIND" title="After" tooltip="" status="" short=""/>
+		<Item id="6002" name="IDC_STATIC_TOTALPAGES" title="(total %d pages)" tooltip="" status="" short=""/>
+		<Item id="32768" name="IDS_CLOCKWISE_90" title="Clockwise 90 degrees" tooltip="" status="" short=""/>
+		<Item id="32769" name="IDS_UNCLOCKWISE_90" title="Counterclockwise 90 degrees" tooltip="" status="" short=""/>
+		<Item id="32770" name="IDS_CLOCK_180" title="180 degrees" tooltip="" status="" short=""/>
+		<Item id="32771" name="IDS_ODD_EVEN" title="All Pages" tooltip="" status="" short=""/>
+		<Item id="32772" name="IDS_ODD" title="Even Pages Only" tooltip="" status="" short=""/>
+		<Item id="32773" name="IDS_EVEN" title="Odd Pages Only" tooltip="" status="" short=""/>
+		<Item id="32774" name="IDS_LANDSCAPE" title="Landscape Pages" tooltip="" status="" short=""/>
+		<Item id="32775" name="IDS_PORTRAIT" title="portrait Pages" tooltip="" status="" short=""/>
+		<Item id="32776" name="IDS_ANY_DIRECTION" title="Pages of Any Orientation" tooltip="" status="" short=""/>
+		<Item id="32777" name="IDS_HEADER_FOOTER" title="Header And Footer" tooltip="" status="" short=""/>
+		<Item id="32778" name="IDS_HEADER_FOOTER_ADD" title="Add..." tooltip="" status="" short=""/>
+		<Item id="32779" name="IDS_HEADER_FOOTER_UPDATE" title="Update..." tooltip="" status="" short=""/>
+		<Item id="32780" name="IDS_HEADER_FOOTER_DEL" title="Delete..." tooltip="" status="" short=""/>
+		<Item id="32781" name="IDS_HEADER_TIP_UPDATE" title="This file already contains the header or footer, are you sure you want to replace the existing header or footer? &#x000A;&#x000A;&#x000A;If not replace may overwrite the existing header or footer." tooltip="" status="" short=""/>
+		<Item id="32782" name="IDS_HEADER_TIP_DEL" title="Are you sure you want to permanently delete header and footer information?" tooltip="" status="" short=""/>
+		<Item id="32783" name="IDS_HEADER_TIP_NO_HEAD" title="iStylePDF can't find any header or footer information in the file, if you see the header or footer information, it is not Adobe or iStylePDF added, so we can not be detected." tooltip="" status="" short=""/>
+		<Item id="32784" name="IDS_FONT_SIZE_TIP" title="Values in the &quot;1&quot; to &quot;10000&quot;" tooltip="" status="" short=""/>
+		<Item id="32785" name="IDS_TXT_CROP"     title="CropBox"   tooltip="" status="" short=""/>
+		<Item id="32786" name="IDS_TXT_BLEED"    title="BleedBox"  tooltip="" status="" short=""/>
+		<Item id="32787" name="IDS_TXT_TRIM"     title="TrimBox"   tooltip="" status="" short=""/>
+		<Item id="32788" name="IDS_TXT_ART"      title="ArtBox"    tooltip="" status="" short=""/>
+		<Item id="32789" name="IDS_TXT_ALLPAGE"  title="All Page"  tooltip="" status="" short=""/>
+		<Item id="32790" name="IDS_TXT_ODDPAGE"  title="Odd Page"  tooltip="" status="" short=""/>
+		<Item id="32791" name="IDS_TXT_EVENPAGE" title="Even Page" tooltip="" status="" short=""/>
+		<Item id="32792" name="IDC_ST_TOTALPAGES" title="Total %d page"/>
+		<Item id="32793" name="IDC_ST_CROPPAGESIZE" title="Crop page size: %.2f * %.2f millimetre"/>
+		<Item id="32794" name="IDC_TXT_SEPARATOR" title="part"/>
+		<Item id="32795" name="IDC_TXT_SPLITTIP" title="The document will be split into %d parts"/>
+		<Item id="32796" name="IDC_TXT_SPLITWARN" title="Please check the abnormal string in the split page number"/>
+		<Item id="32797" name="IDC_TXT_EXPORTTXTWARN" title="Page range is invalid"/>
+	</Strings>
+	<Dialogs>
+		<Dialog id="107"   name="IDD_SPROATEPAGES" title="Rotate Pages">
+			<Item id="1"   name="IDOK" title="OK"/>
+			<Item id="2"   name="IDCANCEL" title="Cancel"/>
+			<Item id="212" name="IDC_STATIC_DIRECTION" title="Direction："/>
+			<Item id="213" name="IDC_STATIC_GROUP_PAGERANGE" title="Page Range"/>
+			<Item id="214" name="IDC_RADIO_ALL" title="All"/>
+			<Item id="215" name="IDC_RADIO_SELECTED_PAGE" title="Selected Page"/>
+			<Item id="216" name="IDC_RADIO_PAGES" title="Pages"/>
+			<Item id="217" name="IDC_STATIC_FROM" title="From:"/>
+			<Item id="218" name="IDC_RADIO_PAGES" title="To:"/>  
+			<Item id="301" name="IDC_STATIC_ROTATE" title="Rotate:"/>
+		</Dialog>
+		<Dialog id="109"   name="IDD_SPDELETEPAGES" title="Delete Pages">
+			<Item id="1"   name="IDOK" title="OK"/>
+			<Item id="2"   name="IDCANCEL" title="Cancel"/>
+			<Item id="298" name="IDC_STATIC_PAGERANGE" title="Page Range"/>
+			<Item id="220" name="IDC_DELETEPAGES_SELECTPAGES" title="Selected Pages"/>			
+			<Item id="221" name="IDC_STATIC_DELETEPAGES_FROM" title="From:"/>
+			<Item id="222" name="IDC_STATIC_DELETEPAGES_TO" title="To:"/>
+		</Dialog>
+		<Dialog id="110" name="IDD_SPDELETEPAGESMESSAGEBOX1" title="iStylePDF">
+			<Item id="1"   name="IDOK" title="OK"/>
+		</Dialog> 
+		<Dialog id="111" name="IDD_SPDELETEPAGESMESSAGEBOX2" title="iStylePDF">
+			<Item id="1"   name="IDOK" title="YES"/>
+			<Item id="2"   name="IDCANCEL" title="NO"/>
+		</Dialog> 
+		<Dialog id="117"   name="IDD_SPINSERTEMPTYPAGE" title="Insert Empty Pages">
+			<Item id="1"   name="IDOK" title="OK"/>
+			<Item id="2"   name="IDCANCEL" title="Cancel"/>
+			<Item id="265" name="IDC_STATIC_PAGES" title="Pages"/>
+			<Item id="233" name="IDC_RADIO_STANDARD" title="Standard:"/>
+			<Item id="212" name="IDC_STATIC_DIRECTION" title="Destination:"/>
+			<Item id="244" name="IDC_RADIO_VERTICAL" title="Portrait"/> 
+			<Item id="245" name="IDC_RADIO_LEVEL" title="Landscape"/>
+			<Item id="246" name="IDC_STATIC_OBJECTIVE" title="Destination"/>
+			<Item id="247" name="IDC_STATIC_LOCATION" title="Location:"/>
+			<Item id="250" name="IDC_RADIO_FRIESTPAGE" title="First Page"/>	
+			<Item id="251" name="IDC_STATIC_SOURCE" title="Last Page"/>	
+			<Item id="252" name="IDC_STATIC_SOURCE" title="Page:"/>			
+		</Dialog>
+		<Dialog id="118" name="IDD_SPINSERTPAGE" title="Insert Pages">
+			<Item id="1"   name="IDOK" title="OK"/>
+			<Item id="2"   name="IDCANCEL" title="Cancel"/>
+			<Item id="251" name="IDC_RADIO_ENDPAGE" title="Last Page"/>
+			<Item id="252" name="IDC_RADIO_ANYPAGE" title="Page:"/>
+			<Item id="265" name="IDC_RADIO_FILESOURCE" title="From File"/>
+			<Item id="267" name="IDC_BUTTON_BROWSE" title="Browse..."/> 
+			<Item id="279" name="IDC_STATIC_INSERTLOCATION" title="Location:"/>
+			<Item id="281" name="IDC_RADIO_FIRSTPAGE" title="First Page"/>
+			<Item id="296" name="IDC_STATIC_OBJECT" title="Destination"/>
+			<Item id="297" name="IDC_STATIC_SOURCE" title="Source"/>				
+		</Dialog>
+		<Dialog id="119" name="IDD_SPEXTRACTPAGES" title="Extract Pages">
+			<Item id="1"   name="IDOK" title="OK"/>
+			<Item id="2"   name="IDCANCEL" title="Cancel"/>
+			<Item id="286" name="IDC_STATIC_EXTRACTPAGES" title="Page Range"/>
+			<Item id="289" name="IDC_RADIO_ALLPAGES" title="All"/>
+			<Item id="261" name="IDC_CHECK_OPTION1" title="Delete Pages After Extraction"/>
+			<Item id="262" name="IDC_CHECK_OPTION2" title="Save Extracted Pages to New File"/>
+			<Item id="291" name="IDC_RADIO_CURRENTPAGE" title="Current Page"/>
+			<Item id="292" name="IDC_RADIO_ANYPAGES" title="Pages:"/> 
+			<Item id="272" name="IDC_STATIC_STARTPAGE" title="From:"/>
+			<Item id="274" name="IDC_STATIC_ENDPAGE" title="To:"/>
+			<Item id="287" name="IDC_STATIC_EXTRACTOPTION" title="Options"/>
+			<Item id="288" name="IDC_STATIC_EXTRACTSAVE" title="Save As"/>
+			<Item id="293" name="IDC_STATIC_DESTINATIONFOLDER" title="Destination file path:"/>
+			<Item id="295" name="IDC_BUTTON_SAVEFILE" title="Browse..."/> 
+		</Dialog> 
+		<Dialog id="121" name="IDD_SPADDHEADERFOOTER" title="Add header and footer">
+			<Item id="339"   name="ID_OK" title="OK"/>
+			<Item id="2"   name="IDCANCEL" title="Cancel"/>
+			<Item id="307" name="IDC_ST_FONT_INFO" title="Font"/>
+			<Item id="308" name="IDC_ST_FONT_SIZE" title="Size"/>
+			<Item id="310" name="IDC_ST_PAGE_GAP" title="Margins(cm)"/>
+			<Item id="311" name="IDC_ST_TOP" title="Top"/>
+			<Item id="312" name="IDC_ST_BOTTOM" title="Bottom"/>
+			<Item id="313" name="IDC_ST_LEFT" title="Left"/> 
+			<Item id="314" name="IDC_ST_RIGHT" title="Right"/>
+			<Item id="315" name="IDC_ST_LEFT_HEADER" title="The left side of the header text"/>
+			<Item id="316" name="IDC_ST_CENTER_HEADER" title="The center side of the header text"/>
+			<Item id="317" name="IDC_ST_RIGHT_HEADER" title="The right side of the header text"/>
+			<Item id="318" name="IDC_ST_LEFT_FOOTER" title="The left side of the footer text"/>
+			<Item id="319" name="IDC_ST_CENTER_FOOTER" title="The center side of the footer text"/>
+			<Item id="320" name="IDC_ST_RIGHT_FOOTER" title="The right side of the footer text"/>
+			<Item id="321" name="IDC_BTN_INSERT_PAGENUM" title="Insert Page"/>
+			<Item id="322" name="IDC_BTN_INSERT_DATE" title="Insert Date"/>
+			<Item id="341" name="IDC_BTN_SETTINGS" title="Settings..."/>
+		</Dialog>
+		<Dialog id="122" name="IDD_SPSETTINGSDLG" title="Page number and date format">
+			<Item id="1"   name="IDOK" title="OK"/>
+			<Item id="2"   name="IDCANCEL" title="Cancel"/>
+			<Item id="342" name="IDC_ST_DATE_FORMAT" title="Date format:"/>
+			<Item id="343" name="IDC_ST_PAGE_FORMAT" title="Page format:"/>
+		</Dialog>
+		<Dialog id="123" name="IDD_SPCROPPAGES" title="PDF Crop Pages">
+			<Item id="123" name="IDD_SPCROPPAGES" title="PDF Crop Pages"/>
+			<Item id="350" name="IDC_ST_PREVIEW" title="Preview"/>
+			<Item id="348" name="IDC_ST_GP_CROP_MARGINS" title="Crop Outline Border"/>
+			<Item id="353" name="IDC_ST_CROPSTYLE" title="Box Type"/>
+			<Item id="351" name="IDC_CHK_ALLCROP" title="Show All"/>
+			<Item id="366" name="IDC_ST_MARGIN_CTL" title="Outline Border(Uint：Millimetre)"/>
+			<Item id="354" name="IDC_ST_CROP_TOP" title="Top Margin:"/>
+			<Item id="357" name="IDC_ST_CROP_BOTTOM" title="Bottom Margin:"/>
+			<Item id="361" name="IDC_ST_CROP_LEFT" title="Left Margin:"/>
+			<Item id="363" name="IDC_ST_CROP_RIGHT" title="Right Margin:"/>
+			<Item id="367" name="IDC_BTN_ZERO" title="Zero Margin"/>
+			<Item id="368" name="IDC_BTN_CROP_BLANK" title="Reset"/>
+			<Item id="349" name="IDC_ST_PAGERANGE" title="Crop Range Page"/>
+			<Item id="369" name="IDC_RADIO_CROP_ALLPAGES" title="All Page"/>
+			<Item id="370" name="IDC_RADIO_CROP_CURRENTPAGE" title="Current Page"/>
+			<Item id="371" name="IDC_RADIO_CROP_ANYPAGES" title="Range Page"/>
+			<Item id="374" name="IDC_ST_APPLYTO" title="PageMode："/>
+			<Item id="101" name="IDR_DOCUMENTASSEMBLYADDIN" title="Ok"/>
+			<Item id="2"   name="IDCANCEL" title="Cancel"/>
+		</Dialog>
+		<Dialog id="2006"  name="IDD_SPSPLITEDOC" title="Split Document">
+			<Item id="2006" name="IDD_SPSPLITEDOC" title="Split Document"/>
+			<Item id="397" name="IDC_ST_SPLITDOC" title="Split Document"/>
+			<Item id="380" name="IDC_RADIO_PAGE"  title="Page"/>
+			<Item id="399" name="IDC_TIPSTATIC"   title=""/>
+			<Item id="381" name="IDC_RADIO_PAGERANGE" title="Range Page"/>
+			<Item id="349" name="IDC_ST_PAGERANGE" title="(eg：1,2-3,8-10)"/>
+			<Item id="386" name="IDC_ST_OUTPUTPATH" title="Document Path"/>
+			<Item id="387" name="IDC_RADIO_SRCPATH" title="Save in the same folder as the original file"/>
+			<Item id="388" name="IDC_RADIO_SCANPATH" title="Save as"/>
+			<Item id="390" name="IDC_BUTTON_SCAN" title="Browse..."/>
+			<Item id="408" name="IDC_GROUPDOCNAME" title="FileName"/>
+			<Item id="391" name="IDC_RADIO_DOCNAME1" title="Add a label and number before the original file name"/>
+			<Item id="392" name="IDC_RADIO_DOCNAME2" title="Add label and number after original file name"/>
+			<Item id="393" name="IDC_CHK_LABEL" title="Use label:"/>
+			<Item id="394" name="IDC_CHK_SEPARATOR" title="Use a separator between filename and label:"/>
+			<Item id="395" name="IDC_CHK_COVER" title="Do not overwrite existing files"/>
+			<Item id="1"   name="IDOK"    title="Ok"/>
+			<Item id="8"   name="IDCLOSE" title="Cancel"/>
+		</Dialog>
+		<Dialog id="2007"  name="IDD_EXPORTTXTDLG" title="PDF to TXT">
+			<Item id="409" name="IDC_EXPORTTXT_PAGERANGE" title="Page Range:"/>
+			<Item id="410" name="IDC_EXPORTTXT_TO" title="To"/>
+			<Item id="411" name="IDC_EXPORTTXT_PAGE" title="Page"/>
+			<Item id="412" name="IDC_EXPORTTXT_OUTDIR" title="OutputPath:"/>
+			<Item id="401" name="IDC_EXPORTTXT_BROWSE" title="Browse..."/>
+			<Item id="1"   name="IDOK" title="Ok"/>
+		</Dialog>
+	</Dialogs>
+</Localization>

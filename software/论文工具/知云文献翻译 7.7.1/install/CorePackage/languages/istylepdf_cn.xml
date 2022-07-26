@@ -1,0 +1,415 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (PRC)" lName="简体中文" lcid="0x0804" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDOK" title="确定"/>
+		<Item id="2" name="IDCANCEL" title="取消"/>
+		<Item id="6" name="IDYES" title="是"/>
+		<Item id="7" name="IDNO" title="否"/>
+		<Item id="100" name="" title="iWebPDF"/>
+		<Item id="1108" name="IDC_STATIC_PROTECT_FILENAME" title="文件&quot;%s&quot;被保护。"/>
+		<Item id="10000" name="ID_MENU_FILE" title="文件(&amp;F)" tooltip="文件" status="" short=""/>
+		<Item id="10001" name="ID_MENU_EDIT" title="编辑(&amp;E)" tooltip="编辑" status="" short=""/>
+		<Item id="10002" name="ID_MENU_VIEW" title="视图(&amp;V)" tooltip="视图" status="" short=""/>
+		<Item id="10003" name="ID_MENU_TOOL" title="工具(&amp;T)" tooltip="工具" status="" short=""/>
+		<Item id="10004" name="ID_MENU_HELP" title="帮助(&amp;H)" tooltip="帮助" status="" short=""/>
+		<Item id="10005" name="ID_MENU_FILE_NEW" title="新建文件(&amp;N)&#09;Ctrl+N" tooltip="" status="" short=""/>
+		<Item id="10006" name="ID_MENU_VIEW_TOOLS" title="工具栏" tooltip="" status="" short=""/>
+		<Item id="10007" name="ID_MENU_VIEW_OTHERWINDOWS" title="其他窗格" tooltip="" status="" short=""/>
+		<Item id="10008" name="ID_MENU_VIEW_PAGESTEUP" title="页面设置" tooltip="" status="" short=""/>
+		<Item id="10009" name="ID_MENU_VIEW_ROTATE" title="旋转视图" tooltip="旋转视图" status="" short=""/>
+		<!-- BUTTON -->
+		<Item id="1094" name="ID_TAB_CLOSENOACTIVE" title="关闭此标签外的所有标签" tooltip="关闭此标签外的所有标签" status="关闭此标签外的所有标签" short=""/>
+		<Item id="1095" name="IDC_BT_META_DATA" title="附加元数据" tooltip="附加元数据" status="" short=""/>
+		<!-- MENU -->
+		<Item id="32000" name="ID_MENU_FILE_OPEN" title="打开(&amp;O)...	&#09;Ctrl+O" tooltip="打开文档" status="" short=""/>
+		<Item id="32001" name="ID_MENU_FILE_OPEN_URL" title="打开URL(&amp;U)..." tooltip="打开网络上的文档" status="打开网络上的文档" short=""/>
+		<Item id="32002" name="ID_MENU_FILE_SAVE" title="保存(&amp;S)&#09;Ctrl+S" tooltip="保存文档" status="保存文档" short=""/>
+		<Item id="32003" name="ID_MENU_FILE_SAVE_AS" title="另存为(&amp;A)..." tooltip="文档另存为" status="文档另存为" short=""/>
+		<Item id="32004" name="ID_MENU_FILE_NEW_BLANK" title="从空白页..." tooltip="从空白页" status="" short=""/>
+		<Item id="32005" name="ID_MENU_FILE_NEW_TEXT" title="从文本..." tooltip="从文本" status="" short=""/>
+		<Item id="32006" name="ID_MENU_FILE_NEW_IMG" title="从图像..." tooltip="从图像" status="" short=""/>
+		<Item id="32007" name="ID_MENU_FILE_NEW_SCANNER" title="从扫描仪..." tooltip="从扫描仪" status="" short=""/>
+		<Item id="32008" name="ID_MENU_FILE_CLOSE" title="关闭(&amp;C)&#09;Ctrl+W" tooltip="关闭文档" status="" short=""/>
+		<Item id="32009" name="ID_MENU_FILE_CLOSE_ALL" title="全部关闭" tooltip="关闭全部档" status="" short=""/>
+		<Item id="32010" name="ID_MENU_FILE_PRINT" title="打印(&amp;P)...&#09;Ctrl+P" tooltip="打印文档" status="" short=""/>
+		<Item id="32011" name="ID_MENU_FILE_DOCUMENT_PROPERTY" title="文档属性...&#09;Ctrl+D" tooltip="文档属性" status="文档属性" short=""/>
+		<Item id="32012" name="ID_MENU_FILE_COPY_FULLNAME" title="复制完整文件名(&amp;N)" tooltip="复制完整文件名" status="" short=""/>
+		<Item id="32013" name="ID_MENU_FILE_OPEN_FILEPATH" title="打开所在文件夹(&amp;C)" tooltip="打开所在文件夹" status="打开所在文件夹" short=""/>
+		<Item id="32014" name="ID_MENU_EDIT_UNDO" title="撤销(&amp;U)" tooltip="撤销" status="撤销" short=""/>
+		<Item id="32015" title="重做(&amp;R)" tooltip="重做" status="重做" short=""/>
+		<Item id="32016" title="剪切(&amp;X)" tooltip="剪切" status="剪切" short=""/>
+		<Item id="32017" title="复制(&amp;C)&#09;Ctrl+C" tooltip="复制" status="复制" short=""/>
+		<Item id="32018" title="粘帖(&amp;P)" tooltip="粘帖" status="粘帖" short=""/>
+		<Item id="32516" title="全选(&amp;A)&#09;Ctrl+A" tooltip="全选" status="全选" short=""/>
+		<Item id="32019" title="删除(&amp;D)" tooltip="删除" status="删除" short=""/>
+		<Item id="32020" title="查找(&amp;F)" tooltip="查找" status="查找" short=""/>
+		<Item id="32021" title="搜索(&amp;S)" tooltip="搜索" status="搜索" short=""/>
+		<Item id="32022" title="选项(&amp;N)" tooltip="选项" status="选项" short=""/>
+		<Item id="32023" title="文件工具栏(&amp;F)" tooltip="文件工具栏" status="" short=""/>
+		<Item id="32024" title="标准工具栏(&amp;S)" tooltip="标准工具栏" status="标准工具栏" short=""/>
+		<Item id="32025" title="缩放工具栏(&amp;Z)" tooltip="缩放工具栏" status="缩放工具栏" short=""/>
+		<Item id="32026" title="查找工具栏(&amp;D)" tooltip="查找工具栏" status="查找工具栏" short=""/>
+		<Item id="32027" title="旋转视图工具栏(&amp;R)" tooltip="旋转视图工具栏" status="旋转视图工具栏" short=""/>
+		<Item id="32028" title="注释和标记工具栏(&amp;C)" tooltip="注释和标记工具栏" status="注释和标记工具栏" short=""/>
+		<Item id="32029" title="连结编辑器工具栏(&amp;L)" tooltip="连结编辑器工具栏" status="连结编辑器工具栏" short=""/>
+		<Item id="32030" title="测量工具栏(&amp;M)" tooltip="测量工具栏" status="测量工具栏" short=""/>
+		<Item id="32031" title="页面导航工具栏(&amp;N)" tooltip="页面导航工具栏" status="页面导航工具栏" short=""/>
+		<Item id="32032" title="页面布局工具栏(&amp;A)" tooltip="页面布局工具栏" status="页面布局工具栏" short=""/>
+		<Item id="32033" title="状态栏(&amp;S)" tooltip="状态栏" status="状态栏" short=""/>
+		<Item id="32034" title="书签" tooltip="书签" status="书签" short=""/>
+		<Item id="32035" title="页面缩略图" tooltip="页面缩略图" status="页面缩略图" short=""/>
+		<Item id="32065" title="管理表单控件" tooltip="管理表单控件" status="管理表单控件" short=""/>
+		<Item id="32036" title="层" tooltip="层" status="层" short=""/>
+		<Item id="32037" title="字段" tooltip="字段" status="字段" short=""/>
+		<Item id="32038" title="注释" tooltip="注释" status="注释" short=""/>
+		<Item id="32039" title="实际大小" tooltip="实际大小" status="实际大小" short=""/>
+		<Item id="32040" title="符合页面" tooltip="符合页面" status="符合页面" short=""/>
+		<Item id="32041" title="符合宽度" tooltip="符合宽度" status="符合宽度" short=""/>
+		<Item id="32042" title="单页" tooltip="单页" status="单页" short=""/>
+		<Item id="32043" title="连续" tooltip="连续" status="连续" short=""/>
+		<Item id="32044" title="对开" tooltip="对开" status="对开" short=""/>
+		<Item id="32045" title="连续对开" tooltip="连续对开" status="连续对开" short=""/>
+		<Item id="32046" title="左旋转" tooltip="左旋转" status="左旋转" short=""/>
+		<Item id="32047" title="右旋转" tooltip="右旋转" status="右旋转" short=""/>
+		<Item id="32048" title="全屏幕" tooltip="全屏幕" status="全屏幕" short=""/>
+		<Item id="32049" title="锁定/解锁所有工具栏" tooltip="锁定/解锁所有工具栏" status="锁定/解锁所有工具栏" short=""/>
+		<Item id="32050" name="ID_MENU_VIEW_ZOOM_TO" title="缩放至..." tooltip="缩放至" status="缩放至" short=""/>
+		<Item id="32051" name="ID_MENU_VIEW_GOTO" title="前往(&amp;G)" tooltip="前往" status="前往" short=""/>
+		<Item id="32052" name="ID_MENU_VIEW_SHOW_COVER" title="在对开模式显示封面" tooltip="在对开模式显示封面" status="在对开模式显示封面" short=""/>
+		<Item id="32053" name="ID_MENU_VIEW_SHOW_SPACE" title="显示页面间空白" tooltip="显示页面间空白" status="显示页面间空白" short=""/>
+		<Item id="32054" name="ID_MENU_VIEW_ATTACHMENT" title="附件" tooltip="附件" status="附件" short=""/>
+		<Item id="32055" name="ID_MENU_FILE_SAVEALL" title="全部保存" tooltip="全部保存" status="全部保存" short="" />
+		<Item id="32056" name="ID_MENU_VIEW_MENUBAR" title="菜单栏(&amp;M)&#09;F9" tooltip="菜单栏" status="菜单栏" short="" />
+		<Item id="32057" name="ID_MENU_RECENT_FILES" title="最近的文件(&amp;F)" tooltip="最近的文件" status="最近的文件" short="" />
+		<Item id="32059" name="ID_MENU_VIEW_PAGE_SPLIT" title="水平拆分" tooltip="" status="" short="" />
+		<Item id="32060" name="ID_MENU_VIEW_PAGE_VER_SPLIT" title="垂直拆分" tooltip="" status="" short="" />
+		<Item id="32871" name="ID_MENU_TOOL_ZOOMPOPUP" title="缩放工具" tooltip="缩放工具" status="缩放工具" short=""/>
+		<Item id="32500" title="缩放工具" tooltip="缩放工具" status="缩放工具" short=""/>
+		<Item id="32501" title="缩小工具" tooltip="缩小工具" status="缩小工具" short=""/>
+		<Item id="32502" title="缩放等级" tooltip="缩放等级" status="缩放等级" short=""/>
+		<Item id="32503" title="放大工具" tooltip="放大工具" status="放大工具" short=""/>
+		<Item id="32512" title="缩小" tooltip="缩小" status="缩小" short=""/>
+		<Item id="32513" title="放大" tooltip="放大" status="放大" short=""/>
+		<Item id="32519" name="ID_MENU_TOOL_ZOOM_DYNAMIC" title="动态缩放" tooltip="动态缩放" status="" short=""/>
+		<Item id="32522" title="自动滚动" tooltip="自动滚动" status="自动滚动" short=""/>	
+		<Item id = "32523" title="-2 倍速度" tooltip="-2 倍速度" status="-2 倍速度" short=""/>
+		<Item id = "32524" title="-1 倍速度" tooltip="-1 倍速度" status="-1 倍速度" short=""/>
+		<Item id = "32525" title=" 1 倍速度" tooltip=" 1 倍速度" status=" 1 倍速度" short=""/>
+		<Item id = "32526" title=" 2 倍速度" tooltip=" 2 倍速度" status=" 2 倍速度" short=""/>
+		<Item id="10010" name="ID_MENU_TOOL_STANDARD" title="基本工具" tooltip="基本工具" status="基本工具" short=""/>
+		<Item id="32504" title="手型工具" tooltip="手型工具" status="手型工具" short=""/>
+		<Item id="32505" title="快照工具" tooltip="快照工具" status="快照工具" short=""/>
+		<Item id="32506" title="文本工具" tooltip="文本工具" status="文本工具" short=""/>
+		<Item id="32507" name="ID_TOOL_FIND_INPUT" title="查找文本" tooltip="查找文本" status="查找文本" short=""/>
+		<Item id="32508" name="ID_TOOL_FIND_PRO" title="上一个" tooltip="上一个" status="上一个" short=""/>
+		<Item id="32509" name="ID_TOOL_FIND_NEXT" title="下一个" tooltip="下一个" status="下一个" short=""/>
+		<Item id="32510" name="ID_TOOL_FIND_OPTIONS" title="查找选项" tooltip="查找选项" status="查找选项" short=""/>
+		<Item id="32511" name="ID_MENU_VIEW_FULL_SLIDE" title="幻灯片" tooltip="幻灯片" status="幻灯片" short=""/>
+		<Item id="32514" name="ID_TOOL_FIND_MATCHCASE" title="区分大小写" tooltip="区分大小写" status="区分大小写" short=""/>
+		<Item id="32515" name="ID_TOOL_FIND_MATCHWHOLEWORD" title="全字匹配" tooltip="全字匹配" status="全字匹配" short=""/>
+		<Item id="32517" name="ID_TOOL_FIND_CLEAR" title="清空查找列表" tooltip="清空查找列表" status="清空查找列表" short=""/>
+		<Item id="32518" name="ID_MENU_TOOL_ADD_BOOKMARK" title="添加书签" tooltip="添加书签" status="添加书签" short=""/>
+		<Item id="32520" name="ID_MENU_VIEW_COORDINATE" title="坐标工具" tooltip="坐标工具" status="坐标工具" short="" />
+		<Item id="32521" name="ID_MENU_TOOL_CAPTUREBITMAP" title="截图对比工具" tooltip="截图对比工具" status="截图对比工具" short="" />
+		<Item id="32985" name="ID_ABOUT" title="关于产品" tooltip="关于产品" status="关于产品" short=""/>
+		<Item id="32986" name="ID_CHECK_UPDATES" title="检测更新..." tooltip="检测更新" status="检测软件更新" short=""/>
+		<Item id="32910" name="ID_NAVIGATION_FIRST" title="第一页" tooltip="第一页" status="第一页" short=""/>
+		<Item id="32911" name="ID_NAVIGATION_PREV" title="上一页" tooltip="上一页" status="上一页" short=""/>
+		<Item id="32913" name="ID_NAVIGATION_NEXT" title="下一页" tooltip="下一页" status="下一页" short=""/>
+		<Item id="32914" name="ID_NAVIGATION_LAST" title="最末页" tooltip="最末页" status="最末页" short=""/>
+		<Item id="32915" name="ID_NAVIGATION_BACK" title="返回" tooltip="返回" status="返回" short=""/>
+		<Item id="32916" name="ID_NAVIGATION_FORWARD" title="前进" tooltip="前进" status="前进" short=""/>
+		<Item id="33000" name="IDS_DOCUMENT_PROPERTY" title="文档属性" tooltip="" status="" short=""/>
+		<Item id="33001" name="IDS_CLASSIFICATION" title="分类" tooltip="" status="" short=""/>
+		<Item id="33002" name="IDS_DESCRIPTION_INFO" title="描述信息" tooltip="" status="" short=""/>			
+		<Item id="33003" name="IDS_SECURITY" title="安全" tooltip="" status="" short=""/>
+		<Item id="33004" name="IDS_FONT" title="字体" tooltip="" status="" short=""/>
+		<Item id="33036" name="IDS_RIGHT_PRINT_HIGH" title="高分辨率" tooltip="" status="" short=""/>
+		<Item id="33037" name="IDS_RIGHT_PRINT_LOW" title="低分辨率(150dpi)" tooltip="" status="" short=""/>
+		<Item id="33038" name="IDS_RIGHT_PERMIT" title="允许" tooltip="" status="" short=""/>
+		<Item id="33039" name="IDS_RIGHT_NO_PERMIT" title="不允许" tooltip="" status="" short=""/>
+		<Item id="33040" name="IDS_NO_SECURITY" title="无安全设置" tooltip="" status="" short=""/>
+		<Item id="33041" name="IDS_PASSWORD_SECURITY" title="口令安全性" tooltip="" status="" short=""/>
+		<Item id="33042" name="IDS_CRYPT_LEVEL_BITS" title=" 位" tooltip="" status="" short=""/>
+		<Item id="33043" name="IDS_CRYPT_LEVEL_NONE" title="无" tooltip="" status="" short=""/>
+		<Item id="33044" name="IDS_CRYPT_LEVEL_UNKNOWN" title="未知" tooltip="" status="" short=""/>
+		<Item id="33045" name="IDS_CERT_SECURITY" title="证书安全性" tooltip="" status="" short=""/>
+		<Item id="33047" name="IDS_BYTES" title=" (字节)" tooltip="" status="" short=""/>	
+		<Item id="33049" name="IDS_FONTS_COUNT" title="共收集 %d 种字体" tooltip="" status="" short=""/>	
+		<Item id="33050" name="ID_BOOKMARK_NEW" title="新建书签" tooltip="新建书签" status="" short="" />
+		<Item id="33051" name="ID_BOOKMARK_DEL" title="删除" tooltip="删除书签" status="" short="" />
+		<Item id="33052" name="ID_BOOKMARK_RENAME" title="重命名" tooltip="重命名书签标题" status="" short="" />
+		<Item id="33978" name="IDS_ATTACHMENT_TITLE" title="附件" tooltip="" status="" short=""/>
+		<Item id="33979" name="IDS_ENCRYPT_TITLE" title="(已加密)" tooltip="" status="" short=""/>
+		<Item id="33980" name="IDS_DAMAGED_FILE" title="(已损坏的文档*)" tooltip="" status="" short=""/>
+		<Item id="33981" name="IDS_FILE_PRINTING" title="正在打印文档页面" tooltip="" status="" short=""/>
+		<Item id="33982" name="IDS_FONT_EMBEDDED" title="（已嵌入）" tooltip="" status="" short=""/>
+		<Item id="33983" name="IDS_FONT_NOEMBEDDED" title=" " tooltip="" status="" short=""/>
+		<Item id="33984" name="IDS_FONT_TYPE" title="类型：" tooltip="" status="" short=""/>
+		<Item id="33985" name="IDS_FONT_ENCODING" title="编码：" tooltip="" status="" short=""/>
+		<Item id="33986" name="IDS_FONT_CUSTOM" title="自定义" tooltip="" status="" short=""/>
+		<Item id="33987" name="IDS_FONT_OBJECTNUM" title="对象号：" tooltip="" status="" short=""/>
+		<Item id="33988" name="IDS_OPTIONS" title="选项" tooltip="" status="" short=""/>
+		<Item id="33989" name="IDS_OPTIONS_LANGUAGE" title="界面语言" tooltip="" status="" short=""/>
+		<Item id="33990" name="IDS_LANGUAGE_STANDARD_NAME" title="标准名称" tooltip="" status="" short=""/>
+		<Item id="33991" name="IDS_LANGUAGE_LOCAL_NAME" title="本地名称" tooltip="" status="" short=""/>
+		<Item id="33992" name="IDS_TOOL_FIND_INPUT_HINT" title="查找" tooltip="" status="" short=""/>
+		<Item id="33993" name="IDS_FILE_EDAMAGED" title="无法打开该文件&quot;%s&quot;，因为不支持此文件类型或者文件已损坏。" tooltip="" status="" short=""/>
+		<Item id="33994" name="IDS_FILE_EUNKNOWN" title="无法打开该文件&quot;%s&quot;，未知的错误：0x%08d" tooltip="" status="" short=""/>
+		<Item id="33995" name="IDS_FILE_SAVE_ERROR" title="文件是只读文件，或已被其他应用程序打开，请使用其他名称保存文档或保存到其他文件夹中!" tooltip="" status="" short=""/>
+		<Item id="33996" name="IDS_FIND_DONT_RESULT" title="已完成对文档查找，未找到更多匹配项目。" tooltip="" status="" short=""/>
+		<Item id="33997" name="IDS_DOC_SAVE_PROMPT" title="文档 &quot;%s&quot; 已被更改。&#x000D;&#x000A;&#x000D;&#x000A;关闭前您是否要保存更改？" tooltip="" status="" short=""/>
+		<Item id="33998" name="IDS_DOC_CLOSE_PROMPT" title="确定要关闭所有打开的文档吗？" tooltip="" status="" short=""/>
+		<Item id="33999" name="IDS_VERSION_NAME" title=" " tooltip="" status="" short=""/>
+		<Item id="34000" name="IDS_RECENT_READ_FILE" title="最近阅读文件：" tooltip="" status="" short=""/>
+		<Item id="34001" name="IDS_FILE_OPEN" title="打开(&amp;O)" tooltip="打开文档" status="打开文档" short=""/>
+		<Item id="34002" name="IDS_COMPATIBILITY_3" title="Acrobat 3.0 或更高" tooltip="" status="" short=""/>
+		<Item id="34003" name="IDS_COMPATIBILITY_5" title="Acrobat 5.0 或更高" tooltip="" status="" short=""/>
+		<Item id="34004" name="IDS_COMPATIBILITY_6" title="Acrobat 6.0 或更高" tooltip="" status="" short=""/>
+		<Item id="34005" name="IDS_COMPATIBILITY_7" title="Acrobat 7.0 或更高" tooltip="" status="" short=""/>
+		<Item id="34006" name="IDS_COMPATIBILITY_9" title="Acrobat 9.0 或更高" tooltip="" status="" short=""/>
+		<Item id="34007" name="IDS_COMPATIBILITY_X" title="Acrobat X 或更高" tooltip="" status="" short=""/>
+		<Item id="34008" name="IDS_ENCRYPT_COMPONENT_ALL" title="加密所有文档内容" tooltip="" status="" short=""/>
+		<Item id="34009" name="IDS_ENCRYPT_ALL_EXCLUDE_META" title="加密除元数据外的所有文档内容" tooltip="" status="" short=""/>
+		<Item id="34010" name="IDS_ENCRYPT_ATTACHMENTS" title="仅加密文件附件" tooltip="" status="" short=""/>
+		<Item id="34011" name="IDS_PERM_NO" title="不允许" tooltip="" status="" short=""/>
+		<Item id="34012" name="IDS_PRINT_PERM_LOWER" title="低分辨率(150dpi)" tooltip="" status="" short=""/>
+		<Item id="34013" name="IDS_PRINT_PERM_HIGH" title="高分辨率" tooltip="" status="" short=""/>
+		<Item id="34014" name="IDS_CHANGES_PERM_PAGES" title="插入、删除和旋转页面" tooltip="" status="" short=""/>
+		<Item id="34015" name="IDS_CHANGES_PERM_FORM" title="填写表单域和签名现有的签名域" tooltip="" status="" short=""/>
+		<Item id="34016" name="IDS_CHANGES_PERM_ANNOT" title="注释、填写表单域和签名现有的签名域" tooltip="" status="" short=""/>
+		<Item id="34017" name="IDS_CHANGES_PERM_EXCLUDE_PAGE" title="除了提取页面" tooltip="" status="" short=""/>
+		<Item id="34038" name="IDS_FONT_EMBEDDED_SUBSET" title="（已嵌入子集）" tooltip="" status="" short=""/>
+		<Item id="33054" name="IDS_BOOKMARK_NO_TITLE" title="未标题" tooltip="" status="" short=""/>
+		<Item id="33055" name="IDS_SECURITY_ENTER_PERM_PIN" title="请输入&quot;许可口令&quot;" tooltip="" status="" short=""/>
+		<Item id="33056" name="IDS_SECURITY_HAS_SIGNED" title="您无法更改本文档的安全性，因为文档已签名或验证。" tooltip="" status="" short=""/>
+		<Item id="33057" name="IDS_SECURITY_SAME_PASSWORD" title="&quot;打开口令&quot;和&quot;许可口令&quot;不能相同，请输入不同的口令。" tooltip="" status="" short=""/>
+		<Item id="33058" name="IDS_SECURITY_PWD_MISMATCH" title="口令不匹配，请检查&quot;口令&quot;和&quot;确认口令&quot;是否相同。" tooltip="" status="" short=""/>
+		<Item id="33059" name="IDS_SECURITY_PWD_EMPTY" title="口令设置不能为空，请取消选择。" tooltip="" status="" short=""/>
+		<Item id="33060" name="IDS_SECURITY_NEED_PWD" title="要应用安全性设置，请设置&quot;文档打开口令&quot;或&quot;许可口令&quot;。" tooltip="" status="" short=""/>
+		<Item id="34018" name="IDS_OPTIONS_PAGEDISPLAY" title="页面显示" tooltip="" status="" short=""/>
+		<Item id="34019" name="IDS_AUTOMATIC" title="自动" tooltip="" status="" short=""/>
+		<Item id="34020" name="IDS_DEFAULTVIEW_PAGEONLY" title="仅页面" tooltip="" status="" short=""/>
+		<Item id="34021" name="IDS_DEFAULTVIEW_BOOKMARKANDPAGE" title="书签面板和页面" tooltip="" status="" short=""/>
+		<Item id="34022" name="IDS_OPTIONS_FORMS" title="表单" tooltip="" status="" short=""/>
+		<Item id="34023" name="IDS_HISTORY_NOT_FIND" title="无法找到指定文件" tooltip="" status="" short=""/>
+		<Item id="34024" name="IDS_DEL_SECURITY" title="确定要删除本文档的安全性设置吗？" tooltip="" status="" short=""/>
+		<Item id="34025" name="IDS_CHANGES_PERM_PAGE_ANNOT" title="页面布局、填写表单域和签名现有的签名域" tooltip="" status="" short=""/>
+		<Item id="34026" name="IDS_SAVE_OTHER_ERROR" title="保存文件失败，错误代码值：%d" tooltip="" status="" short=""/>
+		<Item id="34027" name="IDS_OPEN_PWD_ERROR" title="口令不正确，请稍后重试。" tooltip="" status="" short=""/>
+		<Item id="33064" name="ID_ACROFORM_CUT" title="剪切" tooltip="剪切" status="" short=""/>
+		<Item id="33065" name="ID_ACROFORM_COPY" title="复制" tooltip="复制" status="" short=""/>
+		<Item id="33066" name="ID_ACROFORM_PASTE" title="粘贴" tooltip="粘贴" status="" short=""/>
+		<Item id="33067" name="ID_ACROFORM_DEL" title="删除" tooltip="删除" status="" short=""/>
+		<Item id="33068" name="ID_ACROFORM_SELECTALL" title="全选" tooltip="全选" status="" short=""/>
+		<Item id="34028" name="IDS_MEASURE_UNIT" title="厘米" tooltip="厘米" status="" short=""/>
+		<Item id="34029" name="IDS_FILE_CERT_ENCRYPT" title="本文档使用了数字身份证来加密，但不存在用于解密的数字身份证。请确保已正确安装数字身份证，或者与文档作者联系。" tooltip="" status="" short=""/>
+		<Item id="34030" name="IDS_FILE_OPEN_FOLDER" title="打开目录(&amp;F)" tooltip="打开目录" status="" short=""/>
+		<Item id="33006" name="IDS_GO_LINK_URI" title="文档正在尝试连接至&#x000D;&#x000A;%s&#x000D;&#x000A;如果您信任本网站，请点击&quot;确定&quot;。否则，请点击&quot;取消&quot;" tooltip="" status="" short=""/>
+		<Item id="34031" name="IDS_DEFAULT_COLOR" title="默认" tooltip="默认" status="" short=""/>
+		<Item id="34032" name="IDS_MORE_COLOR" title="自定义..." tooltip="自定义..." status="" short=""/>
+		<Item id="1185" name="IDC_CHANGE_SKIN" title="换肤..." tooltip="" status="" short="" />
+		<Item id="1187" name="IDC_CHANGE_TEXT_COLOR" title="文本颜色..." tooltip="" status="" short="" />
+		<Item id="32061" name="ID_MENU_VIEW_COLOR_DEFAULT" title="默认" tooltip="" status="" short="" />
+		<Item id="32062" name="ID_MENU_VIEW_COLOR_NIGHT" title="夜间模式" tooltip="" status="" short="" />
+		<Item id="32063" name="ID_MENU_VIEW_COLOR" title="背景模式" tooltip="" status="" short="" />
+		<Item id="1014" title="提交文档数据成功。" tooltip="" status="" short="" />
+		<Item id="1015" title="提交过程中出现错误，错误返回值为 &quot;%d&quot;" tooltip="" status="" short="" />
+		<Item id="34036" title="软件注册成功，下次重启生效。" tooltip="" status="" short="" />
+		<Item id="34037" title="软件注册失败，下次重启继续注册。" tooltip="" status="" short="" />
+		<Item id="34039" title="时间戳服务器返回&#x000D;&#x000A;&#x000D;&#x000A;HTTP 401 错误 - 未授权： (Unauthorized)" tooltip="" status="" short="" />
+		<Item id="32064" name="" title="压缩文件" tooltip="" status="" short="" />
+		<Item id="3004" name="" title="无" tooltip="" status="" short="" />
+		<Item id="3005" name="" title="缩放到可打印区域" tooltip="" status="" short="" />
+		<Item id="3006" name="" title="左下" tooltip="" status="" short="" />
+		<Item id="3007" name="" title="左上" tooltip="" status="" short="" />
+		<Item id="3008" name="" title="右上" tooltip="" status="" short="" />
+		<Item id="3009" name="" title="右下" tooltip="" status="" short="" />
+		<Item id="3010" name="" title="子集:" tooltip="" status="" short="" />
+		<Item id="3011" name="" title="范围内全部页" tooltip="" status="" short="" />
+		<Item id="3012" name="" title="仅奇数页" tooltip="" status="" short="" />
+		<Item id="3013" name="" title="仅偶数页" tooltip="" status="" short="" />
+		<Item id="3014" name="" title="逆页序打印" tooltip="" status="" short="" />
+		<Item id="3015" name="" title="打印质量:" tooltip="" status="" short="" />
+		<Item id="3016" name="" title="低质量" tooltip="" status="" short="" />
+		<Item id="3017" name="" title="高质量" tooltip="" status="" short="" />
+		<Item id="3019" name="" title="仅文档" tooltip="" status="" short="" />
+		<Item id="3020" name="" title="仅表单域" tooltip="" status="" short="" />
+		<Item id="3021" name="" title="文档和标记" tooltip="" status="" short="" />
+		<Item id="34040" name="IDS_STRING_PACK_NAME" title="名称"/>
+		<Item id="34041" name="IDS_STRING_PACK_VERSION" title="版本"/>
+		<Item id="34042" name="IDS_STRING_PACK_STATE" title="状态"/>
+		<Item id="34043" name="IDS_STRING_PACK_INSTALL" title="已加载"/>
+		<Item id="34044" name="IDS_STRING_PACK_UNINSTALL" title="未加载"/>
+		<Item id="32066" name="IDS_FILE_OPEN_WARN" title="当前打开的文档存在危险, 是否继续打开?" tooltip="" status="" short=""/>
+	</Strings>
+	<Dialogs>
+		<Dialog id="104" name="IDD_ABOUTBOX" title="关于">
+			<Item id="1" name="IDOK" title="确定"/>
+			<Item id="1181" name="IDC_STATIC_INTRODUCE" title="专业PDF解决方案产品"/>
+			<Item id="1119" name="IDC_STATIC_LAW" title="法律申明"/>
+			<Item id="1116" name="IDC_EDIT_LICENSE" title="警告: &#13;&#10;        本计算机程序受著作权法的保护，未经授权擅自复制或散布本程序的部分或全部，将承受严厉的民事和刑事处罚，对已知的违反者将给予法律范围内的全面制裁。"/>
+			<Item id="125" name="IDC_BTN_PACK" title="组件管理"/>
+		</Dialog>
+		<Dialog id="232" name="IDD_DIALOG_CATEGORIES" title="">
+			<Item id="1" name="IDOK" title="确定"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+		</Dialog>
+		<Dialog id="228" name="IDD_DIALOG_DESCRIPTION" title="">
+			<Item id="33005" name="IDS_INIT_VIEW" title="初始视图" tooltip="" status="" short=""/>
+			<Item id="33008" name="IDS_FILE_INFO" title="文件信息" tooltip="" status="" short=""/>
+			<Item id="33009" name="IDS_FILE_NAME" title="文件名称：" tooltip="" status="" short=""/>
+			<Item id="33010" name="IDS_FILE_POSITION" title="文件位置：" tooltip="" status="" short=""/>
+			<Item id="33011" name="IDS_CREATE_TIME" title="创建时间：" tooltip="" status="" short=""/>
+			<Item id="33012" name="IDS_MODIFY_TIME" title="修改时间：" tooltip="" status="" short=""/>
+			<Item id="33013" name="IDS_FILE_SIZE" title="文件大小：" tooltip="" status="" short=""/>
+			<Item id="33014" name="IDS_DOCUMENT_INFO" title="文档信息" tooltip="" status="" short=""/>
+			<Item id="33015" name="IDS_DOCUMENT_TITLE" title="标题：" tooltip="" status="" short=""/>
+			<Item id="33016" name="IDS_DOCUMENT_AUTHOR" title="作者：" tooltip="" status="" short=""/>
+			<Item id="33017" name="IDS_DOCUMENT_SUBJECT" title="主题：" tooltip="" status="" short=""/>
+			<Item id="33018" name="IDS_DOCUMENT_KEYWORD" title="关键词：" tooltip="" status="" short=""/>
+			<Item id="33019" name="IDS_FILE_CREATOR" title="文件制作者：" tooltip="" status="" short=""/>
+			<Item id="33020" name="IDS_FILE_APPLICATION" title="应用程序：" tooltip="" status="" short=""/>
+			<Item id="33021" name="IDS_FILE_VERSION" title="文件版本：" tooltip="" status="" short=""/>
+			<Item id="33022" name="IDS_FILE_PAGECOUNT" title="页数：" tooltip="" status="" short=""/>
+			<Item id="33070" name="IDS_FILE_PAGESIZE" title="页面大小：" tooltip="" status="" short=""/>
+		</Dialog>
+		<Dialog id="229" name="IDD_DIALOG_SECURITY" title="">
+			<Item id="33023" name="IDS_SECURITY_INFO" title="文档安全性" tooltip=""/>
+			<Item id="33024" name="IDS_SECURITY_DESCRIPTION" title="文档的安全方式限制文档可进行的操作" tooltip=""/>
+			<Item id="33025" name="IDS_SECURITY_METHOD" title="安全方式：" tooltip=""/>
+			<Item id="33026" name="IDS_CRYPT_LEVEL" title="加密级别：" tooltip=""/>
+			<Item id="33027" name="IDS_RIGHT_PRINT" title="打印：" tooltip=""/>
+			<Item id="33028" name="IDS_RIGHT_MODIFY" title="更改文档：" tooltip=""/>
+			<Item id="33029" name="IDS_RIGHT_FILE_ASSEMBLY" title="文档组合：" tooltip=""/>
+			<Item id="33030" name="IDS_RIGHT_COPY_CONTENT" title="内容复制：" tooltip=""/>
+			<Item id="33031" name="IDS_RIGHT_EXTRACT_PAGE" title="页面提取：" tooltip=""/>
+			<Item id="33032" name="IDS_RIGHT_ANNOTATION" title="注释：" tooltip=""/>
+			<Item id="33033" name="IDS_RIGHT_ACROFORM" title="填写表单域：" tooltip=""/>
+			<Item id="33034" name="IDS_RIGHT_SIGNATURE" title="签名：" tooltip=""/>
+			<Item id="33035" name="IDS_RIGHT_CREATE_TEMP_PAGE" title="创建模版页面：" tooltip=""/>
+			<Item id="33046" name="IDS_CRYPT_SHOW_INFO" title="文档限制小结" tooltip=""/>
+			<Item id="1036" name="IDC_BT_CHANGE_SECURITY" title="更改设置(&S)..." tooltip=""/>
+			<Item id="1037" name="IDC_BT_SECURITY_INFO" title="显示详细信息(&D)..." tooltip=""/>
+			<Item id="33048" name="IDS_CONTENT_ACCESSIBILITY" title="复制内容用于辅助工具：" tooltip=""/>
+		</Dialog>
+		<Dialog id="230" name="IDD_DIALOG_FONT" title="">
+			<Item id="1106" name="IDC_STATIC_FONT" title="本文档中使用的字体" tooltip="" status="" short=""/>	
+		</Dialog>
+		<Dialog id="261" name="IDD_DIALOG_PASSWORD" title="输入文档口令">
+			<Item id="1" name="IDOK" title="确定"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+			<Item id="1109" name="IDC_STATIC_PASSWORD_HINT" title="请输入打开口令或许可口令："/>
+		</Dialog>
+		<Dialog id="263" name="IDD_DIALOG_OPTIONS_LANGUAGE" title="">
+			<Item id="1110" name="IDC_RADIO_DEFAULTUSERS" title="使用用户区域设置"/>
+			<Item id="1111" name="IDC_RADIO_CUSTOM_LANGUAGE" title="选择自定义语言"/>
+		</Dialog>
+		<Dialog id="116" name="IDD_WPPASSSECURITYDLG" title="口令安全性-设置">
+			<Item id="1" name="IDOK" title="确定"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+			<Item id="1121" name="IDC_ST_SECURITY_LEVEL" title="安全级别" tooltip=""/>
+			<Item id="1122" name="IDC_ST_ALGORITHM" title="兼容性：" tooltip=""/>
+			<Item id="1125" name="IDC_ST_ENCRYPT" title="加密级别：" tooltip=""/>
+			<Item id="1128" name="IDC_ST_OPEN_PASSWORD" title="打开口令" tooltip=""/>
+			<Item id="1129" name="IDC_CK_REQUIRE_PASSWORD" title="要求打开文档的口令" tooltip=""/>
+			<Item id="1130" name="IDC_ST_PASSWORD" title="口  令：" tooltip=""/>
+			<Item id="1131" name="IDC_ST_COMFIRM_PASSWORD" title="确认口令：" tooltip=""/>
+			<Item id="1134" name="IDC_ST_PERMISSIONS" title="许可" tooltip=""/>
+			<Item id="1135" name="IDC_CK_REQUIRE_PERM_PASSWORD" title="要求改变这些许可设置的口令" tooltip=""/>
+			<Item id="1144" name="IDC_ST_PASSWORD2" title="口  令：" tooltip=""/>
+			<Item id="1145" name="IDC_ST_COMFIRM_PASSWORD2" title="确认口令：" tooltip=""/>
+			<Item id="1138" name="IDC_ST_PERM_PRINTNG" title="允许打印：" tooltip=""/>
+			<Item id="1139" name="IDC_ST_PERM_CHANGES" title="允许更改：" tooltip=""/>
+			<Item id="1142" name="IDC_CK_ENABLE_COPY" title="启用复制文件、图像和其他内容" tooltip=""/>
+			<Item id="1143" name="IDC_CK_ENABLE_TEXT_ACCESS" title="为视力不佳者启用屏幕阅读器设备的文本辅助工具" tooltip=""/>
+			<Item id="1147" name="IDC_ST_ENCRYPT_COM" title="选择要加密的文件组件" tooltip=""/>
+			<Item id="1148" name="IDC_ST_SELECT_COMPONENT" title="组件：" tooltip=""/>
+		</Dialog>
+		<Dialog id="117" name="IDD_WPSECURITYDETAILINFO" title="文档安全性">
+			<Item id="1" name="IDOK" title="确定"/>
+			<Item id="33025" name="IDS_SECURITY_METHOD" title="安全性方法：" tooltip=""/>
+			<Item id="1128" name="IDC_ST_OPEN_PASSWORD" title="文档打开口令：" tooltip=""/>
+			<Item id="1152" name="IDC_ST_PERMISSION_PWD" title="许可口令：" tooltip=""/>
+			<Item id="33026" name="IDS_CRYPT_LEVEL" title="加密级别：" tooltip=""/>
+			<Item id="33027" name="IDS_RIGHT_PRINT" title="打印：" tooltip=""/>
+			<Item id="33028" name="IDS_RIGHT_MODIFY" title="更改文档：" tooltip=""/>
+			<Item id="33029" name="IDS_RIGHT_FILE_ASSEMBLY" title="文档组合：" tooltip=""/>
+			<Item id="33030" name="IDS_RIGHT_COPY_CONTENT" title="内容复制：" tooltip=""/>
+			<Item id="33031" name="IDS_RIGHT_EXTRACT_PAGE" title="页面提取：" tooltip=""/>
+			<Item id="33032" name="IDS_RIGHT_ANNOTATION" title="注释：" tooltip=""/>
+			<Item id="33033" name="IDS_RIGHT_ACROFORM" title="表单域填写或签名：" tooltip=""/>
+			<Item id="33048" name="IDS_CONTENT_ACCESSIBILITY" title="启用内容辅助工具：" tooltip=""/>
+		</Dialog>
+		<Dialog id="272" name="IDD_DIALOG_OPTIONS_PAGEDISPLAY" title="页面显示">
+			<Item id="1160" name="IDC_STATIC_INITIALVIEW" title="初始视图" tooltip=""/>
+			<Item id="1161" name="IDC_STATIC_DEFAULTVIEW" title="默认视图：" tooltip=""/>
+			<Item id="1162" name="IDC_STATIC_DEFAULTLAYOUT" title="默认布局和缩放" tooltip=""/>
+			<Item id="1163" name="IDC_STATIC_PAGELAYOUT" title="页面布局：" tooltip=""/>
+			<Item id="1164" name="IDC_STATIC_PAGEZOOM" title="缩放类型：" tooltip=""/>
+			<Item id="1165" name="IDC_STATIC_RESOLUTION" title="分辨率（像素/英寸）" tooltip=""/>
+			<Item id="1155" name="IDC_RADIO_RESOLUTION_SYSTEM" title="使用系统设置：" tooltip=""/>
+			<Item id="1156" name="IDC_RADIO_RESOLUTION_CUSTOM" title="自定义分辨率：" tooltip=""/>
+			<Item id="1166" name="IDC_STATIC_PAGECONTENT" title="页面内容和信息" tooltip=""/>
+			<Item id="1112" name="IDC_CHECK_GOTOUPONLINKS" title="在链接上执行跳转" tooltip=""/>
+			<Item id="1180" name="IDC_STATIC_UPDATE" title="更新设置" tooltip=""/>
+			<Item id="1113" name="IDC_CHECK_AUTOUPDATE" title="有更新的时候提醒" tooltip=""/>
+			<Item id="1184" name="IDC_STATIC_BACKGROUND" title="背景颜色：" tooltip=""/>
+		</Dialog>
+		<Dialog id="273" name="IDD_DIALOG_OPTIONS_FORMS" title="表单">
+			<Item id="1168" name="IDC_CHECK_HIGHLIGHT_FIELDS" title="启用高亮表单字段" tooltip=""/>
+			<Item id="1169" name="IDC_CHECK_HIGHLIGHT_SIGNATURE" title="数字签名" tooltip=""/>
+			<Item id="1170" name="IDC_CHECK_HIGHLIGHT_TEXT_BOXES" title="文本域" tooltip=""/>
+			<Item id="1171" name="IDC_STATIC_HIGHLIGHT_FORM_FIELDS" title="高亮表单字段" tooltip=""/>
+			<Item id="1172" name="IDC_CHECK_HIGHLIGHT_COMBOBOXES" title="组合框" tooltip=""/>
+			<Item id="1173" name="IDC_CHECK_HIGHLIGHT_PUSHUTTONS" title="按钮" tooltip=""/>
+			<Item id="1174" name="IDC_CHECK_HIGHLIGHT_CHECKBOXES" title="复选框" tooltip=""/>
+			<Item id="1175" name="IDC_CHECK_HIGHLIGHT_RADIOBUTTONS" title="单选钮" tooltip=""/>
+			<Item id="1176" name="IDC_CHECK_HIGHLIGHT_LISTBOXES" title="列表框" tooltip=""/>
+		</Dialog>
+		<Dialog id="123" name="IDD_WPACTIVATEWND" title="软件注册">
+			<Item id="1" name="IDOK" title="导入授权"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+			<Item id="1196" name="IDC_STATIC_MACHINE" title="机器码："/>
+		</Dialog>
+		<Dialog id="1538" name="PRINTDLGORD" title="打印">
+			<Item id="1075" name="" title="打印机"/>
+			<Item id="1093" name="" title="名称(&N)："/>
+			<Item id="1025" name="" title="属性(&P)..."/>
+			<Item id="1095" name="" title="状态："/>
+			<Item id="1094" name="" title="类型："/>
+			<Item id="1097" name="" title="位置："/>
+			<Item id="1096" name="" title="备注："/>
+			<Item id="1072" name="" title="打印范围"/>
+			<Item id="1056" name="" title="所有页面(&A)"/>
+			<Item id="1058" name="" title="页面范围(&G)"/>
+			<Item id="1057" name="" title="当前页面(&S)"/>
+			<Item id="1089" name="" title="从(&F)："/>
+			<Item id="1090" name="" title="到(&T)："/>
+			<Item id="1073" name="" title="份数"/>
+			<Item id="1092" name="" title="份数(&C)："/>
+			<Item id="1041" name="" title="自动分页"/>
+			<Item id="1" name="IDOK" title="确定"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+			<Item id="3000" name="" title="页面缩放"/>
+			<Item id="3003" name="" title="缩放方式："/>
+			<Item id="3002" name="" title="自动旋转"/>
+			<Item id="1201" name="" title="按照文件页面大小选择纸张来源"/>
+			<Item id="1218" name="" title="灰色打印"/>
+			<Item id="1219" name="" title="预览"/>
+			<Item id="1220" name="" title="打印内容："/>
+		</Dialog>
+		<Dialog id="294" name="IDD_COORDINATEPICKER" title="坐标拾起器">
+			<Item id="1204" name="IDC_STATIC_PARAMSETTING" title="参数设置"/>
+			<Item id="1202" name="IDC_STATIC_REF_POINT" title="参考点:"/>
+			<Item id="1203" name="IDC_STATIC_MEASUREMENT" title="单位值:"/>
+			<Item id="1206" name="IDC_ST_CURSORPOSITION" title="光标位置"/>
+			<Item id="2" name="IDCANCEL" title="关闭"/>
+		</Dialog>
+		<Dialog id="277" name="IDD_DIALOG_ADDIN_MNG" title="组件管理">
+			<Item id="1" name="IDOK" title="确定"/>
+		</Dialog>		
+	</Dialogs>
+</Localization>
