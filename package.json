@@ -4,7 +4,8 @@
   "description": "Generate static HTML overview of folder.",
   "scripts": {
     "start": "nodemon example.js",
-    "insp": "nodemon inspect example.js"
+    "insp": "nodemon inspect example.js",
+    "build": "nodemon example.js"
   },
   "author": "Alexander Saburov",
   "license": "MIT",
