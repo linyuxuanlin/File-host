@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon example.js",
     "insp": "nodemon inspect example.js",
-    "build": "node example.js --output /"
+    "build": "node example.js --output ./"
   },
   "author": "Alexander Saburov",
   "license": "MIT",
