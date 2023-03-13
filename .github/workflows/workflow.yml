@@ -1,0 +1,24 @@
+name: directory-listing
+on: [push]
+
+jobs:
+  pages-directory-listing-release:
+    runs-on: ubuntu-latest
+    name: Directory Listings Index
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          ref: dummy-data    #checkout different branch
+
+      - name: Generate Directory Listings
+        uses: jayanta525/github-pages-directory-listing@v2.0.0
+        with:
+          FOLDER: data    #directory to generate index
+
+      - name: Deploy to Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: data
