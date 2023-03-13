@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window caption="0,0,0,0" roundcorner="5,5,5,5" sizebox="2,2,2,2"   bkcolor="#FFFFFFFF" bktrans="true">
+ <Font id="0" name="宋体" size="13" bold="false"/>
+ <Font id="1" name="宋体" size="12"/>
+ <Font shared="true" id="2" name="微软雅黑" size="11" bold="false" />
+ <!-- <Include source="scrollbar.xml" /> -->
+<Default name="VScrollBar" value="button1normalimage=&quot;file='scroll.png' source='0,0,16,16'&quot; button1hotimage=&quot;file='scroll.png' source='0,0,16,16' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scroll.png' source='0,16,16,32' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scroll.png' source='0,0,16,16' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scroll.png' source='0,32,16,48' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scroll.png' source='0,32,16,48' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scroll.png' source='0,48,16,64' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scroll.png' source='0,32,16,48' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scroll.png' source='0,64,16,80' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scroll.png' source='0,64,16,80' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;ffile='scroll.png' source='0,64,16,80' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scroll.png' source='0,64,16,80' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scroll.png' source='0,80,16,96' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scroll.png' source='0,80,16,96' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scroll.png' source='0,96,16,112' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scroll.png' source='0,80,16,96' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scroll.png' source='0,128,16,146' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scroll.png' source='0,128,16,146' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scroll.png' source='0,128,16,146' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scroll.png' source='0,128,16,146' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+<VerticalLayout bkcolor="#FFFFFFFF" inset="0,0,0,0">
+<!-- 	<HorizontalLayout height="37" inset="0,2,0,0">
+		<VerticalLayout>
+			<Text text="ListDemo(tojen)" textcolor="#FFFFFFFF" font="1" float="true" pos="27,10,170,30"></Text>
+		</VerticalLayout>
+		<VerticalLayout width="70">
+			<Button float="true" pos="0,0,28,17" name="minbtn" maxwidth="28" maxheight="17" normalimage="file='max_min.png' source='0,0,28,17'" hotimage="file='max_min_h.png' source='0,0,28,17'" pushedimage="file='max_min_h.png' source='0,0,28,17'"/>
+			<Button float="true" pos="28,0,56,17" name="closebtn" maxwidth="28" maxheight="17" normalimage="file='max_min.png' source='28,0,56,17'" hotimage="file='max_min_h.png' source='28,0,56,17'" pushedimage="file='max_min_h.png' source='28,0,56,17'"/>
+		</VerticalLayout>
+	</HorizontalLayout>
+	<HorizontalLayout height="35" inset="0,4,0,8">
+		<VerticalLayout inset="8,4,2,2" width="80">
+			<Text text="Domain/ip:" textcolor="#000000" font="1"></Text>
+		</VerticalLayout>
+		<VerticalLayout>
+			<Edit height="23" text="List控件添加使用案例，每行可以响应事件" bordercolor="#C6CFD8" name="input" bkimage="file='search_bg.png' source='0,0,258,23' corner='1,1,1,1'"/>
+		</VerticalLayout>
+		<VerticalLayout width="80">
+			<Button name="btn" text="Search" font="0" float="true" pos="5,0,63,23" maxwidth="63" maxheight="23" normalimage="file='button.png' source='0,0,63,23'" hotimage="file='button.png' source='0,23,63,46'" pushedimage="file='button.png' source='0,23,63,46'"/>
+		</VerticalLayout>
+	</HorizontalLayout> -->
+	
+
+	<!-- <HorizontalLayout height="32" inset="20,4,0,1" childpadding="0" bkimage="tab_back.bmp" > -->
+    			<!-- <Option name="hallswitch" showhtml="true" text="{i gamezone.png}游戏大厅" width="160" selected="true" group="swithbar" align="center" normalimage="file='tab_normal.bmp' corner='2,2,2,2'" selectedimage="file='tab_select.bmp' corner='2,2,2,2'" hotimage="file='tab_hot.bmp' corner='2,2,2,2'" hottextcolor="#CC1010"/> -->
+				<!-- <Option name="roomswitch" showhtml="true" group="swithbar" align="center" width="160" visible="false" normalimage="file='tab_normal.bmp' corner='2,2,2,2'" selectedimage="file='tab_select.bmp' corner='2,2,2,2'" hotimage="file='tab_hot.bmp' corner='2,2,2,2'" hottextcolor="#CC1010"> -->
+					<!-- <Button name="roomclosebtn" cover="true" float="1,0,1,0" pos="-14,2,-2,14" normalimage="file='tab_close.png' source='0,0,12,12'" hotimage="file='tab_close.png' source='12,0,24,12'" pushedimage="file='tab_close.png' source='24,0,36,12'"/> -->
+    			<!-- </Option> -->
+                <!-- <Label padding="40,2,2,2" text="{i gameicons.png 18 0}这里是一条系统消息" showhtml="true" /> -->
+    			<!-- <Button name="fontswitch" float="1,0,1,0" pos="-82,4,-2,28" text="切换字体"/> -->
+    <!-- </HorizontalLayout  > -->
+	<!-- <VerticalLayout height="50" bkimage="tree_top.png"> -->
+		<!-- <HorizontalLayout height="24" inset="2,4,2,2" childpadding="0" > -->
+			<!-- <Label padding="2,2,2,2"  bkimage="icos/IDB_BMP_TEXT_24.png" width="16"/> -->
+			<!-- <Label padding="2,2,2,2" text="Administrator" showhtml="false" width="100"/> -->
+		<!-- </HorizontalLayout> -->
+		<!-- <HorizontalLayout height="24" inset="2,1,2,1" childpadding="0"> -->
+			<!-- <Label padding="2,2,2,2" text="第" showhtml="false" width="16"/> -->
+			<!-- <Label padding="2,2,2,2" text="3" showhtml="false" width="16"/> -->
+			<!-- <Label padding="2,2,2,2" text="页" showhtml="false" width="16"/> -->
+			<!-- <Label padding="10,2,2,2" text="2019.4.28 8:30" showhtml="false" width="100"/> -->
+		<!-- </HorizontalLayout> -->
+	<!-- </VerticalLayout> -->
+	<HorizontalLayout height="30" inset="0,2,0,2" bgcolor="#FFFFFFFF" >
+			<!-- <Combo name="chatCombo" normalimage="file='Combo_nor.bmp' corner='2,2,20,2'" hotimage="file='Combo_over.bmp' corner='2,2,20,2'" pushedimage="file='Combo_over.bmp' corner='2,2,20,2'" textpadding="1,1,1,1" > -->
+				<!-- <ListLabelElement text="快点出，我等的花儿已谢了" /> -->
+				<!-- <ListLabelElement text="打牌要露脸，做人要厚道" /> -->
+				<!-- <ListLabelElement text="吹气球，吹个大气球" /> -->
+			<!-- </Combo> -->
+		<Container height="26" inset="0,0,0,0" bgcolor="#FFFFFFFF">
+			<!-- <Label  width="22"  padding="0,2,0,2" height="22" bkimage="search.png" /> -->
+			<!-- <Label  width="22"  padding="0,0,0,0" height="22" bkimage="file='search.png'" /> -->
+			<HorizontalLayout  mouse="false" height="24"   bgcolor="#FF00FF00">	
+				<Control width="24" mouse="false" bkimage="file='search.png'" />			
+				<Edit name="SearchEdit"   text="查找"  bordersize="1" bordercolor="#FF515151" bkcolor="#FFF1FFFF"/>	
+			</HorizontalLayout>
+		</Container>
+    </HorizontalLayout>
+	<Control height="1" bkcolor="#FFE1E1E1"/>
+	<HorizontalLayout inset="0,2,0,2" >
+		<List name="domainlist" bkcolor="#FFFFFFFF" inset="0,0,0,0"  itemhotbkcolor="#FFE1E1E1" itemlinecolor="#FFE1E1E1"  itemselectedbkcolor="#FFFFFACD" itemshowhtml="true" vscrollbar="true" hscrollbar="true" headerbkimage="file='list_header_bg.png'" itemalign="center" itembkcolor="#FFFFFFFF"  hscrollbar="false" menu="false" header="hidden">
+			<!-- <ListHeader height="24" menu="true"> -->
+				<!-- <ListHeaderItem text="No" font="1" width="30" hotimage="file='list_header_hot.png'" pushedimage="file='list_header_pushed.png'" sepimage="file='list_header_sep.png'" sepwidth="1"/> -->
+				<!-- <ListHeaderItem text="Domain" font="1" width="260" hotimage="file='list_header_hot.png'" pushedimage="file='list_header_pushed.png'" sepimage="file='list_header_sep.png'" sepwidth="1"/> -->
+				<!-- <ListHeaderItem text="Description" font="1" width="240" hotimage="file='list_header_hot.png'" pushedimage="file='list_header_pushed.png'" sepimage="file='list_header_sep.png'" sepwidth="1"/> -->
+			<!-- </ListHeader> -->
+		</List>
+	</HorizontalLayout>
+</VerticalLayout>
+</Window>

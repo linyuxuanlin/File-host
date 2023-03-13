@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="English" lName="English" lcid="0x0409" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDS_STRING_IDOK" title="OK"/>
+		<Item id="2" name="IDS_STRING_IDCANCEL" title="Close"/>
+		<Item id="3" name="IDS_STRING_ADD_WATERMARK" title="Add Watermark"/>
+		<Item id="4" name="IDS_STRING_DEL_WATERMARK" title="Remove Watermark"/>
+		<Item id="5" name="IDS_STRING_SAVE_SETTINNG" title="Save Settings"/>
+		<Item id="6" name="IDS_STRING_DEL_SETTING" title="Delete" tooltip="" status="" short=""/>
+		<Item id="7" name="IDS_STRING_PAGE_RANGE" title="Page Range Options" tooltip="" status="" short=""/>
+		<Item id="8" name="IDS_STRING_NONE_SAVE" title="[None specified]" tooltip="" status="" short=""/>
+		<Item id="9" name="IDS_STRING_WATERMARK_SRC" title="Source" tooltip="" status="" short=""/>
+		<Item id="10" name="IDS_STRING_FROM_TEXT" title="Text" tooltip="" status="" short=""/>
+		
+		<Item id="11" name="IDS_STRING_FROM_PIC" title="File" tooltip="" status="" short=""/>
+		<Item id="12" name="IDS_STRING_FONTNAME" title="Font:" tooltip="" status="" short=""/>
+		<Item id="13" name="IDS_STRING_FONTSIZE" title="Size:" tooltip="" status="" short=""/>
+		<Item id="14" name="IDS_STRING_PIC_PATH" title="No source files selected" tooltip="" status="" short=""/>
+		<Item id="15" name="IDS_STRING_PIC_SCAN" title="Browse..." tooltip="" status="" short=""/>
+		<Item id="16" name="IDS_STRING_SHOW_AP" title="Appearance" tooltip="" status="" short=""/>
+		<Item id="17" name="IDS_STRING_AP_ROTATE" title="Rotation:" tooltip="" status="" short=""/>
+		<Item id="18" name="IDS_STRING_AP_ALPHA" title="Opacity:" tooltip="" status="" short=""/>
+		<Item id="19" name="IDS_STRING_AP_SCALE" title="Relative target page scale" tooltip="" status="" short=""/>
+		<Item id="20" name="IDS_STRING_AP_POS" title="Position" tooltip="" status="" short=""/>
+		 
+		<Item id="21" name="IDS_STRING_ROTATE_NONE" title="None" tooltip="" status="" short=""/>
+		<Item id="22" name="IDS_STRING_POS_DOWN" title="Appear behind page" tooltip="" status="" short=""/>
+		<Item id="23" name="IDS_STRING_POS_UP" title="Appear on top of page" tooltip="" status="" short=""/>
+		<Item id="24" name="IDS_STRING_VERTICAL_DISTANCE" title="Vertical Distance" tooltip="" status="" short=""/>
+		<Item id="25" name="IDS_STRING_HORIZONTAL_DISTANCE" title="Horizontal Distance" tooltip="" status="" short=""/>
+		<Item id="26" name="IDS_STRING_UNIT_PIXEL" title="Pixel from" tooltip="" status="" short=""/>
+		<Item id="27" name="IDS_STRING_FROM_TOP" title="Top" tooltip="" status="" short=""/>
+		<Item id="28" name="IDS_STRING_FROM_CORE" title="Center" tooltip="" status="" short=""/>
+		<Item id="29" name="IDS_STRING_FROM_BUTTOM" title="Bottom" tooltip="" status="" short=""/>
+		<Item id="30" name="IDS_STRING_AP_PREVIEW" title="Preview Page:" tooltip="" status="" short=""/>
+		
+		<Item id="31" name="IDS_STRING_TOTALPAGE" title="Total %d page" tooltip="" status="" short=""/>
+		<Item id="32" name="IDS_STRING_ALLPAGES" title="All Pages" tooltip="" status="" short=""/>
+		<Item id="33" name="IDS_STRING_FROM_PAGE" title="Pages,From" tooltip="" status="" short=""/>
+		<Item id="34" name="IDS_STRING_TO_PAGE" title="to" tooltip="" status="" short=""/>
+		<Item id="35" name="IDS_STRING_SUBSET" title="Subset:" tooltip="" status="" short=""/>
+		<Item id="36" name="IDS_STRING_ALLPAGERANGE" title="All pages in range" tooltip="" status="" short=""/>
+		<Item id="37" name="IDS_STRING_ONLY_EVEN" title="Even pages only" tooltip="" status="" short=""/>
+		<Item id="38" name="IDS_STRING_ONLY_ODD" title="Odd pages only" tooltip="" status="" short=""/>
+		<Item id="39" name="IDS_STRING_ROTATE_CUSTOM" title="Custom" tooltip="" status="" short=""/>
+		<Item id="40" name="IDS_STRING_FROM_LEFT" title="Left" tooltip="" status="" short=""/>
+		<Item id="41" name="IDS_STRING_FROM_RIGHT" title="Right" tooltip="" status="" short=""/>
+		<Item id="42" name="IDS_STRING_SAVE_CUSTOM" title="[Custom-not saved]" tooltip="" status="" short=""/>
+		<Item id="43" name="IDS_STRING_SAVE_PATH" title="Save current setting as:" tooltip="" status="" short=""/>
+		<Item id="44" name="IDS_STRING_PROMPT" title="Prompt" tooltip="" status="" short=""/>
+		<Item id="45" name="IDS_STRING_PROMPT_MSG1" title="This document does not have permission to %s watermark" tooltip="" status="" short=""/>
+		<Item id="46" name="IDS_STRING_PROMPT_MSG2" title="add" tooltip="" status="" short=""/>
+		<Item id="47" name="IDS_STRING_PROMPT_MSG3" title="delete" tooltip="" status="" short=""/>
+		<Item id="48" name="IDS_STRING_PROMPT_MSG4" title="Do you want to remove all watermarks?" tooltip="" status="" short=""/>
+		<Item id="49" name="IDS_STRING_PROMPT_MSG5" title="Yes" tooltip="" status="" short=""/>
+		<Item id="50" name="IDS_STRING_PROMPT_MSG6" title="No" tooltip="" status="" short=""/>
+	</Strings>
+	<Dialogs>		
+	</Dialogs>
+</Localization>

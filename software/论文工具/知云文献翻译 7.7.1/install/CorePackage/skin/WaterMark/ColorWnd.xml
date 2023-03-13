@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window sizebox="4,4,6,6" caption="0,0,0,30" roundcorner="4,4" size="252,192" mininfo="252,192" opacity="200">
+  <VerticalLayout bordersize="0" pos="0,0,252,192" width="252" height="192" bkimage="file='color\bg.bmp' corner='4,4,2,2' mask='0xffffffff'">
+	<HorizontalLayout name="HColorLayout" float="true" pos="0,0,252,192">
+		<!-- <Button name="colour_001" bkcolor="#FF66BAEB" float="true" pos="12,8,34,30" bordercolor="#FF000000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file='color\colour_001.bmp' mask='0xffffffff'" hotimage="file='color\colour_001highlight.bmp' mask='0xffffffff'" pushedimage="file='color\colour_001.bmp' mask='0xffffffff'" /> -->
+		<!-- <Button name="colour_002" bkcolor="#FF76A8D0" float="true" pos="45,8,67,30" bordercolor="#FF000000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file='color\colour_002.bmp' mask='0xffffffff'" hotimage="file='color\colour_002highlight.bmp' mask='0xffffffff'" pushedimage="file='color\colour_002.bmp' mask='0xffffffff'" /> -->
+		<!-- <Button name="colour_003" bkcolor="#FFA138D8" float="true" pos="78,8,100,30" bordercolor="#FF000000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file='color\colour_003.bmp' mask='0xffffffff'" hotimage="file='color\colour_003highlight.bmp' mask='0xffffffff'" pushedimage="file='color\colour_003.bmp' mask='0xffffffff'" /> -->
+		<!-- <Button name="colour_004" bkcolor="#FF6EC446" float="true" pos="108,8,130,30" bordercolor="#FF000000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file='color\colour_004.bmp' mask='0xffffffff'" hotimage="file='color\colour_004highlight.bmp' mask='0xffffffff'" pushedimage="file='color\colour_004.bmp' mask='0xffffffff'" /> -->
+		<!-- <Button name="colour_005" bkcolor="#FFD08942" float="true" pos="12,36,34,58" bordercolor="#FF000000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file='color\colour_005.bmp' mask='0xffffffff'" hotimage="file='color\colour_005highlight.bmp' mask='0xffffffff'" pushedimage="file='color\colour_005.bmp' mask='0xffffffff'" /> -->
+		<!-- <Button name="colour_006" bkcolor="#FFC55C3C" float="true" pos="45,36,67,58" bordercolor="#FF000000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file='color\colour_006.bmp' mask='0xffffffff'" hotimage="file='color\colour_006highlight.bmp' mask='0xffffffff'" pushedimage="file='color\colour_006.bmp' mask='0xffffffff'" /> -->
+		<!-- <Button name="colour_007" bkcolor="#FFC13892" float="true" pos="78,36,100,58" bordercolor="#FF000000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file='color\colour_007.bmp' mask='0xffffffff'" hotimage="file='color\colour_007highlight.bmp' mask='0xffffffff'" pushedimage="file='color\colour_007.bmp' mask='0xffffffff'" /> -->
+		<!-- <Button name="colour_008" bkcolor="#FF929292" float="true" pos="108,36,130,58" bordercolor="#FF000000" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file='color\colour_008.bmp' mask='0xffffffff'" hotimage="file='color\colour_008highlight.bmp' mask='0xffffffff'" pushedimage="file='color\colour_008.bmp' mask='0xffffffff'" /> -->
+		
+		<Button name="colour_1_1" bkcolor="#FFFF8080" float="true" pos="10,10,32,32" />
+		<Button name="colour_1_2" bkcolor="#FFFFFF80" float="true" pos="40,10,62,32" />
+		<Button name="colour_1_3" bkcolor="#FF80FF80" float="true" pos="70,10,92,32" />
+		<Button name="colour_1_4" bkcolor="#FF00FF80" float="true" pos="100,10,122,32" />
+		<Button name="colour_1_5" bkcolor="#FF80FFFF" float="true" pos="130,10,152,32" />
+		<Button name="colour_1_6" bkcolor="#FF0080FF" float="true" pos="160,10,182,32" />
+		<Button name="colour_1_7" bkcolor="#FFFF80C0" float="true" pos="190,10,212,32" />
+		<Button name="colour_1_8" bkcolor="#FFFF80FF" float="true" pos="220,10,242,32" />
+		
+		<Button name="colour_2_1" bkcolor="#FFFF0000" float="true" pos="10,40,32,62" />
+		<Button name="colour_2_2" bkcolor="#FFFFFF00" float="true" pos="40,40,62,62" />
+		<Button name="colour_2_3" bkcolor="#FF80FF00" float="true" pos="70,40,92,62" />
+		<Button name="colour_2_4" bkcolor="#FF00FF40" float="true" pos="100,40,122,62" />
+		<Button name="colour_2_5" bkcolor="#FF00FFFF" float="true" pos="130,40,152,62" />
+		<Button name="colour_2_6" bkcolor="#FF0080C0" float="true" pos="160,40,182,62" />
+		<Button name="colour_2_7" bkcolor="#FF8080C0" float="true" pos="190,40,212,62" />
+		<Button name="colour_2_8" bkcolor="#FFFF00FF" float="true" pos="220,40,242,62" />
+		
+		<Button name="colour_3_1" bkcolor="#FF804040" float="true" pos="10,70,32,92" />
+		<Button name="colour_3_2" bkcolor="#FFFF8040" float="true" pos="40,70,62,92" />
+		<Button name="colour_3_3" bkcolor="#FF00FF00" float="true" pos="70,70,92,92" />
+		<Button name="colour_3_4" bkcolor="#FF008080" float="true" pos="100,70,122,92" />
+		<Button name="colour_3_5" bkcolor="#FF004080" float="true" pos="130,70,152,92" />
+		<Button name="colour_3_6" bkcolor="#FF8080FF" float="true" pos="160,70,182,92" />
+		<Button name="colour_3_7" bkcolor="#FF800040" float="true" pos="190,70,212,92" />
+		<Button name="colour_3_8" bkcolor="#FFFF0080" float="true" pos="220,70,242,92" />
+		
+		<Button name="colour_4_1" bkcolor="#FF800000" float="true" pos="10,100,32,122" />
+		<Button name="colour_4_2" bkcolor="#FFFF8000" float="true" pos="40,100,62,122" />
+		<Button name="colour_4_3" bkcolor="#FF008000" float="true" pos="70,100,92,122" />
+		<Button name="colour_4_4" bkcolor="#FF008040" float="true" pos="100,100,122,122" />
+		<Button name="colour_4_5" bkcolor="#FF0000FF" float="true" pos="130,100,152,122" />
+		<Button name="colour_4_6" bkcolor="#FF0000A0" float="true" pos="160,100,182,122" />
+		<Button name="colour_4_7" bkcolor="#FF800080" float="true" pos="190,100,212,122" />
+		<Button name="colour_4_8" bkcolor="#FF8000FF" float="true" pos="220,100,242,122" />
+		
+		<Button name="colour_5_1" bkcolor="#FF400000" float="true" pos="10,130,32,152" />
+		<Button name="colour_5_2" bkcolor="#FF804000" float="true" pos="40,130,62,152" />
+		<Button name="colour_5_3" bkcolor="#FF004000" float="true" pos="70,130,92,152" />
+		<Button name="colour_5_4" bkcolor="#FF004040" float="true" pos="100,130,122,152" />
+		<Button name="colour_5_5" bkcolor="#FF000080" float="true" pos="130,130,152,152" />
+		<Button name="colour_5_6" bkcolor="#FF000040" float="true" pos="160,130,182,152" />
+		<Button name="colour_5_7" bkcolor="#FF400040" float="true" pos="190,130,212,152" />
+		<Button name="colour_5_8" bkcolor="#FF400080" float="true" pos="220,130,242,152" />
+		
+		<Button name="colour_6_1" bkcolor="#FF000000" float="true" pos="10,160,32,182" />
+		<Button name="colour_6_2" bkcolor="#FF808000" float="true" pos="40,160,62,182" />
+		<Button name="colour_6_3" bkcolor="#FF808040" float="true" pos="70,160,92,182" />
+		<Button name="colour_6_4" bkcolor="#FF808080" float="true" pos="100,160,122,182" />
+		<Button name="colour_6_5" bkcolor="#FF408080" float="true" pos="130,160,152,182" />
+		<Button name="colour_6_6" bkcolor="#FFC0C0C0" float="true" pos="160,160,182,182" />
+		<Button name="colour_6_7" bkcolor="#FF400040" float="true" pos="190,160,212,182" />
+		<Button name="colour_6_8" bkcolor="#FFFFFFFF" float="true" pos="220,160,242,182" />
+
+	</HorizontalLayout>
+  </VerticalLayout>
+</Window>

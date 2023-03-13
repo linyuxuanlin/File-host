@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="English" lName="English" lcid="0x0409" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDOK" title="OK"/>
+		<Item id="2" name="IDCANCEL" title="Cancel"/>
+		<Item id="3" name="IDS_SIGNATURE" title="Signature"/>
+		<Item id="4" name="IDS_SIGNATURE_PRO" title="Verify Signature Properties(&amp;V)"/>
+		<Item id="5" name="IDS_SIGNATURE_DEL" title="Delete Signature Field(&amp;D)"/>
+		<Item id="6" name="IDS_NO_CERT_PRIVATE" title="Did not find the signer certificate corresponding to the private key, import the certificate or key disk and then insert operation." tooltip="" status="" short=""/>
+		<Item id="7" name="IDS_STRING_NEED_PIN" title="Password can't be blank!" tooltip="" status="" short=""/>
+		<Item id="8" name="IDS_STRING_PROMPT" title="iStylePDF Security" tooltip="" status="" short=""/>
+		<Item id="9" name="IDS_STRING_PIN_ERROR" title="Wrong password, please re-enter." tooltip="" status="" short=""/>
+		<Item id="10" name="IDS_STRING_SIG_HASH" title="Signature Digest" tooltip="" status="" short=""/>
+		<Item id="11" name="IDS_STRING_SIG_VALID" title="Signature valid, signed by &quot;%s&quot;." tooltip="" status="" short=""/>
+		<Item id="12" name="IDS_STRING_SIG_VALID_SUM" title="After this signature, the&quot;Document&quot;not changed" tooltip="" status="" short=""/>
+		<Item id="13" name="IDS_STRING_SIG_INVALID" title="Signature invalid, signed by &quot;%s&quot;." tooltip="" status="" short=""/>
+		<Item id="14" name="IDS_STRING_SIG_INVALID_SUM" title="After this signature, the document has been altered or damaged." tooltip="" status="" short=""/>
+		<Item id="15" name="IDS_STRING_MODIFY_PAGES" title=" %d page has been modified" tooltip="" status="" short=""/>
+		<Item id="16" name="IDS_TREE_SIG_NAME" title="Revision %d: signed by &quot;%s&quot;" tooltip="" status="" short=""/>
+		<Item id="17" name="IDS_TREE_SIG_VALID" title="Digital signature is valid:" tooltip="" status="" short=""/>
+		<Item id="18" name="IDS_TREE_SIG_AUTHOR" title="Signed by the current user." tooltip="" status="" short=""/>
+		<Item id="19" name="IDS_TREE_SIG_INVALID" title="Digital signature is invalid:" tooltip="" status="" short=""/>
+		<Item id="20" name="IDS_TREE_SIG_NO_VERIFY" title="The digital signature is not verified." tooltip="" status="" short=""/>
+		<Item id="21" name="IDS_TREE_SIG_INFO" title="Signature Details" tooltip="" status="" short=""/>
+		<Item id="22" name="IDS_TREE_CERT_INFO" title="Certificate Details ..." tooltip="" status="" short=""/>
+		<Item id="23" name="IDS_TREE_FIELD_POS" title="Field: %s at page %d" tooltip="" status="" short=""/>
+		<Item id="24" name="IDS_TREE_DOC_REVISION" title="Document Revision: the %d/%d Edition" tooltip="" status="" short=""/>
+		<Item id="25" name="IDS_TREE_NO_SIG_FIELD" title="Unsigned signature field" tooltip="" status="" short=""/>
+		<Item id="27" name="IDS_STRING_EDIT_DETAILS" title="Edit Details:" tooltip="" status="" short=""/>
+		<Item id="28" name="IDS_STRING_HAS_PAGES_MODIFIED" title="%d page has been modified" tooltip="" status="" short=""/>
+		<Item id="29" name="IDS_STRING_USE_CERT_ERROR" title="Failure to use the digital certificate signature!" tooltip="" status="" short=""/>
+		<Item id="30" name="IDS_STRING_FILE_OPEN_ERROR" title="File occupied by other programs, open the file save failed!" tooltip="" status="" short=""/>
+		<Item id="31" name="IDS_STRING_UNKNOW" title="Digital signatures to save an unknown exception, check the file and the certificate is used properly!" tooltip="" status="" short=""/>
+		<Item id="32" title="Can not find the certificate, import the certificate to the container or insert the key before operating!" tooltip="" status="" short=""/>
+		<Item id="33" title="Not available signature appearance!" tooltip="" status="" short=""/>
+		<Item id="34" title="Clear Signature(&amp;C)" tooltip="" status="" short=""/>
+		<Item id="35" title="All signature verification is completed, took a total of %d milliseconds!" tooltip="" status="" short=""/>
+		<Item id="36" title="Being collated signature revision..." tooltip="" status="" short=""/>
+		<Item id="37" title="This function has expired, please contact the software vendor!" tooltip="" status="" short=""/>
+		<Item id="38" title="Signature: Verify and view all signatures" tooltip="" status="" short=""/>
+		<Item id="39" title="Digital Signature" tooltip="" status="" short=""/>
+		<Item id="40" title="After signing the document has modified" tooltip="" status="" short=""/>
+		<Item id="41" title="The doc with this signature is better, but then been changed..." tooltip="" status="" short=""/>
+		<Item id="42" name="IDS_CLOSE" title="Close"/>
+		<Item id="100" title="Digital Signature plug-in" tooltip="" status="" short=""/>
+		<Item id="107" title="Sign Document" tooltip="" status="" short=""/>
+		<Item id="108" title="Signature Properties" tooltip="" status="" short=""/>
+		<Item id="114" title="Enter PIN" tooltip="" status="" short=""/>
+		<Item id="115" title="Verify all signatures" tooltip="" status="" short=""/>
+		<Item id="116" name="IDD_CSPSIGNATUREDATATIMEDLG" title="Date Format" tooltip="" status="" short=""/>
+		<Item id="204" title="Details" tooltip="" status="" short=""/>
+		<Item id="213" title="Cert Name" tooltip="" status="" short=""/>
+		<Item id="214" title="Advanced" tooltip="" status="" short=""/>
+		<Item id="215" title="Token PIN:" tooltip="" status="" short=""/>
+		<Item id="217" title="Sign Mode:" tooltip="" status="" short=""/>
+		<Item id="225" title="View Cert ..." tooltip="" status="" short=""/>
+		<Item id="227" title="Seal Name:" tooltip="" status="" short=""/>
+		<Item id="228" title="Signature" tooltip="" status="" short=""/>
+		<Item id="229" title="The certificate requires a private key authentication" tooltip="" status="" short=""/>
+		<Item id="230" title="Token PIN" tooltip="" status="" short=""/>
+		<Item id="231" title="Signature Information" tooltip="" status="" short=""/>
+		<Item id="232" title="Validity Summary" tooltip="" status="" short=""/>
+		<Item id="233" title="Signed:" tooltip="" status="" short=""/>
+		<Item id="234" title="Reason:" tooltip="" status="" short=""/>
+		<Item id="235" title="Date:" tooltip="" status="" short=""/>
+		<Item id="239" title="Do you want to verify all the signatures? &#x0D;Either large document or more signatures may take more time" tooltip="" status="" short=""/>
+		<Item id="236" title="Add..." tooltip="" status="" short=""/>
+		<Item id="240" title="OK" tooltip="" status="" short=""/>
+        <Item id="241" title="Verifying signatures...%d / %d" tooltip="" status="" short=""/>
+        <Item id="242" title="Template：" tooltip="" status="" short=""/>
+		<Item id="246" title="Select" tooltip="" status="" short=""/>
+		<Item id="264" title="Name:" tooltip="" status="" short=""/>
+		<Item id="265" title="Size:" tooltip="" status="" short=""/>
+		<Item id="266" title="Color:" tooltip="" status="" short=""/>
+		<Item id="267" title="X Position:" tooltip="" status="" short=""/>
+		<Item id="268" title="Y Position:" tooltip="" status="" short=""/>
+		<Item id="269" title="Date Format" tooltip="" status="" short=""/>
+		<Item id="270" title="OK" tooltip="" status="" short=""/>
+		<Item id="272" title="Signature Zoom" tooltip="" status="" short=""/>
+		<Item id="279" title="Remember" tooltip="" status="" short=""/>
+		<Item id="280" title="Certificate filter" tooltip="" status="" short=""/>
+		<Item id="281" title="Page Range" tooltip="" status="" short=""/>
+		<Item id="317" title="Cancel" tooltip="" status="" short=""/>
+		<Item id="325" title="Date Setting" tooltip="" status="" short=""/>
+		<Item id="32700" title="Prompt" tooltip="" status="" short=""/>
+		<Item id="32769" title="Show Signature Properties(&amp;S)" tooltip="" status="" short=""/>
+		<Item id="32770" title="Verify Signature(&amp;V)" tooltip="" status="" short=""/>
+		<Item id="32776" title="Place Signature(&amp;P)" tooltip="" status="" short=""/>
+		<Item id="32777" title="Clear Signature(&amp;C)" tooltip="" status="" short=""/>
+		<Item id="32779" title="Verify all signatures" tooltip="" status="" short=""/>
+		<Item id="34000" title="Signature contain embedded timestamps!" tooltip="" status="" short=""/>    
+		<Item id="34001" title="Timestamp authority:" tooltip="" status="" short=""/>    
+		<Item id="34002" title="BarCode" tooltip="" status="" short=""/>  
+		<Item id="34003" title="RayCode" tooltip="" status="" short=""/>
+		<Item id="34004" title="Connective Seal" tooltip="" status="" short=""/>
+		<Item id="34005" title="Handwritting" tooltip="" status="" short=""/>
+		<Item id="34006" title="Position" tooltip="" status="" short=""/>
+		<Item id="34007" title="Position:" tooltip="" status="" short=""/> 				
+		<Item id="34008" title="Into Signature" tooltip="" status="" short=""/>
+		<Item id="34009" title="Out of Signature" tooltip="" status="" short=""/>
+		<Item id="34010" title="Cross Setting" tooltip="" status="" short=""/>
+		<Item id="34011" title="Start" tooltip="" status="" short=""/>
+		<Item id="34012" title="Page" tooltip="" status="" short=""/>
+		<Item id="34013" title="All Page" tooltip="" status="" short=""/>
+		<Item id="34014" title="Odd Page" tooltip="" status="" short=""/>
+		<Item id="34015" title="Even Page" tooltip="" status="" short=""/>
+		<Item id="34016" title="Setting" tooltip="" status="" short=""/>
+		<Item id="34017" title="Signature of mouse" tooltip="" status="" short=""/>
+		<Item id="34018" title="MultiPage seal of mouse" tooltip="" status="" short=""/>
+		<Item id="34019" title="Continuous seal of mouse" tooltip="" status="" short=""/>
+		<Item id="34020" title="Signature Verification" tooltip="" status="" short=""/>
+		<Item id="34021" title="Delete" tooltip="" status="" short=""/>
+		<Item id="34022" title="Digital Signature" tooltip="" status="" short=""/>
+		<Item id="34023" title="Signed Certification" tooltip="" status="" short=""/>
+		<Item id="34024" title="View Cert" tooltip="" status="" short=""/>
+		<Item id="34025" title="KCL201_No USB-Key detected!" tooltip="" status="" short=""/>
+		<Item id="34026" title="Batch Verification" tooltip="" status="" short=""/>
+		<Item id="34027" title="Settings" tooltip="" status="" short=""/>
+		<Item id="34028" title="Print Settings" tooltip="" status="" short=""/>
+		<Item id="34029" title="Monochrome" tooltip="" status="" short=""/>
+		<Item id="34030" title="(Sum:%d)" tooltip="" status="" short=""/>
+		<Item id="34031" title="GM2" tooltip="" status="" short=""/>
+		<Item id="34032" title="Add Text Settings" tooltip="" status="" short=""/>
+		<Item id="34033" title="Text:" tooltip="" status="" short=""/>
+		<Item id="34034" title="Font:" tooltip="" status="" short=""/>
+		<Item id="34035" title="Size:" tooltip="" status="" short=""/>
+		<Item id="34036" title="Color:" tooltip="" status="" short=""/>
+		<Item id="34037" title="Position:" tooltip="" status="" short=""/>
+		<Item id="34038" title="Variable:" tooltip="" status="" short=""/>
+		<Item id="34039" title="Offline Seal" tooltip="" status="" short=""/>
+		<Item id="34040" title="Auto Signature" tooltip="" status="" short=""/>
+		<Item id="34041" title="Sign Above Text" tooltip="" status="" short=""/>
+		<Item id="34042" title="Add Time" tooltip="" status="" short=""/>
+		<Item id="34043" title="Add Text" tooltip="" status="" short=""/>
+		<Item id="34044" title="Remember Param" tooltip="" status="" short=""/>
+		<Item id="34045" title="Setting" tooltip="" status="" short=""/>
+		
+		
+		<Item id="34046" title="PIN length error!" tooltip="" status="" short=""/>
+		<Item id="34047" title="Pls enter a number between 1-100 for font size!" tooltip="" status="" short=""/>
+		<Item id="34048" title="An exception occurred while do print settings!" tooltip="" status="" short=""/>
+		<Item id="34049" title="Failed to install the root cert, please re-install!" tooltip="" status="" short=""/>
+		<Item id="34050" title="KCL809_Operation failed, please Remove the current key and then operate." tooltip="" status="" short=""/>
+		<Item id="34051" title="KCL214_To proceed, please insert the original USB-Key!" tooltip="" status="" short=""/>
+		<Item id="34052" title="iSignature digital signature system has newer version!" tooltip="" status="" short=""/>
+		<Item id="34053" title="Signature assistant is not registered/installed!" tooltip="" status="" short=""/>
+		<Item id="34054" title="Seal does not exist in the document" tooltip="" status="" short=""/>
+		<Item id="34055" title="KCL808_Operation failed, Seal assistant not enabled or unauthorized." tooltip="" status="" short=""/>
+		<Item id="34056" title="The decrypting operation is irreversible. The electronic seal will not protect the document, and the appearance of the seal will change to black and white" tooltip="" status="" short=""/>
+		<Item id="34057" title="Wrong signature location/Too small signature area" tooltip="" status="" short=""/>
+		<Item id="34058" title="KCL001_The signature client authorization file is not detected!" tooltip="" status="" short=""/>
+		<Item id="34059" title="KCL002_Failed to parse the signature client authorization file!" tooltip="" status="" short=""/>
+		<Item id="34060" title="KCL003_Signature system file data illegal!" tooltip="" status="" short=""/>
+		<Item id="34061" title="KCL004_The signature function is not authorized!" tooltip="" status="" short=""/>
+		<Item id="34062" title="KCL005_%s authorization has expired, please contact the manufacturer to update the authorization!" tooltip="" status="" short=""/>
+		<Item id="34063" title="KCL202_No digital seal exists in the USB-Key!" tooltip="" status="" short=""/>
+		<Item id="34064" title="Server does not define stamp expiration time control function!" tooltip="" status="" short=""/>
+		<Item id="34065" title="Please save the document before stamping!" tooltip="" status="" short=""/>
+		<Item id="34066" title="Illegal page range" tooltip="" status="" short=""/>
+		<Item id="34067" title="KCL207_No USB-Key detected or USB-Key expiration date error, please try signature again!" tooltip="" status="" short=""/>
+		<Item id="34068" title="KCL205_USB-Key is inactive, cannot sign signature!" tooltip="" status="" short=""/>
+		<Item id="34069" title="KCL206_Cannot sign signature, USB-Key is expired!" tooltip="" status="" short=""/>
+		<Item id="34070" title="Failed to load signature module, please reinstall the application" tooltip="" status="" short=""/>
+		<Item id="34071" title="Unable to get original text, digital signature failed!" tooltip="" status="" short=""/>
+		<Item id="34072" title="KCL231_Digital signature failed!" tooltip="" status="" short=""/>
+		<Item id="34073" title="Unable to get certificate, digital signature failed!" tooltip="" status="" short=""/>
+		<Item id="34074" title="Digital signature successed!" tooltip="" status="" short=""/>
+		<Item id="34075" title="Please save the file first!" tooltip="" status="" short=""/>
+		<Item id="34076" title="KCL272_The signer's certificate is expired or not yet valid, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34077" title="KCL274_The signer's root certificate verify failed!" tooltip="" status="" short=""/>
+		<Item id="34078" title="KCL270_The signer's certificate is revocatory, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34079" title="KCL276_The signer's root certificate install unsuccessful!" tooltip="" status="" short=""/>
+		<Item id="34080" title="KCL266_Can not find the signer's certificate revocation list, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34081" title="KCL260_Can not find the signer's certificate, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34082" title="KCL262_Can not find the signer's root certificate, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34083" title="KCL264_The signer's certificate does not match the signer's root certificate, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34084" title="KCL268_The signer's certificate does not match the signer's certificate revocation list, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34085" title="Offline signature log file does not exist!" tooltip="" status="" short=""/>
+		
+		<Item id="34086" title="Font size format error" tooltip="" status="" short=""/>
+		<Item id="34087" title="Please select date format" tooltip="" status="" short=""/>
+		<Item id="34088" title="Parameter setting error of connective seal!" tooltip="" status="" short=""/>
+		<Item id="34089" title="Certificate information error!" tooltip="" status="" short=""/>
+		<Item id="34090" title="Failed to get seal picture!" tooltip="" status="" short=""/>
+		<Item id="34091" title="Please choose a valid operation after the signature" tooltip="" status="" short=""/>
+		<Item id="34092" title="KCL281_Can not find the seal's certificate, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34093" title="KCL273_The seal maker's certificate is expired or not yet valid, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34094" title="KCL275_The maker's root certificate verify falied!" tooltip="" status="" short=""/>
+		<Item id="34095" title="KCL271_The seal maker's certificate is revocatory, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34096" title="KCL277_The maker's root certificate install unsuccessful!" tooltip="" status="" short=""/>
+		<Item id="34097" title="KCL267_Can not find the seal maker's certificate revocation list, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34098" title="KCL263_Can not find the seal maker's root certificate, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34099" title="KCL265_The seal maker's certificate does not match the seal maker's root certificate, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34100" title="KCL269_The seal maker's certificate does not match the seal maker's certificate revocation list, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34101" title="KCL261_The signer's certificate is not in the signer's certificate list, verification failed!" tooltip="" status="" short=""/>
+		<Item id="34102" title="KCL278_The maker's make seal time is not yet valid,verification failed!" tooltip="" status="" short=""/>
+		<Item id="34103" title="KCL279_The maker's make seal time is expired,verification failed!" tooltip="" status="" short=""/>
+		<Item id="34104" title="The USB-KEY has %ld days expired，please update" tooltip="" status="" short=""/>
+		
+		<Item id="34105" title="Certificate verification failed" tooltip="" status="" short=""/>
+		<Item id="34106" title="         Please upgrade iWebPDF2015！&#x000A; &#x000A;    Adress： http://www.kinggrid.com" tooltip="" status="" short=""/>
+		<Item id="34107" title="Tahoma" tooltip="" status="" short=""/>
+			
+		<Item id="34108" title="Align top" tooltip="" status="" short=""/>	
+		<Item id="34109" title="Align center" tooltip="" status="" short=""/>
+		<Item id="34110" title="Align bottom" tooltip="" status="" short=""/>
+		<Item id="34111" title="Left top" tooltip="" status="" short=""/>		
+		<Item id="34112" title="Left center" tooltip="" status="" short=""/>
+		<Item id="34113" title="Left bottom" tooltip="" status="" short=""/>
+		<Item id="34114" title="Right top" tooltip="" status="" short=""/>
+		<Item id="34115" title="Right center" tooltip="" status="" short=""/>
+		<Item id="34116" title="Right bottom" tooltip="" status="" short=""/>
+		<Item id="34117" title="TopLeftToSeal" tooltip="" status="" short=""/>
+		<Item id="34118" title="TopMiddleToSeal" tooltip="" status="" short=""/>
+		<Item id="34119" title="TopRightToSeal" tooltip="" status="" short=""/>
+		<Item id="34120" title="BottomLeftToSeal" tooltip="" status="" short=""/>
+		<Item id="34121" title="BottomMiddleToSeal" tooltip="" status="" short=""/>
+		<Item id="34122" title="BottomRightToSeal" tooltip="" status="" short=""/>
+		<Item id="34123" title="TopLeftOutSeal" tooltip="" status="" short=""/>
+		<Item id="34124" title="TopMiddleOutSeal" tooltip="" status="" short=""/>
+		<Item id="34125" title="TopRightOutSeal" tooltip="" status="" short=""/>
+		<Item id="34126" title="BottomLeftOutSeal" tooltip="" status="" short=""/>
+		<Item id="34127" title="BottomMiddOutSeal" tooltip="" status="" short=""/>
+		<Item id="34128" title="BottomRightOutSeal" tooltip="" status="" short=""/>
+		
+		<Item id="34129" title="Failed to call signature assistant!" tooltip="" status="" short=""/>
+		<Item id="34130" title="Failed to call phone shield!" tooltip="" status="" short=""/>
+			
+			
+		<Item id="34131" title="Certificate verification: &#x000D;&#x000A;        1. Root certificate verification is optional, check to verify, otherwise not. You have to select&#x000D;&#x000A;            root certificate location first unless it has been installed. &#x000D;&#x000A;        2. Revocation list verification is optional, check to verify,  otherwise not to verify. &#x000D;&#x000A;            If revocation list is checked, select the revocation list location is required.&#x000D;&#x000A;        3. Digital signature validation is by default." tooltip="" status="" short=""/>
+		<Item id="34132" title="Root certificate validation" tooltip="" status="" short=""/>	
+		<Item id="34133" title="Select" tooltip="" status="" short=""/>	
+		<Item id="34134" title="(Not Installed)" tooltip="" status="" short=""/>	
+		<Item id="34135" title="Check if the certificate issued by a CA." tooltip="" status="" short=""/>	
+		<Item id="34136" title="Revocation List" tooltip="" status="" short=""/>	
+		<Item id="34137" title="(Check if the certificate in CA’s revocation list.)" tooltip="" status="" short=""/>	
+		<Item id="34138" title="Signature Verify" tooltip="" status="" short=""/>	
+		<Item id="34139" title="Check if the signature has been changed." tooltip="" status="" short=""/>
+		<Item id="34140" title="(Installed)" tooltip="" status="" short=""/>
+			
+		<Item id="34141" title="Certificate file(*.cer;*.p7b)\0*.cer;*.p7b\0" tooltip="" status="" short=""/>
+		<Item id="34142" title="Certificate file(*.crl)\0*.crl\0" tooltip="" status="" short=""/>						
+		<Item id="34143" title="Please enter info here" tooltip="" status="" short=""/>						
+		
+		<Item id="34144" title="VertifyResult" tooltip="" status="" short=""/>						
+		<Item id="34145" title="Root Certificate" tooltip="" status="" short=""/>						
+		<Item id="34146" title="revocation list" tooltip="" status="" short=""/>
+			
+		<Item id="34147" title="Not Selected!" tooltip="" status="" short=""/>						
+		<Item id="34148" title="Invalid, can't find any root cert!" tooltip="" status="" short=""/>						
+		<Item id="34149" title="Valid, authorized by CA!" tooltip="" status="" short=""/>						
+		<Item id="34150" title="Invalid, expired or not activited!" tooltip="" status="" short=""/>						
+		<Item id="34151" title="Valid, revocation list no cert!" tooltip="" status="" short=""/>						
+		<Item id="34152" title="Valid, In the Revocation List." tooltip="" status="" short=""/>		
+		<Item id="34153" title="Not Selected!" tooltip="" status="" short=""/>
+		<Item id="34154" title="Valid, the document is intact!" tooltip="" status="" short=""/>
+		<Item id="34155" title="Invalid,document is modified!" tooltip="" status="" short=""/>
+			
+		<Item id="34156" title="Summary" tooltip="" status="" short=""/>
+		<Item id="34157" title="TS Cert" tooltip="" status="" short=""/>	
+			
+		<Item id="34158" title="Total" tooltip="" status="" short=""/>
+		<Item id="34159" title="Valid" tooltip="" status="" short=""/>
+		<Item id="34160" title="Invalid" tooltip="" status="" short=""/>
+		<Item id="34161" title="Unprotected" tooltip="" status="" short=""/>
+			
+		<Item id="34162" title="it is not protected!" tooltip="" status="" short=""/>
+		<Item id="34163" title="Invalid!" tooltip="" status="" short=""/>
+		<Item id="34164" title="（Timestamp Invalid）" tooltip="" status="" short=""/>
+		<Item id="34165" title="Valid!" tooltip="" status="" short=""/>
+		<Item id="34166" title="（Timestamp Valid）" tooltip="" status="" short=""/>
+		<Item id="34167" title="Application:       " tooltip="" status="" short=""/>	
+		
+		<Item id="34168" title="Content Protection" tooltip="" status="" short=""/>	
+		<Item id="34169" title="Protected area:  " tooltip="" status="" short=""/>	
+		<Item id="34170" title="Authority:           " tooltip="" status="" short=""/>	
+		<Item id="34171" title="User name:         " tooltip="" status="" short=""/>	
+		<Item id="34172" title="Token SN:          " tooltip="" status="" short=""/>	
+		<Item id="34173" title="Name:                " tooltip="" status="" short=""/>
+		<Item id="34174" title="Sign Date:          " tooltip="" status="" short=""/>
+		<Item id="34175" title="(From the Timestamp server)" tooltip="" status="" short=""/>
+		<Item id="34176" title="Local IP:             " tooltip="" status="" short=""/>
+		<Item id="34177" title="Extended info:" tooltip="" status="" short=""/>
+		<Item id="34178" title="MakeSealer:" tooltip="" status="" short=""/>
+		<Item id="34179" title="MakeSealTime:" tooltip="" status="" short=""/>
+		
+		<Item id="34184" title="OffLine Log" tooltip="" status="" short=""/>
+		<Item id="34185" title="Seal+Date" tooltip="" status="" short=""/>
+		<Item id="34186" title="Electronic Signature" tooltip="" status="" short=""/>
+		<Item id="34187" title="Sign+Date" tooltip="" status="" short=""/>
+		<Item id="34188" title="Password is required to cancel signature" tooltip="" status="" short=""/>
+		<Item id="34189" title="Input pwd" tooltip="" status="" short=""/>
+			
+		<Item id="34190" title="Y" tooltip="" status="" short=""/>	
+		<Item id="34191" title="M" tooltip="" status="" short=""/>	
+		<Item id="34192" title="D" tooltip="" status="" short=""/>		
+		
+		<Item id="34193" title="Protect Content" tooltip="" status="" short=""/>	
+		<Item id="34194" title="Not effective" tooltip="" status="" short=""/>	
+		<Item id="34195" title="Expired" tooltip="" status="" short=""/>
+		<Item id="34196" title="MultiPages Signature" tooltip="" status="" short=""/>
+		<Item id="34197" title="Seal Type:" tooltip="" status="" short=""/>
+		<Item id="34198" title="Sign SN:             " tooltip="" status="" short=""/>
+		<Item id="34199" title="Select" tooltip="" status="" short=""/>
+		<Item id="34200" title="Digital need password" tooltip="" status="" short=""/>
+		<Item id="34201" title="GM1" tooltip="" status="" short=""/>
+		<Item id="34202" title="GB" tooltip="" status="" short=""/>
+		<Item id="34203" title="File Name:          " tooltip="" status="" short=""/>
+		<Item id="34204" title="(Time source from the Signature server)" tooltip="" status="" short=""/>
+		<Item id="34205" title="Atomization" tooltip="" status="" short=""/>
+		<Item id="34206" title="Yes" tooltip="" status="" short=""/>
+		<Item id="34207" title="No" tooltip="" status="" short=""/>
+		<Item id="34208" title="load xml file failed!" tooltip="" status="" short=""/>
+		<Item id="34209" title="Select the according signature please!" tooltip="" status="" short=""/>
+		<Item id="34210" title="KCL204_No correct formatted USB-Key inserted!" tooltip="" status="" short=""/>
+		<Item id="34211" title="Function execute failed, operation aborted." tooltip="" status="" short=""/>
+		<Item id="34212" title="KCL209_No approved digital seal exists in the USB-Key!" tooltip="" status="" short=""/>		
+		<Item id="34213" title="The drive file of the electronic key disc was not found!" tooltip="" status="" short=""/>
+		<Item id="34214" title="Failed to obtain the certificate information in the process of verifying the validity of the certificate!" tooltip="" status="" short=""/>
+		<Item id="34215" title="Failed to convert certificate object during validation of certificate!" tooltip="" status="" short=""/>
+		<Item id="34216" title="KCL234_Digital certification is expired or not enabled!" tooltip="" status="" short=""/>
+		<Item id="34217" title="Your certificate will be after %d date  Entered into force！" tooltip="" status="" short=""/>
+		<Item id="34218" title="Your certificate will be after %d h %d m %d s  Entered into force！" tooltip="" status="" short=""/>
+		<Item id="34219" title="Your certificate will be in %d h %d m %d s Maturity，Please apply for the certificate extension！" tooltip="" status="" short=""/>
+		<Item id="34220" title="Your certificate will be in %d  days Maturit，Please apply for the certificate extension！" tooltip="" status="" short=""/>
+		<Item id="34221" title="Your certificate has expired %d days，Please apply for the certificate extension！" tooltip="" status="" short=""/>
+		<Item id="34222" title="Your certificate has expired %d h %d m %d s ，Please apply for the certificate extension！" tooltip="" status="" short=""/>
+		<Item id="34223" title="Invalid, not authorized by CA!" tooltip="" status="" short=""/>
+		<Item id="34224" title="KCL280_Unknown reasons,verification failed!" tooltip="" status="" short=""/>
+		<Item id="34225" title="Please select the path of root cert file!" tooltip="" status="" short=""/>
+		<Item id="34226" title="The selected path for root cert file not found!" tooltip="" status="" short=""/>
+		<Item id="34227" title="The server failed to validate the certificate" tooltip="" status="" short=""/>
+		<Item id="34228" title="(Time source from the local)" tooltip="" status="" short=""/>
+		<Item id="34229" title="The feature is not supported yet!" tooltip="" status="" short=""/>
+		<Item id="34230" title="The Document Pages less than 2, can not stamp connective seal!" tooltip="" status="" short=""/>
+		<Item id="34231" title="The signature is expired, operation aborted!" tooltip="" status="" short=""/>
+		<Item id="34232" title="Digital sign failed, cause:" tooltip="" status="" short=""/>
+		<Item id="34233" title="Cound not found this sign!" tooltip="" status="" short=""/>
+		<Item id="34234" title="An exception occurred while scanning USB-Key!" tooltip="" status="" short=""/>
+		<Item id="34235" title="Can not connect to the server!" tooltip="" status="" short=""/>
+		<Item id="34236" title="No signature in the file,Can not disable signature!" tooltip="" status="" short=""/>
+		<Item id="34237" title="Please insert the original electronic key disc signed in the document for declassification." tooltip="" status="" short=""/>
+		<Item id="34238" title="Barcode component is not installed on the computer!" tooltip="" status="" short=""/>
+		<Item id="34239" title="Please stamp on the first page." tooltip="" status="" short=""/>
+		<Item id="34240" title="Signature failed. The operation was cancelled." tooltip="" status="" short=""/>
+		<Item id="34241" title="Please choose the revoked list!" tooltip="" status="" short=""/>
+		<Item id="34242" title="The revoked list is not exist!" tooltip="" status="" short=""/>
+		<Item id="34243" title="Obtain cert content failed, please re-try it after restart the program!" tooltip="" status="" short=""/>
+		<Item id="34244" title="KCL203_Too many USB-Key inserted!" tooltip="" status="" short=""/>
+		<Item id="34245" title="KCL212_Illegal USB-Key!" tooltip="" status="" short=""/>
+		<Item id="34246" title="No signature graph available!" tooltip="" status="" short=""/>
+		<Item id="34247" title="Fail to input signature graph!" tooltip="" status="" short=""/>
+		
+		<Item id="34248" title="Prompt" tooltip="" status="" short=""/>
+		<Item id="34249" title="Do not prompt again (valid on the day)" tooltip="" status="" short=""/>
+		<Item id="34250" title="Go to renew" tooltip="" status="" short=""/>
+		<Item id="34251" title="The electronic seal has expired, please renew it as soon as possible!" tooltip="" status="" short=""/>
+		<Item id="34252" title="The electronic seal expires in " tooltip="" status="" short=""/>
+		<Item id="34253" title="days" tooltip="" status="" short=""/>
+		<Item id="34254" title=", please renew!" tooltip="" status="" short=""/>
+		<Item id="34255" title="The key expires in " tooltip="" status="" short=""/>
+		<Item id="34256" title="Reason:" tooltip="" status="" short=""/>
+		<Item id="34257" title="No signature position" tooltip="" status="" short=""/>
+		<Item id="34258" title="Not connected to the Internet, printing is prohibited, return value:" tooltip="" status="" short=""/>
+		<Item id="34259" title="Failed to obtain the certificate container" tooltip="" status="" short=""/>
+		<Item id="34260" title="Send AuthCode" tooltip="" status="" short=""/>
+		<Item id="34261" title="Auth Code：" tooltip="" status="" short=""/>
+		<Item id="34262" title="s Later Send" tooltip="" status="" short=""/>
+		<Item id="34263" title="Scan signature" tooltip="" status="" short=""/>
+		<Item id="34264" title="Choose subject:" tooltip="" status="" short=""/>	
+	</Strings>
+	<Dialogs>		
+	</Dialogs>
+</Localization>

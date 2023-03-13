@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iStylePDF>
+	<Line>
+		<ScaleRatio user="1" userunit="3" dev="1" devunit="3" />
+	</Line>
+	<FreeText>
+		<Font size="12" color="#00000000" />
+		<Ap  width="200" height="20" />
+	</FreeText>
+	<StampModel select="1" visible="1">
+		<Stamp name="戳记模型一" type="1" InVisible="" Disabled="" param1="赣1" param2="123456" param3="2019年01月01日" param4="#00ff0000" />
+		<Stamp name="戳记模型二" type="2" InVisible="" Disabled="" param1="江西金格科技" param2="123456" param3="2019年01月06日" param4="#00ff0000" />
+		<Stamp name="戳记模型三" type="3" InVisible="" Disabled="" param1="领导" param2="网第123456号" param3="2019年01月01日" param4="#00ff0000" />
+	</StampModel>
+	<Options>
+		<AnnotZoom Enabled="true"/>
+	</Options>
+</iStylePDF>

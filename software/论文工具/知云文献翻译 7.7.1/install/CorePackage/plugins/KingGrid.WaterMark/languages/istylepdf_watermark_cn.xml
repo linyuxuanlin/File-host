@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (PRC)" lName="简体中文" lcid="0x0804" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDS_STRING_IDOK" title="确定"/>
+		<Item id="2" name="IDS_STRING_IDCANCEL" title="关闭"/>
+		<Item id="3" name="IDS_STRING_ADD_WATERMARK" title="添加水印"/>
+		<Item id="4" name="IDS_STRING_DEL_WATERMARK" title="删除水印"/>
+		<Item id="5" name="IDS_STRING_SAVE_SETTINNG" title="保存设置"/>
+		<Item id="6" name="IDS_STRING_DEL_SETTING" title="删除设置" tooltip="" status="" short=""/>
+		<Item id="7" name="IDS_STRING_PAGE_RANGE" title="页面范围选项" tooltip="" status="" short=""/>
+		<Item id="8" name="IDS_STRING_NONE_SAVE" title="[未指定]" tooltip="" status="" short=""/>
+		<Item id="9" name="IDS_STRING_WATERMARK_SRC" title="来源" tooltip="" status="" short=""/>
+		<Item id="10" name="IDS_STRING_FROM_TEXT" title="文字" tooltip="" status="" short=""/>
+		
+		<Item id="11" name="IDS_STRING_FROM_PIC" title="图片" tooltip="" status="" short=""/>
+		<Item id="12" name="IDS_STRING_FONTNAME" title="字体:" tooltip="" status="" short=""/>
+		<Item id="13" name="IDS_STRING_FONTSIZE" title="字号:" tooltip="" status="" short=""/>
+		<Item id="14" name="IDS_STRING_PIC_PATH" title="没有选定源文件" tooltip="" status="" short=""/>
+		<Item id="15" name="IDS_STRING_PIC_SCAN" title="浏览..." tooltip="" status="" short=""/>
+		<Item id="16" name="IDS_STRING_SHOW_AP" title="外观" tooltip="" status="" short=""/>
+		<Item id="17" name="IDS_STRING_AP_ROTATE" title="旋转角度:" tooltip="" status="" short=""/>
+		<Item id="18" name="IDS_STRING_AP_ALPHA" title="不透明度:" tooltip="" status="" short=""/>
+		<Item id="19" name="IDS_STRING_AP_SCALE" title="相对目标页面比例" tooltip="" status="" short=""/>
+		<Item id="20" name="IDS_STRING_AP_POS" title="位置" tooltip="" status="" short=""/>
+		 
+		<Item id="21" name="IDS_STRING_ROTATE_NONE" title="无" tooltip="" status="" short=""/>
+		<Item id="22" name="IDS_STRING_POS_DOWN" title="看起来在页面之下" tooltip="" status="" short=""/>
+		<Item id="23" name="IDS_STRING_POS_UP" title="看起来在页面之上" tooltip="" status="" short=""/>
+		<Item id="24" name="IDS_STRING_VERTICAL_DISTANCE" title="垂直距离" tooltip="" status="" short=""/>
+		<Item id="25" name="IDS_STRING_HORIZONTAL_DISTANCE" title="水平距离" tooltip="" status="" short=""/>
+		<Item id="26" name="IDS_STRING_UNIT_PIXEL" title="像素     从" tooltip="" status="" short=""/>
+		<Item id="27" name="IDS_STRING_FROM_TOP" title="顶部" tooltip="" status="" short=""/>
+		<Item id="28" name="IDS_STRING_FROM_CORE" title="中心" tooltip="" status="" short=""/>
+		<Item id="29" name="IDS_STRING_FROM_BUTTOM" title="下边" tooltip="" status="" short=""/>
+		<Item id="30" name="IDS_STRING_AP_PREVIEW" title="预览页面:" tooltip="" status="" short=""/>
+		
+		<Item id="31" name="IDS_STRING_TOTALPAGE" title="共%d页" tooltip="" status="" short=""/>
+		<Item id="32" name="IDS_STRING_ALLPAGES" title="所有页面" tooltip="" status="" short=""/>
+		<Item id="33" name="IDS_STRING_FROM_PAGE" title="页面,从" tooltip="" status="" short=""/>
+		<Item id="34" name="IDS_STRING_TO_PAGE" title="到" tooltip="" status="" short=""/>
+		<Item id="35" name="IDS_STRING_SUBSET" title="子集:" tooltip="" status="" short=""/>
+		<Item id="36" name="IDS_STRING_ALLPAGERANGE" title="范围中的所有页面" tooltip="" status="" short=""/>
+		<Item id="37" name="IDS_STRING_ONLY_EVEN" title="仅偶数" tooltip="" status="" short=""/>
+		<Item id="38" name="IDS_STRING_ONLY_ODD" title="仅奇数" tooltip="" status="" short=""/>
+		<Item id="39" name="IDS_STRING_ROTATE_CUSTOM" title="自定义" tooltip="" status="" short=""/>
+		<Item id="40" name="IDS_STRING_FROM_LEFT" title="左边" tooltip="" status="" short=""/>
+		<Item id="41" name="IDS_STRING_FROM_RIGHT" title="右边" tooltip="" status="" short=""/>
+		<Item id="42" name="IDS_STRING_SAVE_CUSTOM" title="[自定义-未保存]" tooltip="" status="" short=""/>
+		<Item id="43" name="IDS_STRING_SAVE_PATH" title="另存当前设置为:" tooltip="" status="" short=""/>
+		<Item id="44" name="IDS_STRING_PROMPT" title="提示" tooltip="" status="" short=""/>
+		<Item id="45" name="IDS_STRING_PROMPT_MSG1" title="此文档不具备%s水印权限" tooltip="" status="" short=""/>
+		<Item id="46" name="IDS_STRING_PROMPT_MSG2" title="添加" tooltip="" status="" short=""/>
+		<Item id="47" name="IDS_STRING_PROMPT_MSG3" title="删除" tooltip="" status="" short=""/>
+		<Item id="48" name="IDS_STRING_PROMPT_MSG4" title="是否删除所有水印？" tooltip="" status="" short=""/>
+		<Item id="49" name="IDS_STRING_PROMPT_MSG5" title="是" tooltip="" status="" short=""/>
+		<Item id="50" name="IDS_STRING_PROMPT_MSG6" title="否" tooltip="" status="" short=""/>
+	</Strings>
+	<Dialogs>		
+	</Dialogs>
+</Localization>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (PRC)" lName="简体中文" lcid="0x0804" prefFont=""/>
+	<Strings>
+		<Item id="216" name="ID_HANDWRITTING_TOOLBAR" title="批阅工具栏" tooltip="批阅工具栏" status="" short=""/>
+		<Item id="32768" name="IDS_HANDWRITTING" title="全文批阅" tooltip="全文批阅" status="" short=""/>
+		<Item id="32769" name="IDS_OPTIONS" title="批阅选项" tooltip="批阅选项" status="" short=""/>
+		<Item id="32770" name="IDS_QUALITY_DEFAULT" title="默认" tooltip="默认" status="" short=""/>
+		<Item id="32771" name="IDS_QUALITY_LOW" title="低质量" tooltip="低质量" status="" short=""/>
+		<Item id="32772" name="IDS_QUALITY_HIGH" title="高质量" tooltip="高质量" status="" short=""/>
+		<Item id="32773" name="IDS_COLOR_AUTO" title="自动" tooltip="自动" status="" short=""/>
+		<Item id="32774" name="IDS_COLOR_MORE" title="更多颜色..." tooltip="更多颜色..." status="" short=""/>
+		<Item id="32775" name="IDS_HW_CANCEL" title="撤销签批" tooltip="撤销签批" status="" short=""/>
+		<Item id="32776" name="IDS_HW_TEXT" title="批注" tooltip="批注" status="" short=""/>
+		<Item id="32777" name="IDS_ANNOT_INFO" title="注释:查看所有批注" tooltip="注释:查看所有批注" status="" short=""/>
+		<Item id="32778" name="IDS_ANNOT_INFOLIST" title="注释列表" tooltip="注释列表" status="" short=""/>
+	</Strings>
+	<Dialogs>
+		<Dialog id="107" name="IDD_OPTIONDLG" title="批阅选项">
+			<Item id="1" name="IDOK" title="确定"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+			<Item id="205" name="IDC_STATIC_PENCOLOR" title="颜色："/>
+			<Item id="206" name="IDC_STATIC_PENWIDTH" title="笔宽："/>
+			<Item id="207" name="IDC_STATIC_ALPHA" title="透明值："/>
+			<Item id="210" name="IDC_STATIC_ELAPSE" title="笔划间隔："/>
+			<Item id="213" name="IDC_STATIC_UNIT" title="(毫秒)"/>
+			<Item id="215" name="IDC_STATIC_QUALITY" title="质量："/>
+		</Dialog>	
+	</Dialogs>
+</Localization>

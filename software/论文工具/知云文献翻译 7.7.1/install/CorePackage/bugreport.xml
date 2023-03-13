@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iStylePDFBUG>
+	<Server URL="http://www.istylepdf.com/istylepdfserver/upload.jsp" />
+	<Lang>
+		<CN>
+			<Item id="129" name="IDD_MAINDLG" title="错误报告"/>
+			<Item id="1003" name="IDC_STATIC_INFO" title="iStylePDF遇到了异常需要关闭。我们已经创建了一个BUG报告文件，您是否可以发送给我们帮助解决该问题。我们将不胜感激。"/>
+			<Item id="1000" name="IDC_CHECK_RESTART" title="重启iStylePDF"/>
+			<Item id="1001" name="IDC_BTN_SEND" title="发送错误报告"/>
+			<Item id="1002" name="IDC_BTN_CLOSE" title="不发送"/>
+		</CN>
+	</Lang>
+</iStylePDFBUG>

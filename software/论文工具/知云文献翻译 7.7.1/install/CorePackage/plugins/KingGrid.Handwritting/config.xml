@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iStylePDF>
+	<Options>
+		<Width value="1" />
+		<Color value="255" />
+		<Alpha value="255" />
+		<Elapse value="500" />
+		<Quality value="2" />
+		<PostType value="12" />
+		<BtnTextAnnotVisible value="0" />
+	</Options>
+</iStylePDF>

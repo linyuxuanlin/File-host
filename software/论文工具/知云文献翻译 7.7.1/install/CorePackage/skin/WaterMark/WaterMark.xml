@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="960,700" caption="0,0,0,90" bktrans="true" gdiplustext="true">
+<Font id="0" name="微软雅黑" size="16" bold="true"/>
+<Font id="1" name="微软雅黑" size="14" bold="false" />
+<Font id="2" name="微软雅黑" size="13" bold="false" />
+<Font id="3" name="微软雅黑" size="14" />
+<Font id="4" name="微软雅黑" size="18" bold="false"/>
+<Font id="5" name="微软雅黑" size="18" bold="true" />
+<Font id="6" name="微软雅黑" size="14" bold="true" underline="true"/>
+<Font id="7" name="微软雅黑" size="14" bold="true"/>
+<Default shared="true" name="Slider" value="thumbsize=&quot;10,10&quot; bkimage=&quot;file='bk\bg.bmp' corner='6,0,6,0' mask='#FFFF00FF'&quot; foreimage=&quot;file='bk\fg.bmp' corner='6,0,6,0' mask='#FFFF00FF'&quot; thumbimage=&quot;file='bk\thumb.bmp' source='30,0,40,10' mask='#FFDAEBF9'&quot; thumbhotimage=&quot;file='bk\thumb.bmp' source='10,0,20,10' mask='#FFDAEBF9'&quot; " />
+<Default name="VScrollBar" value="button1normalimage=&quot;file='scrollbar\scrollbar.png' source='0,90,16,106' mask='#FFFF00FF'&quot; button1hotimage=&quot;file='scrollbar\scrollbar.png' source='18,90,34,106' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scrollbar\scrollbar.png' source='36,90,52,106' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scrollbar\scrollbar.png' source='54,90,70,106' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scrollbar\scrollbar.png' source='0,108,16,124' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scrollbar\scrollbar.png' source='18,108,34,124' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scrollbar\scrollbar.png' source='36,108,52,124' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scrollbar\scrollbar.png' source='54,108,70,124' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scrollbar\scrollbar.png' source='0,126,16,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scrollbar\scrollbar.png' source='18,126,34,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='scrollbar\scrollbar.png' source='36,126,52,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scrollbar\scrollbar.png' source='54,126,70,142' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scrollbar\scrollbar.png' source='0,144,16,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scrollbar\scrollbar.png' source='18,144,34,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scrollbar\scrollbar.png' source='36,144,52,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scrollbar\scrollbar.png' source='54,144,70,160' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scrollbar\scrollbar.png' source='0,162,16,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scrollbar\scrollbar.png' source='18,162,34,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scrollbar\scrollbar.png' source='36,162,52,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scrollbar\scrollbar.png' source='54,162,70,178' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+<Default name="HScrollBar" value="button1normalimage=&quot;file='scrollbar\scrollbar.png' source='0,0,16,16' mask='#FFFF00FF'&quot; button1hotimage=&quot;file='scrollbar\scrollbar.png' source='18,0,34,16' mask='#FFFF00FF'&quot; button1pushedimage=&quot;file='scrollbar\scrollbar.png' source='36,0,52,16' mask='#FFFF00FF'&quot; button1disabledimage=&quot;file='scrollbar\scrollbar.png' source='54,0,70,16' mask='#FFFF00FF'&quot; button2normalimage=&quot;file='scrollbar\scrollbar.png' source='0,18,16,34' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scrollbar\scrollbar.png' source='18,18,34,34' mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scrollbar\scrollbar.png' source='36,18,52,34' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scrollbar\scrollbar.png' source='54,18,70,34' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scrollbar\scrollbar.png' source='0,36,16,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scrollbar\scrollbar.png' source='18,36,34,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbpushedimage=&quot;file='scrollbar\scrollbar.png' source='36,36,52,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scrollbar\scrollbar.png' source='54,36,70,52' corner='2,2,2,2' mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scrollbar\scrollbar.png' source='0,54,16,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; railhotimage=&quot;file='scrollbar\scrollbar.png' source='18,54,34,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scrollbar\scrollbar.png' source='36,54,52,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scrollbar\scrollbar.png' source='54,54,70,70' corner='2,2,2,2' mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scrollbar\scrollbar.png' source='0,72,16,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scrollbar\scrollbar.png' source='18,72,34,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scrollbar\scrollbar.png' source='36,72,52,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scrollbar\scrollbar.png' source='54,72,70,88' corner='2,2,2,2' mask='#FFFF00FF'&quot; " />
+
+	<!-- WinFrom -->
+	<VerticalLayout name="vlayout_background" bkimage="file='bk\background.png' corner='20,20,160,160'">
+            <!-- TitleBar -->
+		<HorizontalLayout height="58"> 
+			<HorizontalLayout name="hlayout_title" >
+				<Label float="true" pos="11,16,0,0" width="249" height="42" bkimage="file='bk\title_right.png' source='0,0,3,42'" />					
+				<Label float="true" pos="249,16,0,0" width="52" height="42" bkimage="file='bk\title_right.png'" />			
+				<Label float="true" pos="50,26,0,0" width="16" height="19" bkimage="file='bk\title_ico.png'" />			
+				<Label name="LWMName" text="添加水印" padding="85,19,0,0" width="200" height="31" textcolor="#ffffff" font="0"/>						
+				<Button name="BWMClose" padding="621,33.5,0,0" width="12" height="12" cursor="hand" normalimage="file='title\close_new.png'" hotimage="file='title\close_new.png'" pushedimage="file='title\close_new.png'" />
+			</HorizontalLayout>		        
+		</HorizontalLayout>
+		<HorizontalLayout name="Hlayout_content1" width="900" height="50" padding="30,10,0,0">
+			<Label name="LSaveSetting" text="保存的设置:" width="97" height="30" padding="10,9,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="3" />
+			<Combo name="CoBSaveName" padding="8,10,0,0" width="160" height="30" textpadding="4,1,20,1" font="2"
+									normalimage="file='combo\combo_sign.png' corner='7,7,23,7'" 
+									hotimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+									pushedimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+									focusedimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+									itemfont="1" 
+									itemtextpadding="8,2,1,1"
+									itemselectedtextcolor="#CD210F" 		
+									itemtextcolor="#333333" 
+									itemhottextcolor="#333333"
+									itembkcolor="#FFFFFFFF"
+									itemselectedbkcolor="#FFFAF1F0"
+									itemhotbkcolor="#FFFAF1F0"				
+									dropboxsize="0,200"						
+									showbutton="false">	
+			</Combo>
+			<Button name="BDeleteSetting" padding="10,10,0,0" text="删除设置" font="2" cursor="hand" width="90" height="30" textcolor="#ffffff" normalimage="file='button\btn1_normal.png'" hotimage="file='button\btn1_horver.png'" pushedimage="file='button\btn1_down.png'" disabledimage="file='button\btn_disabled.png'"/>
+			<Button name="BSaveSetting" padding="20,10,0,0" text="保存设置"  font="2" cursor="hand" width="90" height="30" textcolor="#ffffff" normalimage="file='button\btn1_normal.png'" hotimage="file='button\btn1_horver.png'" pushedimage="file='button\btn1_down.png'" disabledimage="file='button\btn_disabled.png'"/>
+			<Button name="BPagesSetting" padding="230,10,0,0" text="页面范围选项..." font="6" cursor="hand" width="200"  height="30" textcolor="#754EC3"/>			
+		</HorizontalLayout>
+		
+        <HorizontalLayout name="Hlayout_content2" width="900" height="500" padding="30,10,0,0">
+			<VerticalLayout width="480">
+				<VerticalLayout name="hlayout_btn_src" padding="10,2,0,0" width="460" height="200" bkimage="file='bk\sealground.png' corner='20,20,160,160'">	
+					<Label name="LWaterMarkSrc" text="来源" width="82" height="20" padding="5,0,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="7" />
+					<HorizontalLayout name="hlayout_btn_text" padding="10,0,0,0" width="440" height="50" >
+						<CheckBox name="CBTextMarkCommon" padding="0,16,0,0" width="17" height="17" group="selectWMSrc"
+							normalimage="file='checkbox\radiobox.png' "
+							selectedimage="file='checkbox\radiobox_select.png' "				
+							/>
+						<Button name="BTextMark" padding="0,16,0,0" text="文本" width="50" height="18" font="1" textcolor="#2D2D2D" />
+						<RichEdit name="RWaterMarkText" width="350" height="40" font="2" textcolor="#333333" padding="0,5,0,0" vscrollbar="true"  bordersize="1" borderround="2,2" bordercolor="#f0f0f0">
+						</RichEdit> 
+					</HorizontalLayout>
+					<HorizontalLayout name="hlayout_FontName" padding="10,0,0,0" width="440" height="40">
+						<Label name="LFontName" text="字体:" width="35" height="20" padding="70,10,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="2" />
+						<Combo name="CoBFontName" padding="2,5,0,0" width="165" height="30" textpadding="4,1,20,1" font="2"
+								normalimage="file='combo\combo_wm_sign.png' corner='7,7,23,7'" 
+								hotimage="file='combo\combo_wm_horver.png' corner='7,7,23,7'"
+								pushedimage="file='combo\combo_wm_horver.png' corner='7,7,23,7'"
+								focusedimage="file='combo\combo_wm_horver.png' corner='7,7,23,7'"
+								itemfont="1" 
+								itemtextpadding="8,2,1,1"
+								itemselectedtextcolor="#CD210F" 		
+								itemtextcolor="#333333" 
+								itemhottextcolor="#333333"
+								itembkcolor="#FFFFFFFF"
+								itemselectedbkcolor="#FFFAF1F0"
+								itemhotbkcolor="#FFFAF1F0"				
+								dropboxsize="0,200"						
+								showbutton="false">	
+							<ListLabelElement text="Courier" height="28"/>
+							<ListLabelElement text="Courier_Bold" height="28"/>
+							<ListLabelElement text="Courier_Oblique" height="28"/>
+							<ListLabelElement text="Courier_BoldOblique" height="28"/>
+							<ListLabelElement text="Helvetica" height="28"/>
+							<ListLabelElement text="Helvetica_Bold" height="28"/>
+							<ListLabelElement text="Helvetica_Oblique" height="28"/>
+							<ListLabelElement text="Helvetica_BoldOblique" height="28"/>
+							<ListLabelElement text="Times_Roman" height="28"/>
+							<ListLabelElement text="Times_Roman_Bold" height="28"/>
+							<ListLabelElement text="Times_Roman_Italic" height="28"/>
+							<ListLabelElement text="Times_Roman_BoldItalic" height="28"/>
+							<ListLabelElement text="Symbol" height="28"/>
+							<ListLabelElement text="AdobeSongStd_Light" height="28"/>
+							<ListLabelElement text="AdobeHeitiStd_Regular" height="28"/>
+							<ListLabelElement text="SimSun" height="28"/>
+							<ListLabelElement text="NSimSun" height="28"/>
+							<ListLabelElement text="SimHei" height="28"/>
+							<ListLabelElement text="MicrosoftYaHei" height="28"/>
+							<ListLabelElement text="MicrosoftYaHeiBold" height="28"/>
+							<ListLabelElement text="KaiTi_GB2312" height="28"/>
+							<ListLabelElement text="FangSong_GB2312" height="28"/>
+							<ListLabelElement text="STFangsong" height="28"/>
+							<ListLabelElement text="STZhongsong" height="28"/>
+							<ListLabelElement text="MingLiU" height="28"/>	
+						</Combo>
+						<Label name="LFontSize" text="字号:" width="35" height="20" padding="5,10,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="2" />
+						<Combo name="CoBFontSize" padding="2,5,0,0" width="80" height="30" textpadding="4,1,20,1" font="2"
+							normalimage="file='combo\combo_wm_sign.png'" 
+							hotimage="file='combo\combo_wm_horver.png'"
+							pushedimage="file='combo\combo_wm_horver.png'"
+							focusedimage="file='combo\combo_wm_horver.png'"
+							itemshowhtml="true"
+							itemfont="1" 
+							itemtextpadding="8,2,1,1"
+							itemselectedtextcolor="#CD210F" 		
+							itemtextcolor="#333333" 
+							itemhottextcolor="#333333"
+							itembkcolor="#FFFFFFFF"
+							itemselectedbkcolor="#FFFAF1F0"
+							itemhotbkcolor="#FFFAF1F0"				
+							dropboxsize="0,500"						
+							showbutton="false">	
+							<ListLabelElement text="8" height="28"/>
+							<ListLabelElement text="9" height="28"/>
+							<ListLabelElement text="10" height="28"/>
+							<ListLabelElement text="11" height="28"/>
+							<ListLabelElement text="12" height="28"/>
+							<ListLabelElement text="14" height="28"/>
+							<ListLabelElement text="16" height="28"/>
+							<ListLabelElement text="20" height="28"/>
+							<ListLabelElement text="22" height="28"/>
+							<ListLabelElement text="24" height="28"/>
+							<ListLabelElement text="26" height="28"/>
+							<ListLabelElement text="28" height="28"/>
+							<ListLabelElement text="36" height="28"/>
+							<ListLabelElement text="72" height="28"/>
+						</Combo>
+						<Edit name="EditFontSize" textcolor="#333333" padding="-83,4,0,0"  width="60" height="28" textpadding="6,6,4,3"  bkcolor="#FFFFFF" font="2" />
+					</HorizontalLayout>
+					<HorizontalLayout name="hlayout_style_text" padding="10,0,0,0" width="440" height="35">
+						<Button name="BTextUnderLine" padding="70,7,0,0" text="" width="22" height="22" font="2" textcolor="#2D2D2D" tooltip="下划线" normalimage="file='button\UnderLine.png'" />
+						<Button name="BTextColor" padding="20,7,0,0" text="" width="22" height="22" font="2" tooltip="颜色" bordercolor="#ffeeeeee" bordersize="4" bkcolor="#ff000000" />
+						<Button name="BTextLeft" padding="40,7,0,0" text="" width="22" height="22" font="2" textcolor="#2D2D2D"  tooltip="居左" normalimage="file='button\Left.png'" />
+						<Button name="BTextMiddle" padding="20,7,0,0" text="" width="22" height="22" font="2" textcolor="#2D2D2D"  tooltip="居中" normalimage="file='button\Middle.png'" />
+						<Button name="BTextRight" padding="20,7,0,0" text="" width="22" height="22" font="2" textcolor="#2D2D2D"  tooltip="居右" normalimage="file='button\Right.png'" />
+					</HorizontalLayout>
+					<HorizontalLayout name="hlayout_btn_pic" padding="10,0,0,0" width="440" height="40" >
+						<CheckBox name="CBPicMarkCommon" padding="0,12,0,0" width="17" height="17" group="selectWMSrc"
+						normalimage="file='checkbox\radiobox.png' "
+						selectedimage="file='checkbox\radiobox_select.png'"				
+						/>
+						<Button name="BPicWaterMark" padding="0,12,0,0" text="图片" width="50" height="18" font="1" textcolor="#2D2D2D" />
+						<Edit name="EPicPath" text="没有选定源文件" textcolor="#333333" padding="0,3,0,0" width="200" height="34" textpadding="5,4,1,1"  font="2" 
+								normalimage="file='edit\edit_normal.png' corner='2,2,23,2'" 
+								hotimage="file='edit\edit_horver.png' corner='2,2,23,2'" 
+								pushedimage="file='edit\edit_push.png' corner='2,2,23,2'"/>
+						<Button name="BPicPath" padding="10,5,0,0" text="浏览..." font="2" cursor="hand" width="80" height="30" textcolor="#ffffff" normalimage="file='button\btn1_normal.png'" hotimage="file='button\btn1_horver.png'" pushedimage="file='button\btn1_down.png'" disabledimage="file='button\btn_disabled.png'"/>
+					</HorizontalLayout>	
+				</VerticalLayout>		
+				<VerticalLayout name="hlayout_btn_ap" padding="10,5,0,0" width="460" height="180" bkimage="file='bk\sealground.png' corner='20,20,160,160'">
+					<Label name="LWaterMarkAP" text="外观" width="84" height="20" padding="5,0,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="7" />
+					<HorizontalLayout name="hlayout_ap_rotate" padding="10,0,0,0" width="440" height="40" >
+						<Label name="LWaterMarkRotate" text="旋转角度:" width="60" height="30" padding="5,5,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="3" />
+						<CheckBox name="CBCommonneg45" padding="5,11,0,0" width="17" height="17" group="selectWMRotate"
+							normalimage="file='checkbox\radiobox.png' "
+							selectedimage="file='checkbox\radiobox_select.png' "				
+							/>
+						<Button name="BTextMarkneg45" padding="2,11,0,0" text="-45" width="35" height="18" font="1" textcolor="#2D2D2D" />
+						
+						<CheckBox name="CBCommonNo" padding="5,11,0,0" width="17" height="17" group="selectWMRotate"
+							normalimage="file='checkbox\radiobox.png' "
+							selectedimage="file='checkbox\radiobox_select.png' "				
+							/>
+						<Button name="BTextMarkNo" padding="3,11,0,0" text="无" width="35" height="18" font="1" textcolor="#2D2D2D" />
+						
+						<CheckBox name="CBCommonpos45" padding="5,11,0,0" width="17" height="17" group="selectWMRotate"
+							normalimage="file='checkbox\radiobox.png' "
+							selectedimage="file='checkbox\radiobox_select.png' "				
+							/>
+						<Button name="BTextMarkpos45" padding="2,11,0,0" text="45" width="35" height="18" font="1" textcolor="#2D2D2D" />
+						
+						<CheckBox name="CBCommonnCustom" padding="5,11,0,0" width="17" height="17" group="selectWMRotate"
+							normalimage="file='checkbox\radiobox.png' "
+							selectedimage="file='checkbox\radiobox_select.png' "				
+							/>
+						<Button name="BTextMarkCustom" padding="3,10,0,0" text="自定义" width="60" height="18" font="1" textcolor="#2D2D2D" />
+						<Edit name="ECustom" text="" textcolor="#333333" padding="2,8,0,0" width="50" height="24" textpadding="5,4,1,1"  font="2" 
+								normalimage="file='edit\edit_normal.png' corner='2,2,23,2'" 
+								hotimage="file='edit\edit_horver.png' corner='2,2,23,2'" 
+								pushedimage="file='edit\edit_push.png' corner='2,2,23,2'"/>
+						<Button name="BCustomUp" padding="4,9,0,0" text="" width="13" height="12" font="1" textcolor="#2D2D2D" bkimage="file='button\TrangleUp.png'"/>
+						<Button name="BCustomDown" padding="-13,21,0,0" text="" width="13" height="12" font="1" textcolor="#2D2D2D" bkimage="file='button\TrangleDown.png'" />
+					</HorizontalLayout>
+					<HorizontalLayout name="hlayout_ap_transparent" padding="10,0,0,0" width="440" height="40" >
+						<Label name="LWaterMarkalpha" text="不透明度:" width="60" height="30" padding="5,5,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="3" />
+						<Slider name="SWaterMark" padding="5,14,0,0" maxwidth="100" maxheight="30" min="0" max="100" />
+						<Edit name="EAlphaNum" text="" textcolor="#333333" padding="2,8,0,0" width="50" height="24" textpadding="5,4,1,1"  font="2" 
+								normalimage="file='edit\edit_normal.png' corner='2,2,23,2'" 
+								hotimage="file='edit\edit_horver.png' corner='2,2,23,2'" 
+								pushedimage="file='edit\edit_push.png' corner='2,2,23,2'"/>
+						<Button name="BAlphaUp" padding="4,9,0,0" text="" width="13" height="12" font="1" textcolor="#2D2D2D" bkimage="file='button\TrangleUp.png'"/>
+						<Button name="BAlphaDown" padding="-13,21,0,0" text="" width="13" height="12" font="1" textcolor="#2D2D2D" bkimage="file='button\TrangleDown.png'" />
+					</HorizontalLayout>
+					<HorizontalLayout name="hlayout_ap_scale" padding="10,0,0,0" width="440" height="35" >
+						<CheckBox name="IDC_CHK_ZOOM" padding="5,10,0,0" width="15" height="15" cursor="hand"
+							normalimage="file='checkbox\checkbox.png'"
+							selectedimage="file='checkbox\checkbox_selected.png'"/>	
+						<Button name="IDC_ST_ZOOM" padding="5,5,0,0" text="相对目标页面的比例" width="180" height="25" font="3" textcolor="#333333" />
+						<Edit name="EZoomScale" text="" textcolor="#333333" padding="2,5,0,0" width="50" height="25" textpadding="5,4,1,1"  font="2" 
+								normalimage="file='edit\edit_normal.png' corner='2,2,23,2'" 
+								hotimage="file='edit\edit_horver.png' corner='2,2,23,2'" 
+								pushedimage="file='edit\edit_push.png' corner='2,2,23,2'"/>
+						<Button name="BZoomScaleUp" padding="4,7,0,0" text="" width="13" height="12" font="1" textcolor="#2D2D2D" bkimage="file='button\TrangleUp.png'"/>
+						<Button name="BZoomScaleDown" padding="-13,19,0,0" text="" width="13" height="12" font="1" textcolor="#2D2D2D" bkimage="file='button\TrangleDown.png'" />
+					</HorizontalLayout>
+					<HorizontalLayout name="hlayout_ap_updown" padding="10,0,0,0" width="440" height="40" >
+						<Label name="IDC_ST_POS" padding="5,5,0,0" text="位置:" font="3" textcolor="#333333"  width="60" height="30" />
+						<CheckBox name="CBDownCommon" padding="5,11,0,0" width="17" height="17" group="selectWMUpDown"
+							normalimage="file='checkbox\radiobox.png' "
+							selectedimage="file='checkbox\radiobox_select.png' "/>
+						<Button name="BTextMarkDown" padding="2,10,0,0" text="看起来在页面之下" width="160" height="20" font="1" textcolor="#2D2D2D" />
+						
+						<CheckBox name="CBUpCommon" padding="5,11,0,0" width="17" height="17" group="selectWMUpDown"
+							normalimage="file='checkbox\radiobox.png' "
+							selectedimage="file='checkbox\radiobox_select.png' "/>
+						<Button name="BTextMarkUp" padding="2,10,0,0" text="看起来在页面之上" width="160" height="20" font="1" textcolor="#2D2D2D" />
+													
+						<!-- <Button name="BAPSelected" padding="10,5,0,0" text="外观选项..." font="6" cursor="hand" width="80"  height="30" textcolor="#754EC3"/>			 -->
+					</HorizontalLayout>
+				</VerticalLayout>
+				<VerticalLayout name="hlayout_btn_pos" padding="10,5,0,0" width="460" height="100" bkimage="file='bk\sealground.png' corner='20,20,160,160'">
+					<Label name="LWaterMarkPos" text="位置" width="82" height="20" padding="5,0,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="7" />
+					<HorizontalLayout name="hlayout_H_pos" padding="10,0,0,0" width="440" height="35" >
+						<Label name="IDC_ST_Horizontal" padding="5,5,0,0" text="垂直距离:" font="3" textcolor="#333333"  width="132" height="25" />
+						<Edit name="EHPoint" text="" textcolor="#333333" padding="2,5,0,0" width="50" height="25" textpadding="5,4,1,1"  font="2" 
+								normalimage="file='edit\edit_normal.png' corner='2,2,23,2'" 
+								hotimage="file='edit\edit_horver.png' corner='2,2,23,2'" 
+								pushedimage="file='edit\edit_push.png' corner='2,2,23,2'"/>
+						<Label name="IDC_ST_HPix" padding="5,5,0,0" text="像素     从" font="3" textcolor="#333333"  width="80" height="25" />
+						<Combo name="CoBHPos" padding="2,3,0,0" width="160" height="30" textpadding="4,1,20,1" font="2"
+								normalimage="file='combo\combo_sign.png' corner='7,7,23,7'" 
+								hotimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+								pushedimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+								focusedimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+								itemfont="1" 
+								itemtextpadding="8,2,1,1"
+								itemselectedtextcolor="#CD210F" 		
+								itemtextcolor="#333333" 
+								itemhottextcolor="#333333"
+								itembkcolor="#FFFFFFFF"
+								itemselectedbkcolor="#FFFAF1F0"
+								itemhotbkcolor="#FFFAF1F0"				
+								dropboxsize="0,200"						
+								showbutton="false">	
+						</Combo>
+					</HorizontalLayout>
+					<HorizontalLayout name="hlayout_V_pos" padding="10,0,0,0" width="440" height="35" >
+						<Label name="IDC_ST_Vertical" padding="5,5,0,0" text="水平距离:" font="3" textcolor="#333333"  width="130" height="25" />
+						<Edit name="EVPoint" text="" textcolor="#333333" padding="2,5,0,0" width="50" height="25" textpadding="5,4,1,1"  font="2" 
+								normalimage="file='edit\edit_normal.png' corner='2,2,23,2'" 
+								hotimage="file='edit\edit_horver.png' corner='2,2,23,2'" 
+								pushedimage="file='edit\edit_push.png' corner='2,2,23,2'"/>
+						<Label name="IDC_ST_VPix" padding="5,5,0,0" text="像素     从" font="3" textcolor="#333333"  width="80" height="25" />
+						<Combo name="CoBVPos" padding="2,3,0,0" width="160" height="30" textpadding="4,1,20,1" font="2"
+								normalimage="file='combo\combo_sign.png' corner='7,7,23,7'" 
+								hotimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+								pushedimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+								focusedimage="file='combo\combo_horver.png' corner='7,7,23,7'"
+								itemfont="1" 
+								itemtextpadding="8,2,1,1"
+								itemselectedtextcolor="#CD210F" 		
+								itemtextcolor="#333333" 
+								itemhottextcolor="#333333"
+								itembkcolor="#FFFFFFFF"
+								itemselectedbkcolor="#FFFAF1F0"
+								itemhotbkcolor="#FFFAF1F0"				
+								dropboxsize="0,200"						
+								showbutton="false">	
+						</Combo>
+					</HorizontalLayout>
+				</VerticalLayout>
+			</VerticalLayout>
+			<VerticalLayout>
+				<VerticalLayout  width="420" height="500"  bkimage="file='bk\sealground.png' corner='20,20,160,160'">
+						<HorizontalLayout name="hlayout_View" width="420" height="50">
+							<Label name="LViewPage" text="预览页面:" width="100" height="30" padding="20,10,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="3" />
+							<Edit name="EPageIndex" text="" textcolor="#333333" padding="2,13,0,0" width="60" height="25" textpadding="5,4,1,1"  font="2" 
+								normalimage="file='edit\edit_normal.png' corner='2,2,23,2'" 
+								hotimage="file='edit\edit_horver.png' corner='2,2,23,2'" 
+								pushedimage="file='edit\edit_push.png' corner='2,2,23,2'"/>
+							<Button name="BtnPageUp" padding="4,14,0,0" text="" width="13" height="12" font="1" textcolor="#2D2D2D" bkimage="file='button\TrangleUp.png'"/>
+							<Button name="BtnPageDown" padding="-13,26,0,0" text="" width="13" height="12" font="1" textcolor="#2D2D2D" bkimage="file='button\TrangleDown.png'" />
+							<Label name="LTotalPages" text="(共2页)" width="100" height="30" padding="10,10,0,0" textcolor="#333333" disabledtextcolor="#FFA7A6AA" font="3" />
+						</HorizontalLayout>
+						<HorizontalLayout name="hlayout_ap" width="420" height="450" padding="0,0,0,0">			
+							<LabelEx name="IDC_PAGE_AP_SHOW" padding="50,10,0,0" width="320" height="430" />		
+						</HorizontalLayout>	 
+				</VerticalLayout>
+			</VerticalLayout>
+		</HorizontalLayout>
+		<HorizontalLayout name="hlayout_btn1" width="900" height="50" padding="30,0,0,0">
+				<Button name="BtnAddWM" text="确定" padding="730,10,0,0" font="3" cursor="hand" width="80" height="36" textcolor="#ffffff" normalimage="file='button\btn1_normal.png'" hotimage="file='button\btn1_horver.png'" pushedimage="file='button\btn1_down.png'" disabledimage="file='button\btn_disabled.png'"/>
+				<Button name="BtnCancel" text="关闭" padding="10,10,0,0" font="3" width="80" cursor="hand" height="36" textcolor="#CD210F" normalimage="file='button\btn2_normal.png'" hotimage="file='button\btn2_horver.png'" pushedimage="file='button\btn2_down.png'" disabledimage="file='button\btn_disabled.png'"/>
+		</HorizontalLayout>
+    </VerticalLayout>
+</Window>

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<iStylePDF>
+	<Options>
+		<Language lcid="0x0" />
+		<DisplayAlert value="1" />
+		<FindText MatchCase="0" MatchWholeWord="0" value="">
+			<Item value="" />
+		</FindText>
+		<HighLightField value="1" ComboBoxes="1" PushButtons="0" ListBoxes="1" CheckBoxes="1" RadioButtons="1" Signatures="0" TextBoxes="1" />
+		<InitialView value="1" />
+		<Resolution system="1" value="110" />
+		<PageLayout value="0" />
+		<PageZoom mode="0" value="0" />
+		<GotoUponLinks value="1" />
+		<PrintQuality value="1" />
+		<URILimitLength value="1052" />
+		<DbClkToClose value="1" />
+		<SupportJustify value="0" />
+		<AutoUpdate value="0" />
+		<Background value="0x00565656" />
+		<SaveToolbarState value="0" />
+		<ShowPosition value="1" />
+		<PrintSetup mode="1" rotate="1" pageSizeSelPaper="1" />
+		<SaveAs value="1" />
+		<HistoryFileView value="1" />
+		<SaveFileTimeFlag mode="0"  value="600"/>
+		<UnknownFileWarn  value="0"/>
+		<HistoryFileViewShow value="1" />
+	</Options>
+	<Commands>
+		<Command id="201" name="IDR_MENUBAR" title="菜单栏" tooltip="" visible="1" enable="1" />
+		<Command id="204" name="IDR_FILE" title="文件工具栏" tooltip="" visible="1" enable="1" />
+		<Command id="206" name="IDR_FIND" title="查找工具栏" tooltip="" visible="1" enable="1" />
+		<Command id="209" name="IDR_STANDARD" title="标准工具栏" tooltip="" visible="1" enable="1" />
+		<Command id="210" name="IDR_ZOOM" title="缩放工具栏" tooltip="" visible="1" enable="1" />
+		<Command id="220" name="IDR_ROTATION" title="旋转视图工具栏" tooltip="" visible="1" enable="1" />
+		<Command id="10000" name="ID_MENU_FILE" title="文件(&amp;F)" tooltip="" visible="1" enable="1" />
+		<Command id="10001" name="ID_MENU_EDIT" title="编辑(&amp;E)" tooltip="" visible="1" enable="1" />
+		<Command id="10002" name="ID_MENU_VIEW" title="视图(&amp;V)" tooltip="" visible="1" enable="1" />
+		<Command id="10003" name="ID_MENU_TOOL" title="工具(&amp;T)" tooltip="" visible="1" enable="1" />
+		<Command id="10004" name="ID_MENU_HELP" title="帮助(&amp;H)" tooltip="" visible="1" enable="1" />
+		<Command id="32000" name="ID_MENU_FILE_OPEN" title="打开(&amp;O)... Ctrl+O" tooltip="" visible="1" enable="1" image="ID_MENU_FILE_OPEN.png" />
+		<Command id="32001" name="ID_MENU_FILE_OPEN_URL" title="打开URL(&amp;U)..." tooltip="" visible="0" enable="1" />
+		<Command id="32002" name="ID_MENU_FILE_SAVE" title="保存(&amp;S) Ctrl+S" tooltip="" visible="1" enable="1" image="ID_MENU_FILE_SAVE.png" />
+		<Command id="32003" name="ID_MENU_FILE_SAVE_AS" title="另存为(&amp;A)..." tooltip="" visible="1" enable="1" />
+		<Command id="10005" name="ID_MENU_FILE_NEW" title="新建文件(&amp;N) Ctrl+N" tooltip="" visible="0" enable="1" />
+		<Command id="32004" name="ID_MENU_FILE_NEW_BLANK" title="从空白页..." tooltip="" visible="1" enable="1" />
+		<Command id="32005" name="ID_MENU_FILE_NEW_TEXT" title="从文本..." tooltip="" visible="1" enable="1" />
+		<Command id="32006" name="ID_MENU_FILE_NEW_IMG" title="从图像..." tooltip="" visible="1" enable="1" />
+		<Command id="32007" name="ID_MENU_FILE_NEW_SCANNER" title="从扫描仪..." tooltip="" visible="1" enable="1" />
+		<Command id="32008" name="ID_MENU_FILE_CLOSE" title="关闭(&amp;C) Ctrl+W" tooltip="" visible="1" enable="1" />
+		<Command id="32009" name="ID_MENU_FILE_CLOSE_ALL" title="全部关闭" tooltip="" visible="1" enable="1" />
+		<Command id="32010" name="ID_MENU_FILE_PRINT" title="打印(&amp;P) Ctrl+P" tooltip="" visible="1" enable="1" image="ID_MENU_FILE_PRINT.png" />
+		<Command id="32011" name="ID_MENU_FILE_DOCUMENT_PROPERTY" title="文档属性(&amp;D)" tooltip="" visible="1" enable="1" />
+		<Command id="32012" name="ID_MENU_FILE_COPY_FULLNAME" title="复制完整文件名称(&amp;N)" tooltip="" visible="1" enable="1" />
+		<Command id="32013" name="ID_MENU_FILE_OPEN_FILEPATH" title="打开所在文件夹(&amp;C)" tooltip="" visible="1" enable="1" />
+		<Command id="32014" name="ID_MENU_EDIT_UNDO" title="撤销(&amp;U)" tooltip="" visible="1" enable="1" />
+		<Command id="32015" name="ID_MENU_EDIT_REDO" title="重做(&amp;R)" tooltip="" visible="1" enable="1" />
+		<Command id="32016" name="ID_MENU_EDIT_CUT" title="剪切(&amp;X)" tooltip="" visible="1" enable="1" />
+		<Command id="32017" name="ID_MENU_EDIT_COPY" title="复制(&amp;C) Ctrl+C" tooltip="" visible="1" enable="1" />
+		<Command id="32018" name="ID_MENU_EDIT_PASTE" title="粘帖(&amp;P)" tooltip="" visible="1" enable="1" />
+		<Command id="32019" name="ID_MENU_EDIT_DELETE" title="删除(&amp;D)" tooltip="" visible="1" enable="1" />
+		<Command id="32020" name="ID_MENU_EDIT_FIND" title="查找(&amp;F)" tooltip="" visible="1" enable="1" />
+		<Command id="32021" name="ID_MENU_EDIT_SEARCH" title="搜索(&amp;S)" tooltip="" visible="1" enable="1" image="ID_MENU_EDIT_SEARCH.png" />
+		<Command id="32022" name="ID_MENU_EDIT_OPTIONS" title="选项(&amp;N)" tooltip="" visible="1" enable="1" />
+		<Command id="10006" name="ID_MENU_VIEW_TOOLS" title="工具栏" tooltip="" visible="1" enable="1" />
+		<Command id="32023" name="ID_MENU_VIEW_FILETOOL" title="文件工具栏(&amp;F)" tooltip="" visible="1" enable="1" />
+		<Command id="32024" name="ID_MENU_VIEW_BASETOOL" title="标准工具栏(&amp;B)" tooltip="" visible="1" enable="1" />
+		<Command id="32025" name="ID_MENU_VIEW_ZOOMTOOL" title="缩放工具栏(&amp;Z)" tooltip="" visible="1" enable="1" />
+		<Command id="32026" name="ID_MENU_VIEW_FINDTOOL" title="查找工具栏(&amp;Z)" tooltip="" visible="1" enable="1" />
+		<Command id="32027" name="ID_MENU_VIEW_ROTATETOOL" title="旋转视图工具栏(&amp;Z)" tooltip="" visible="1" enable="1" />
+		<Command id="32028" name="ID_MENU_VIEW_ANNOTTOOL" title="注释和标记工具栏(&amp;Z)" tooltip="" visible="0" enable="0" />
+		<Command id="32029" name="ID_MENU_VIEW_LINKTOOL" title="链接编辑器工具栏(&amp;Z)" tooltip="" visible="0" enable="0" />
+		<Command id="32030" name="ID_MENU_VIEW_MEASURETOOL" title="测量工具栏(&amp;Z)" tooltip="" visible="0" enable="0" />
+		<Command id="32031" name="ID_MENU_VIEW_PAGE_NAVTOOL" title="页面导航工具栏(&amp;Z)" tooltip="" visible="1" enable="1" />
+		<Command id="32032" name="ID_MENU_VIEW_PAGE_LAYOUTTOOL" title="页面布局工具栏(&amp;Z)" tooltip="" visible="1" enable="1" />
+		<Command id="32033" name="ID_MENU_VIEW_STATUS_TOOL" title="状态栏(&amp;S)" tooltip="" visible="0" enable="1" />
+		<Command id="32034" name="ID_MENU_VIEW_BOOKMARK" title="书签" tooltip="" visible="1" enable="1" />
+		<Command id="32035" name="ID_MENU_VIEW_THUMBNAIL" title="页面缩略图" tooltip="" visible="1" enable="1" />
+		<Command id="32065" name="ID_MENU_VIEW_FORMFIELDS" title="管理表单控件" tooltip="" visible="1" enable="1" />
+		<Command id="10007" name="ID_MENU_VIEW_OTHERWINDOWS" title="其他窗格" tooltip="" visible="1" enable="1" />
+		<Command id="32036" name="ID_MENU_VIEW_LAY_PANE" title="层" tooltip="" visible="1" enable="1" />
+		<Command id="32037" name="ID_MENU_VIEW_FIELD_PANE" title="字段" tooltip="" visible="1" enable="1" />
+		<Command id="32038" name="ID_MENU_VIEW_ANNOT_PANE" title="注释" tooltip="" visible="1" enable="1" />
+		<Command id="32039" name="ID_MENU_VIEW_ACTUAL_SIZE" title="实际大小" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_ACTUAL_SIZE.png" />
+		<Command id="32040" name="ID_MENU_VIEW_FIT_PAGE" title="符合页面" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_FIT_PAGE.png" />
+		<Command id="32041" name="ID_MENU_VIEW_FIT_WIDTH" title="符合宽度" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_FIT_WIDTH.png" />
+		<Command id="10008" name="ID_MENU_VIEW_PAGESTEUP" title="页面设置" tooltip="" visible="1" enable="1" />
+		<Command id="32042" name="ID_MENU_VIEW_SINGLE_PAGE" title="单页" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_SINGLE_PAGE.png" />
+		<Command id="32043" name="ID_MENU_VIEW_CONTINUE_PAGE" title="连续" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_CONTINUE_PAGE.png" />
+		<Command id="32044" name="ID_MENU_VIEW_DOUBLE_PAGE" title="对开" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_DOUBLE_PAGE.png" />
+		<Command id="32045" name="ID_MENU_VIEW_DOUBLE_CONTINUE" title="连续对开" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_DOUBLE_CONTINUE.png" />
+		<Command id="10009" name="ID_MENU_VIEW_ROTATE" title="旋转视图" tooltip="" visible="1" enable="1" />
+		<Command id="32046" name="ID_MENU_VIEW_LEFT_ROTATE" title="逆时针" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_LEFT_ROTATE.png" />
+		<Command id="32047" name="ID_MENU_VIEW_RIGHT_ROTATE" title="顺时针" tooltip="" visible="1" enable="1" image="ID_MENU_VIEW_RIGHT_ROTATE.png" />
+		<Command id="32048" name="ID_MENU_VIEW_FULL_SCREEN" title="全屏幕(&amp;U)" tooltip="" visible="1" enable="1" />
+		<Command id="32049" name="ID_MENU_VIEW_LOCK_TOOLBAR" title="锁定/解锁所有工具栏" tooltip="" visible="1" enable="1" />
+		<Command id="32050" name="ID_MENU_VIEW_ZOOM_TO" title="缩放至" tooltip="" visible="1" enable="1" />
+		<Command id="32051" name="ID_MENU_VIEW_GOTO" title="前往" tooltip="" visible="1" enable="1" />
+		<Command id="32052" name="ID_MENU_VIEW_SHOW_COVER" title="在对开模式显示封面" tooltip="" visible="1" enable="1" />
+		<Command id="32053" name="ID_MENU_VIEW_SHOW_SPACE" title="显示页面间空白" tooltip="" visible="1" enable="1" />
+		<Command id="32054" name="ID_MENU_VIEW_ATTACHMENT" title="附件" tooltip="" visible="1" enable="1" />
+		<Command id="32055" name="ID_MENU_FILE_SAVEALL" title="全部保存" tooltip="" visible="1" enable="1" image="ID_MENU_FILE_SAVEALL.png" />
+		<Command id="32056" name="ID_MENU_VIEW_MENUBAR" title="菜单栏" tooltip="" visible="1" enable="1" />
+		<Command id="32057" name="ID_MENU_RECENT_FILES" title="最近的文件(&amp;F)" tooltip="" visible="1" enable="1" />
+		<Command id="32059" name="ID_MENU_VIEW_PAGE_SPLIT" title="水平拆分" tooltip="" visible="1" enable="1" />
+		<Command id="32060" name="ID_MENU_VIEW_PAGE_VER_SPLIT" title="垂直拆分" tooltip="" visible="1" enable="1" />
+		<Command id="32061" name="ID_MENU_VIEW_COLOR_DEFAULT" title="默认" tooltip="" visible="1" enable="1" />
+		<Command id="32062" name="ID_MENU_VIEW_COLOR_NIGHT" title="夜间模式" tooltip="" visible="1" enable="1" />
+		<Command id="32063" name="ID_MENU_VIEW_COLOR" title="背景模式" tooltip="" visible="1" enable="1" />
+		<Command id="32064" name="ID_MENU_VIEW_COLOR" title="压缩文件" tooltip="" visible="1" enable="1" />
+		<Command id="1094" name="ID_TAB_CLOSENOACTIVE" title="关闭此标签外的所有标签" tooltip="" visible="1" enable="1" />
+		<Command id="32871" name="ID_MENU_TOOL_ZOOMPOPUP" title="缩放工具" tooltip="" visible="1" enable="1" />
+		<Command id="32500" name="ID_MENU_TOOL_ZOOM" title="缩放工具" tooltip="" visible="1" enable="1" />
+		<Command id="32501" name="ID_MENU_TOOL_ZOOM_OUT" title="缩小工具" tooltip="" visible="1" enable="1" image="ID_MENU_TOOL_ZOOM_OUT.png" />
+		<Command id="32502" name="ID_MENU_TOOL_ZOOM_ZOOMLEVEL" title="缩放等级" tooltip="" visible="1" enable="1" />
+		<Command id="32503" name="ID_MENU_TOOL_ZOOM_IN" title="放大工具" tooltip="" visible="1" enable="1" image="ID_MENU_TOOL_ZOOM_IN.png" />
+		<Command id="32519" name="ID_MENU_TOOL_ZOOM_DYNAMIC" title="动态缩放" tooltip="" visible="1" enable="1" image="ID_MENU_TOOL_ZOOM_DYNAMIC.png" />
+		<Command id="32522" name="ID_MENU_TOOL_AUTOROLL" title="自动滚动" tooltip="" visible="1" enable="1" image="ID_MENU_TOOL_AUTOROLL.png"/>	
+		
+		<Command id="32523" name="ID_MENU_TOOL_AUTOROLLUP"           title="-1 倍速度" tooltip="" visible="1" enable="1" image=""/>	
+		<Command id="32524" name="ID_MENU_TOOL_AUTOROLLDOUBLEUP"     title="-2 倍速度" tooltip="" visible="1" enable="1" image=""/>	
+		<Command id="32525" name="ID_MENU_TOOL_AUTOROLLDOWN"         title=" 1 倍速度" tooltip="" visible="1" enable="1" image=""/>	
+		<Command id="32526" name="ID_MENU_TOOL_AUTOROLLDOUBLEDOWN"   title=" 2 倍速度" tooltip="" visible="1" enable="1" image=""/>	
+		
+		<Command id="10010" name="ID_MENU_TOOL_STANDARD" title="基本工具" tooltip="" visible="1" enable="1" />
+		<Command id="32504" name="ID_MENU_TOOL_STANDARD_HAND" title="手型工具" tooltip="" visible="1" enable="1" image="ID_MENU_TOOL_STANDARD_HAND.png" />
+		<Command id="32505" name="ID_MENU_TOOL_STANDARD_SNAPSHOT" title="快照工具" tooltip="" visible="1" enable="1" image="ID_MENU_TOOL_STANDARD_SNAPSHOT.png" />
+		<Command id="32506" name="ID_MENU_TOOL_STANDARD_TXT" title="文本工具" tooltip="" visible="1" enable="1" image="ID_MENU_TOOL_STANDARD_TXT.png" />
+		<Command id="32507" name="ID_TOOL_FIND_INPUT" title="查找指定的文本" tooltip="" visible="1" enable="1" />
+		<Command id="32508" name="ID_TOOL_FIND_PREV" title="上一个" tooltip="" visible="1" enable="1" image="ID_TOOL_FIND_PREV.png" />
+		<Command id="32509" name="ID_TOOL_FIND_NEXT" title="下一个" tooltip="" visible="1" enable="1" image="ID_TOOL_FIND_NEXT.png" />
+		<Command id="32510" name="ID_TOOL_FIND_OPTIONS" title="查找选项" tooltip="" visible="1" enable="1" image="ID_TOOL_FIND_OPTIONS.png" />
+		<Command id="32511" name="ID_MENU_VIEW_FULL_SLIDE" title="幻灯片" tooltip="" visible="1" enable="1" />
+		<Command id="32512" name="ID_VIEW_ZOOM_OUT" title="缩小" tooltip="" visible="1" enable="1" image="ID_VIEW_ZOOM_OUT.png" />
+		<Command id="32513" name="ID_VIEW_ZOOM_IN" title="放大" tooltip="" visible="1" enable="1" image="ID_VIEW_ZOOM_IN.png" />
+		<Command id="32517" name="ID_TOOL_FIND_CLEAR" title="清空查找列表" tooltip="" visible="1" enable="1" />
+		<Command id="32518" name="ID_MENU_TOOL_ADD_BOOKMARK" title="添加书签" tooltip="" visible="1" enable="1" />
+		<Command id="32520" name="ID_MENU_VIEW_COORDINATE" title="坐标工具" tooltip="" visible="1" enable="1" />
+		<Command id="32521" name="ID_MENU_TOOL_CAPTUREBITMAP" title="截图对比工具" tooltip="" visible="1" enable="1" />
+		<Command id="32985" name="ID_ABOUT" title="关于产品" tooltip="" visible="1" enable="1" />
+		<Command id="32986" name="ID_CHECK_UPDATES" title="检测更新..." tooltip="" visible="0" enable="1" />
+		<Command id="32910" name="ID_NAVIGATION_FIRST" title="第一页" tooltip="" visible="1" enable="1" image="ID_NAVIGATION_FIRST.png" />
+		<Command id="32911" name="ID_NAVIGATION_PREV" title="上一页" tooltip="" visible="1" enable="1" image="ID_NAVIGATION_PREV.png" />
+		<Command id="32912" name="ID_NAVIGATION_VALUE" title="页数/总页数" tooltip="" visible="1" enable="1" />
+		<Command id="32913" name="ID_NAVIGATION_NEXT" title="下一页" tooltip="" visible="1" enable="1" image="ID_NAVIGATION_NEXT.png" />
+		<Command id="32914" name="ID_NAVIGATION_LAST" title="最末页" tooltip="" visible="1" enable="1" image="ID_NAVIGATION_LAST.png" />
+		<Command id="32915" name="ID_NAVIGATION_BACK" title="返回" tooltip="" visible="1" enable="1" image="ID_NAVIGATION_BACK.png" />
+		<Command id="32916" name="ID_NAVIGATION_FORWARD" title="前进" tooltip="" visible="1" enable="1" image="ID_NAVIGATION_FORWARD.png" />
+		<Command id="32514" name="ID_TOOL_FIND_MATCHCASE" title="区分大小写" tooltip="" visible="1" enable="1" />
+		<Command id="32515" name="ID_TOOL_FIND_MATCHWHOLEWORD" title="全字匹配" tooltip="" visible="1" enable="1" />
+		<Command id="32516" name="ID_MENU_EDIT_ALL" title="全选(&amp;A) Ctrl+A" tooltip="" visible="1" enable="1" />
+		<Command id="32921" name="ID_BLANK" title="" tooltip="" visible="0" enable="0" image="ID_BLANK.png" />
+		<Command id="57616" name="ID_FILE_MRU_FIRST" title="没有最近文件记录" tooltip="" visible="1" enable="1" />
+		<Command id="33050" name="ID_BOOKMARK_NEW" title="新建书签" tooltip="新建书签" visible="1" enable="1" />
+		<Command id="33051" name="ID_BOOKMARK_DEL" title="删除" tooltip="删除书签" visible="1" enable="1" />
+		<Command id="33052" name="ID_BOOKMARK_RENAME" title="重命名" tooltip="重命名书签标题" visible="1" enable="1" />
+		<Command id="33064" name="ID_ACROFORM_CUT" title="剪切" tooltip="剪切" visible="1" enable="1" />
+		<Command id="33065" name="ID_ACROFORM_COPY" title="复制" tooltip="复制" visible="1" enable="1" />
+		<Command id="33066" name="ID_ACROFORM_PASTE" title="粘贴" tooltip="粘贴" visible="1" enable="1" />
+		<Command id="33067" name="ID_ACROFORM_DEL" title="删除" tooltip="删除" visible="1" enable="1" />
+		<Command id="33068" name="ID_ACROFORM_SELECTALL" title="全选" tooltip="全选" visible="1" enable="1" />
+	</Commands>
+	<Images>
+		<Icons>
+			<Icon id="257" name="IDI_GENERICFONT" image="IDI_GENERICFONT.ico" />
+			<Icon id="258" name="IDI_TRUETYPE" image="IDI_TRUETYPE.ico" />
+			<Icon id="259" name="IDI_TYPE1" image="IDI_TYPE1.ico" />
+			<Icon id="266" name="IDI_UN_SIGNATURE" image="IDI_UN_SIGNATURE.ico" />
+			<Icon id="205" name="IDI_AD" image="IDI_AD.ico" />
+			<Icon id="269" name="IDI_BOOKMARK_ITEM" image="IDI_BOOKMARK_ITEM.ico" />
+			<Icon id="268" name="IDI_BOOKMARK_ITEM_GRAY" image="IDI_BOOKMARK_ITEM_GRAY.ico" />
+			<Icon id="267" name="IDI_BOOKMARK" image="IDI_BOOKMARK.ico" />
+			<Icon id="264" name="IDI_SELECTED" image="IDI_SELECTED.ico" />
+			<Icon id="265" name="IDI_UNSELECTED" image="IDI_UNSELECTED.ico" />
+			<Icon id="296" name="IDI_THUMBNAIL"  image="THUMBNAIL.ico" />
+			<Icon id="297" name="IDI_DOWNVIEW"    image="DOWNVIEW.ico" />
+			<Icon id="298" name="IDI_UPVIEW"        image="UPVIEW.ico" />
+			<Icon id="299" name="IDI_FORMFIELDS"    image="IDI_FORMFIELDS.ico" />
+			<Icon id="300" name="IDI_FIELDCBOX"     image="IDI_FIELDCBOX.ico" />
+			<Icon id="301" name="IDI_FIELDBTN"      image="IDI_FIELDBTN.ico" />
+			<Icon id="302" name="IDI_FIELDCOBOX"    image="IDI_FIELDCOBOX.ico" />
+			<Icon id="303" name="IDI_FIELDLBOX"     image="IDI_FIELDLBOX.ico" />
+			<Icon id="304" name="IDI_FIELDTEXT"     image="IDI_FIELDTEXT.ico" />
+			<Icon id="305" name="IDI_FIELDSIGN"     image="IDI_FIELDSIGN.ico" />
+			<Icon id="306" name="IDI_FIELDBITMAP"   image="IDI_FIELDBITMAP.ico" />
+			<Icon id="307" name="IDI_FIELDDATE"     image="IDI_FIELDDATE.ico" />
+			<Icon id="308" name="IDI_FIELDBARCODE"  image="IDI_FIELDBARCODE.ico" />   
+			<Icon id="309" name="IDI_FIELDRBOX"     image="IDI_FIELDRBOX.ico" />      
+			<Icon id="310" name="IDI_FIELDPAGE"     image="IDI_FIELDPAGE.ico" />      
+		  	<Icon id="311" name="IDI_CLOSECAPTURE"  image="IDI_CLOSECAPTURE.ico" />      
+	 	 	<Icon id="312" name="IDI_UPCAPTURE"     image="IDI_UPCAPTURE.ico" />      
+		  	<Icon id="313" name="IDI_DOWNCAPTURE"   image="IDI_DOWNCAPTURE.ico" />
+		</Icons>
+		<Bitmaps>
+			<Bitmap id="102" name="IDB_SPAPPLICATION" image="IDB_SPAPPLICATION.bmp" />
+		</Bitmaps>
+		<PNGs>
+			<PNG id="271" name="IDP_SECURITY_HIGH" image="IDP_SECURITY_HIGH.png" />
+			<PNG id="1182" name="IDC_STATIC_HEAD" image="IDC_STATIC_HEAD.png" />
+		</PNGs>
+		<Cursors>
+			<Cursor id="245" name="IDC_DRAG" image="IDC_DRAG.cur" />
+			<Cursor id="247" name="IDC_HANDER" image="IDC_HANDER.cur" />
+			<Cursor id="251" name="IDC_SNAPSHOT" image="IDC_SNAPSHOT.cur" />
+			<Cursor id="253" name="IDC_ZOOMIN" image="IDC_ZOOMIN.cur" />
+			<Cursor id="254" name="IDC_ZOOMOUT" image="IDC_ZOOMOUT.cur" />
+			<Cursor id="260" name="IDC_LINK" image="IDC_LINK.cur" />
+			<Cursor id="262" name="IDC_IBEAMFLAT" image="IDC_IBEAMFLAT.cur" />
+			<Cursor id="275" name="IDC_WEBLINK" image="IDC_WEBLINK.cur" />
+			<Cursor id="277" name="IDC_ZOOMD" image="IDC_ZOOMD.cur" />
+		</Cursors>
+	</Images>
+</iStylePDF>

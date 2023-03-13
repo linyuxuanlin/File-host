@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (Hongkong)" lName="繁體中文 (香港)" lcid="0x0C04" prefFont=""/>
+	<Strings>
+		<Item id="206" name="IDD_DIALOG_COMMON" title="常規" tooltip="" status="" short=""/>
+		<Item id="207" name="IDD_DIALOG_APPEARANCE" title="外觀" tooltip="" status="" short=""/>
+		<Item id="32768" name="ID_ANNOTS_MENU_BAR" title="註釋(&C)" tooltip="註釋" status="" short=""/>
+		<Item id="32769" name="ID_ANNOTS_TEXT" title="附註" tooltip="附註" status="" short=""/>
+		<Item id="32771" name="ID_ANNOTS_LINE" title="線條" tooltip="線條工具" status="" short=""/>
+		<Item id="32772" name="IDS_ANNOT_PROPERTY" title="屬性" tooltip="" status="" short=""/>
+		<Item id="32773" name="IDS_CATEGORIES" title="分類" tooltip="" status="" short=""/>
+		<Item id="32774" name="ID_OPEN_POPUP" title="打開彈出式窗口" tooltip="打開彈出式窗口" status="" short=""/>
+		<Item id="32775" name="ID_DEL_ANNOT" title="刪除" tooltip="" status="" short=""/>
+		<Item id="32776" name="ID_PROP_ANNOT" title="屬性" tooltip="" status="" short=""/>
+		<Item id="32777" name="ID_ANNOTS_RECT" title="矩形" tooltip="矩形工具" status="" short=""/>
+		<Item id="32778" name="ID_ANNOTS_CIRCLE" title="橢圓形" tooltip="橢圓形工具" status="" short=""/>
+		<Item id="32779" name="ID_ANNOTS_LINEARROW" title="箭頭" tooltip="箭頭工具" status="" short=""/>
+		<Item id="32780" name="ID_ANNOTS_STAMP" title="戳記" tooltip="插入圖片戳記" status="" short=""/>
+		<Item id="32781" name="ID_ANNOTS_HIGHLIGHT" title="高亮文本" tooltip="高亮文本工具" status="" short=""/>
+		<Item id="32782" name="ID_ANNOTS_STRIKEOUT" title="刪除線文本" tooltip="刪除線文本工具" status="" short=""/>
+		<Item id="32783" name="ID_ANNOTS_UNDERLINE" title="下劃線文本" tooltip="下劃線文本工具" status="" short=""/>
+		<Item id="32784" name="ID_ANNOTS_TYPEWRITER" title="打字機" tooltip="打字機工具" status="" short=""/>
+		<Item id="32785" name="ID_ANNOTS_TOOLBAR" title="註釋和標記工具欄" tooltip="註釋和標記工具欄" status="" short=""/>
+		<Item id="32786" name="ID_ANNOTS_LINE_MEASURE" title="距離工具" tooltip="距離工具" status="" short=""/>
+		<Item id="32787" name="" title="數值必須在-500到500之間。" tooltip="" status="" short=""/>
+		<Item id="32788" name="" title="數值必須在0到500之間。" tooltip="" status="" short=""/>
+		<Item id="32789" name="ID_ANNOTS_PRE_MEASURE" title="周長工具" tooltip="周長工具" status="" short=""/>
+		<Item id="32790" name="ID_ANNOTS_AREA_MEASURE" title="面積工具" tooltip="面積工具" status="" short=""/>
+		<Item id="32791" name="IDS_FINISH_MEASURE" title="完成量測" tooltip="" status="" short=""/>
+		<Item id="32792" name="IDS_CANCEL_MEASURE" title="取消量測" tooltip="" status="" short=""/>
+		<Item id="32793" name="" title="量測工具" tooltip="" status="" short=""/>
+		<Item id="32795" name="IDS_ANNOT_DEL" title="删除批注" tooltip="删除批注" status="" short=""/>
+		<Item id="32796" name="ID_ANNOTS_STAMP_MODEL" title="戳記模型" tooltip="戳記模型" status="" short=""/>
+		<Item id="32800" name="ID_FREETEXT_CUT" title="剪切" tooltip="" status="" short=""/>
+		<Item id="32801" name="ID_FREETEXT_COPY" title="複製" tooltip="" status="" short=""/>
+		<Item id="32802" name="ID_FREETEXT_PASTE" title="粘貼" tooltip="" status="" short=""/>
+		<Item id="32803" name="ID_FREETEXT_SELECTALL" title="全選" tooltip="" status="" short=""/>
+		<Item id="32804" name="ID_FREETEXT_CANCEL" title="撤銷" tooltip="" status="" short=""/>
+		<Item id="32805" name="ID_ANNOTS_TYPEWRITER_CALLOUT" title="文字標注" tooltip="文字標注工具" status="" short=""/>
+		<Item id="32806" name="ID_ANNOTS_PANE" title="批註面板" tooltip="" status="" short=""/>
+		<Item id="32807" name="ID_ANNOTS_PAGENO" title="第 %d 頁" tooltip="" status="" short=""/>
+		<Item id="32808" name="ID_ANNOTS_SEARCH" title="Search" tooltip="" status="" short=""/>
+		<Item id="32809" name="ID_MEASUREMENT_AREA" title="平方" tooltip="" status="" short=""/>
+		<Item id="32810" name="ID_MEASUREMENT_PT" title="點" tooltip="" status="" short=""/>
+		<Item id="32811" name="ID_MEASUREMENT_INCH" title="英寸" tooltip="" status="" short=""/>
+		<Item id="32812" name="ID_MEASUREMENT_MM" title="毫米" tooltip="" status="" short=""/>
+		<Item id="32813" name="ID_MEASUREMENT_CM" title="釐米" tooltip="" status="" short=""/>
+		<Item id="32814" name="ID_MEASUREMENT_FT" title="英尺" tooltip="" status="" short=""/>
+		<Item id="32815" name="ID_MEASUREMENT_YARD" title="碼" tooltip="" status="" short=""/>
+		<Item id="32816" name="ID_MEASUREMENT_METER" title="米" tooltip="" status="" short=""/>
+		<Item id="32817" name="ID_MEASUREMENT_KM" title="公里" tooltip="" status="" short=""/>
+		<Item id="32818" name="ID_MEASUREMENT_MILE" title="英里" tooltip="" status="" short=""/>
+		<Item id="32900" name="ID_RROTATE_ANNOT" title="順時針旋轉" tooltip="" status="" short=""/>
+		<Item id="32901" name="ID_LROTATE_ANNOT" title="逆時針旋轉" tooltip="" status="" short=""/>		
+	</Strings>
+	<Dialogs>
+		<Dialog id="205" name="IDD_DIALOG_CATEGORIES" title="">
+			<Item id="1" name="IDOK" title="確定"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+		</Dialog>
+		<Dialog id="206" name="IDD_DIALOG_COMMON" title="常規">
+			<Item id="1000" name="IDC_STATIC_AUTHOR" title="作者：" tooltip=""/>
+			<Item id="1001" name="IDC_STATIC_SUBJECT" title="主題：" tooltip=""/>
+			<Item id="1002" name="IDC_STATIC_CREATION" title="創建日期：" tooltip=""/>
+			<Item id="1003" name="IDC_STATIC_MODIFIED" title="修改時間：" tooltip=""/>
+		</Dialog>
+		<Dialog id="207" name="IDD_DIALOG_DRAW_APPEARANCE" title="外觀">
+			<Item id="1009" name="IDC_STATIC_COLOR" title="筆劃顏色：" tooltip=""/>
+			<Item id="1010" name="IDC_STATIC_TRANSPARENT" title="不透明度：" tooltip=""/>
+			<Item id="1012" name="IDC_STATIC_WIDTH" title="邊框寬度：" tooltip=""/>
+			<Item id="1015" name="IDC_STATIC_COLOR2" title="填充顏色：" tooltip=""/>
+			<Item id="1016" name="IDC_STATIC_START_STYLE" title="線條起始樣式：" tooltip=""/>
+			<Item id="1017" name="IDC_STATIC_END_STYLE" title="線條結束樣式：" tooltip=""/>
+			<Item id="1042" name="IDC_STATIC_LL" title="引線長度：" tooltip=""/>
+			<Item id="1024" name="IDC_STATIC_LLE" title="引線延長：" tooltip=""/>
+		</Dialog>
+		<Dialog id="220" name="IDD_DIALOG_MARKUP_APPEARANCE" title="外觀">
+			<Item id="1009" name="IDC_STATIC_COLOR" title="填充顏色：" tooltip=""/>
+			<Item id="1010" name="IDC_STATIC_TRANSPARENT" title="不透明度：" tooltip=""/>
+		</Dialog>
+		<Dialog id="225" name="IDD_DIALOG_FREEWRITE_CFG" title="">
+			<Item id="1053" name="IDC_STATIC_SIZE" title="字體大小" tooltip=""/>
+			<Item id="1054" name="IDC_STATIC_CLR" title="文字顏色" tooltip=""/>
+		</Dialog>
+		<Dialog id="227" name="IDD_DIALOG_STAMP_MODEL" title="戳記模型">
+			<Item id="1055" name="IDC_ST_TYPE" title="戳記模型樣式:"/>
+			<Item id="1050" name="IDC_OK_BTN" title="確定"/>
+			<Item id="2" name="IDCANCEL" title="取消"/>
+		</Dialog>
+		<Dialog id="228" name="IDD_DIALOG_STAMP_MODEL_001_DLG" title="">
+			<Item id="1056" name="IDC_ST_CONTENT" title="戳記内容:"/>
+			<Item id="1057" name="IDC_ST_DATETIME" title="日        期:"/>
+			<Item id="1058" name="IDC_ST_INDEX" title="批示序號:"/>
+			<Item id="1059" name="IDC_ST_COLOR" title="印章顏色:"/>
+		</Dialog>
+		<Dialog id="229" name="IDD_DIALOG_STAMP_MODEL_002_DLG" title="">
+			<Item id="1056" name="IDC_ST_CONTENT2" title="戳記内容:"/>
+			<Item id="1057" name="IDC_ST_DATETIME2" title="日        期:"/>
+			<Item id="1058" name="IDC_ST_INDEX2" title="批示序號:"/>
+			<Item id="1059" name="IDC_ST_COLOR2" title="印章顏色:"/>
+		</Dialog>
+		<Dialog id="107" name="IDD_WPMEASURESETTINGS" title="距離工具">
+			<Item id="1025" name="IDC_ST_GROUP_M" title="量測"/>
+			<Item id="1026" name="IDC_ST_GROUP_O" title="光標位置"/>
+			<Item id="1027" name="IDC_ST_GROUP_S" title="量測比例"/>
+			<Item id="1028" name="IDC_ST_DISTANCE" title="距離:"/>
+			<Item id="1029" name="IDC_ST_INDEX2" title="角度:"/>
+			<Item id="1035" name="IDC_ST_PERIMETER" title="周長:"/>
+			<Item id="1037" name="IDC_ST_AREA" title="面積:"/>
+			<Item id="1043" name="IDC_CHECK_USE_SCALE" title="如果存在，使用檔案的比例和組織"/>
+			<Item id="2" name="IDCANCEL" title="關閉"/>
+		</Dialog>
+	</Dialogs>
+</Localization>

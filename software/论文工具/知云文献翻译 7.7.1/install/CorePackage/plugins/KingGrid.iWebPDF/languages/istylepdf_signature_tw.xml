@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="Chinese (Hongkong)" lName="繁體中文 (香港)" lcid="0x0404" prefFont=""/>
+	<Strings>
+		<Item id="1" name="IDOK" title="確定"/>
+		<Item id="2" name="IDCANCEL" title="取消"/>
+		<Item id="3" name="IDS_SIGNATURE" title="簽名"/>
+		<Item id="4" name="IDS_SIGNATURE_PRO" title="驗證簽名(&amp;V)"/>
+		<Item id="5" name="IDS_SIGNATURE_DEL" title="刪除簽名域(&amp;D)"/>
+		<Item id="6" name="IDS_NO_CERT_PRIVATE" title="沒有找到簽名者對應的證書私鑰,請導入證書或插入密鑰盤再操作" tooltip="" status="" short=""/>
+		<Item id="7" name="IDS_STRING_NEED_PIN" title="密鑰盤PIN碼不能為空！" tooltip="" status="" short=""/>
+		<Item id="8" name="IDS_STRING_PROMPT" title="iStylePDF 安全性" tooltip="" status="" short=""/>
+		<Item id="9" name="IDS_STRING_PIN_ERROR" title="口令錯誤，請重新輸入" tooltip="" status="" short=""/>
+		<Item id="10" name="IDS_STRING_SIG_HASH" title="簽名摘要" tooltip="" status="" short=""/>
+		<Item id="11" name="IDS_STRING_SIG_VALID" title="簽名有效，由&quot;%s&quot;簽名。" tooltip="" status="" short=""/>
+		<Item id="12" name="IDS_STRING_SIG_VALID_SUM" title="自应用本签名以来，&quot;文档&quot;未被更改" tooltip="" status="" short=""/>
+		<Item id="13" name="IDS_STRING_SIG_INVALID" title="签名无效，由&quot;%s&quot;签名。" tooltip="" status="" short=""/>
+		<Item id="14" name="IDS_STRING_SIG_INVALID_SUM" title="自應用本簽名以來，文檔已被更改或損壞" tooltip="" status="" short=""/>
+		<Item id="15" name="IDS_STRING_MODIFY_PAGES" title="已修改&quot;%d&quot;頁" tooltip="" status="" short=""/>
+		<Item id="16" name="IDS_TREE_SIG_NAME" title="修訂版%d：由&quot;%s&quot;簽名" tooltip="" status="" short=""/>
+		<Item id="17" name="IDS_TREE_SIG_VALID" title="數位簽名有效：" tooltip="" status="" short=""/>
+		<Item id="18" name="IDS_TREE_SIG_AUTHOR" title="由當前用戶簽名" tooltip="" status="" short=""/>
+		<Item id="19" name="IDS_TREE_SIG_INVALID" title="數位簽名無效：" tooltip="" status="" short=""/>
+		<Item id="20" name="IDS_TREE_SIG_NO_VERIFY" title="該數字簽名未驗證" tooltip="" status="" short=""/>
+		<Item id="21" name="IDS_TREE_SIG_INFO" title="簽名詳細資訊" tooltip="" status="" short=""/>
+		<Item id="22" name="IDS_TREE_CERT_INFO" title="證書詳細資訊..." tooltip="" status="" short=""/>
+		<Item id="23" name="IDS_TREE_FIELD_POS" title="域：%s 位於第 %d 頁" tooltip="" status="" short=""/>
+		<Item id="24" name="IDS_TREE_DOC_REVISION" title="文檔修訂版次:第 %d/%d 版" tooltip="" status="" short=""/>
+		<Item id="25" name="IDS_TREE_NO_SIG_FIELD" title="未簽名的簽名域" tooltip="" status="" short=""/>
+		<Item id="26" name="IDS_STRING_NO_FINE_SIGCLIENT" title="沒有安裝簽章用戶端軟體，請安裝簽章用戶端之後再操作" tooltip="" status="" short=""/>
+		<Item id="27" name="IDS_STRING_EDIT_DETAILS" title="修改詳細資訊：" tooltip="" status="" short=""/>
+		<Item id="28" name="IDS_STRING_HAS_PAGES_MODIFIED" title="%d 個頁面被修改" tooltip="" status="" short=""/>
+		<Item id="29" name="IDS_STRING_USE_CERT_ERROR" title="使用該數位證書簽名失敗！" tooltip="" status="" short=""/>
+		<Item id="30" name="IDS_STRING_FILE_OPEN_ERROR" title="檔被其他程式佔用，打開檔保存失敗！" tooltip="" status="" short=""/>
+		<Item id="31" name="IDS_STRING_UNKNOW" title="數位簽名保存出現未知異常，請檢查檔和證書是否使用正常！" tooltip="" status="" short=""/>
+		<Item id="32" title="沒有找到可以使用的證書，請導入證書到容器或者插入密鑰盤再操作！" tooltip="" status="" short=""/>
+		<Item id="33" title="沒有可用的簽名外觀！" tooltip="" status="" short=""/>
+		<Item id="34" title="清除簽名(&amp;C)" tooltip="" status="" short=""/>
+		<Item id="35" title="全部簽名驗證完畢，總共耗時%d毫秒！" tooltip="" status="" short=""/>
+		<Item id="36" title="正在整理簽名的修訂版次..." tooltip="" status="" short=""/>
+		<Item id="37" title="該功能已經過期，請聯繫軟體供應商！" tooltip="" status="" short=""/>
+		<Item id="38" title="簽名：驗證和查看所有簽名" tooltip="" status="" short=""/>
+		<Item id="39" title="電子簽章" tooltip="" status="" short=""/>
+		<Item id="40" title="簽名之後文檔有修改" tooltip="" status="" short=""/>
+		<Item id="41" title="由本簽名控制的文檔修訂版次尚未被更改，但在其後，文檔已被更改。" tooltip="" status="" short=""/>
+		<Item id="42" name="IDS_CLOSE" title="關閉"/>
+		<Item id="100" title="數字簽名插件" tooltip="" status="" short=""/>
+		<Item id="107" title="簽名文檔" tooltip="" status="" short=""/>
+		<Item id="108" title="簽名屬性" tooltip="" status="" short=""/>
+		<Item id="114" title="請輸入证书密碼" tooltip="" status="" short=""/>
+		<Item id="115" title="驗證所有簽名" tooltip="" status="" short=""/>
+		<Item id="116" title="日期格式設置" tooltip="" status="" short=""/>
+		<Item id="204" title="詳細資訊" tooltip="" status="" short=""/>
+		<Item id="213" title="證書名稱" tooltip="" status="" short=""/>
+		<Item id="214" title="高级设置" tooltip="" status="" short=""/>
+		<Item id="215" title="鑰匙密碼" tooltip="" status="" short=""/>
+		<Item id="217" title="定位模式" tooltip="" status="" short=""/>
+		<Item id="225" title="查看證書..." tooltip="" status="" short=""/>
+		<Item id="227" title="簽章名稱" tooltip="" status="" short=""/>
+		<Item id="228" title="簽名" tooltip="" status="" short=""/>
+		<Item id="229" title="您正在使用的證書需要密碼認證" tooltip="" status="" short=""/>
+		<Item id="230" title="證書密碼" tooltip="" status="" short=""/>
+		<Item id="231" title="簽名資訊" tooltip="" status="" short=""/>
+		<Item id="232" title="有效性小結" tooltip="" status="" short=""/>
+		<Item id="233" title="簽名者：" tooltip="" status="" short=""/>
+		<Item id="234" title="原因：" tooltip="" status="" short=""/>
+		<Item id="235" title="日期：" tooltip="" status="" short=""/>
+		<Item id="236" title="添加..." tooltip="" status="" short=""/>
+		<Item id="239" title="確定要驗證所有簽名嗎？&#x0D;對大型文檔或多個簽名也許會佔用較多時間" tooltip="" status="" short=""/>
+		<Item id="240" title="確定" tooltip="" status="" short=""/>
+		<Item id="241" title="正在驗證簽名...%d / %d" tooltip="" status="" short=""/>
+        <Item id="242" title="簽名模板：" tooltip="" status="" short=""/>
+		<Item id="246" title="是否啟用" tooltip="" status="" short=""/>
+		<Item id="264" title="字體名稱：" tooltip="" status="" short=""/>
+		<Item id="265" title="字體大小：" tooltip="" status="" short=""/>
+		<Item id="266" title="字體顏色：" tooltip="" status="" short=""/>
+		<Item id="267" title="橫向位置：" tooltip="" status="" short=""/>
+		<Item id="268" title="縱向位置：" tooltip="" status="" short=""/>
+		<Item id="269" title="日期格式" tooltip="" status="" short=""/>
+		<Item id="270" title="确认：" tooltip="" status="" short=""/>
+		<Item id="271" title="取消：" tooltip="" status="" short=""/>
+		<Item id="272" title="簽章縮放" tooltip="" status="" short=""/>	
+		<Item id="279" title="記住密碼" tooltip="" status="" short=""/>
+		<Item id="280" title="證書過濾" tooltip="" status="" short=""/>
+		<Item id="281" title="頁面範圍" tooltip="" status="" short=""/>
+		<Item id="325" title="日期格式設置" tooltip="" status="" short=""/> 
+		<Item id="32700" title="提示信息" tooltip="" status="" short=""/>        
+		<Item id="32769" title="顯示簽名屬性(&amp;S)..." tooltip="" status="" short=""/>
+		<Item id="32770" title="驗證簽名(&amp;V)" tooltip="" status="" short=""/>
+		<Item id="32776" title="放置簽名(&amp;P)" tooltip="" status="" short=""/>
+		<Item id="32777" title="清除簽名(&amp;C)" tooltip="" status="" short=""/>
+		<Item id="32779" title="驗證所有簽名" tooltip="" status="" short=""/>             
+        <Item id="34000" title="簽名包含嵌入的時間戳！" tooltip="" status="" short=""/>
+		<Item id="34001" title="時間戳頒發機構：" tooltip="" status="" short=""/>                     		
+		<Item id="34002" title="二維條碼" tooltip="" status="" short=""/>
+		<Item id="34003" title="光學防偽" tooltip="" status="" short=""/>		
+		<Item id="34004" title="蓋騎縫章" tooltip="" status="" short=""/>
+		<Item id="34005" title="手寫簽名" tooltip="" status="" short=""/>		
+		<Item id="34006" title="位置" tooltip="" status="" short=""/>
+		<Item id="34007" title="添加位置：" tooltip="" status="" short=""/> 		 		
+		<Item id="34008" title="簽名圖片內" tooltip="" status="" short=""/>
+		<Item id="34009" title="簽名圖片外" tooltip="" status="" short=""/>
+		<Item id="34010" title="騎縫章設定" tooltip="" status="" short=""/>
+		<Item id="34011" title="起始頁" tooltip="" status="" short=""/>
+		<Item id="34012" title="蓋章頁" tooltip="" status="" short=""/>
+		<Item id="34013" title="全部頁" tooltip="" status="" short=""/>
+		<Item id="34014" title="奇數頁" tooltip="" status="" short=""/>
+		<Item id="34015" title="偶數頁" tooltip="" status="" short=""/>
+		<Item id="34016" title="騎縫設定" tooltip="" status="" short=""/>
+		<Item id="34017" title="鼠標一次定位簽章" tooltip="" status="" short=""/>
+		<Item id="34018" title="鼠標一次定位連續多頁簽章" tooltip="" status="" short=""/>
+		<Item id="34019" title="鼠標定位連續簽章" tooltip="" status="" short=""/>
+		<Item id="34020" title="簽章驗證" tooltip="" status="" short=""/>
+		<Item id="34021" title="撤銷簽章" tooltip="" status="" short=""/>
+		<Item id="34022" title="數字簽名" tooltip="" status="" short=""/>
+		<Item id="34023" title="簽名認證" tooltip="" status="" short=""/>
+		<Item id="34024" title="查看證書" tooltip="" status="" short=""/>
+		<Item id="34025" title="KCL201_沒有檢測到電子鑰匙盤！" tooltip="" status="" short=""/>
+		<Item id="34026" title="批量驗證" tooltip="" status="" short=""/>
+		<Item id="34027" title="簽章參數" tooltip="" status="" short=""/>
+		<Item id="34028" title="打印設置" tooltip="" status="" short=""/>
+		<Item id="34029" title="簽章脫密" tooltip="" status="" short=""/>
+		<Item id="34030" title="(共%d枚)" tooltip="" status="" short=""/>
+		<Item id="34031" title="商密贰代" tooltip="" status="" short=""/>
+		<Item id="34032" title="附加文字設定" tooltip="" status="" short=""/>
+		<Item id="34033" title="文字:" tooltip="" status="" short=""/>
+		<Item id="34034" title="字體:" tooltip="" status="" short=""/>
+		<Item id="34035" title="字號:" tooltip="" status="" short=""/>
+		<Item id="34036" title="颜色:" tooltip="" status="" short=""/>
+		<Item id="34037" title="位置:" tooltip="" status="" short=""/>
+		<Item id="34038" title="變數:" tooltip="" status="" short=""/>
+		<Item id="34039" title="離線簽章" tooltip="" status="" short=""/>
+		<Item id="34040" title="自動數字簽名:" tooltip="" status="" short=""/>
+		<Item id="34041" title="浮於內容上方" tooltip="" status="" short=""/>
+		<Item id="34042" title="時間附加" tooltip="" status="" short=""/>
+		<Item id="34043" title="附加文字" tooltip="" status="" short=""/>
+		<Item id="34044" title="記憶參數" tooltip="" status="" short=""/>
+		<Item id="34045" title="設置" tooltip="" status="" short=""/>
+			
+		<Item id="34046" title="密碼長度錯誤!" tooltip="" status="" short=""/>
+		<Item id="34047" title="字體尺寸請輸入1-100之間的數位!" tooltip="" status="" short=""/>
+		<Item id="34048" title="列印設定异常!" tooltip="" status="" short=""/>
+		<Item id="34049" title="根證書安裝失敗，請確認根證書檔案是否正確!" tooltip="" status="" short=""/>
+		<Item id="34050" title="KCL809_操作失敗，請拔掉當前鑰匙盤再進行操作。" tooltip="" status="" short=""/>
+		<Item id="34051" title="KCL214_請插入原始電子鑰匙盤，然後再進行該操作！" tooltip="" status="" short=""/>
+		<Item id="34052" title="iSignature電子簽章系統有升級版本，請運行&lt;簽章中心&gt;完成陞級！" tooltip="" status="" short=""/>
+		<Item id="34053" title="簽章助手組件未注册/未安裝！" tooltip="" status="" short=""/>
+		<Item id="34054" title="檔案中不存在印章" tooltip="" status="" short=""/>
+		<Item id="34055" title="KCL808_操作失敗，簽章助手未啟用或未授權" tooltip="" status="" short=""/>
+		<Item id="34056" title="請確認是否進行簽章脫密操作" tooltip="" status="" short=""/>
+		<Item id="34057" title="簽名位置錯誤/簽名區域過小" tooltip="" status="" short=""/>
+		<Item id="34058" title="KCL001_未檢測到簽章客戶端授權文件" tooltip="" status="" short=""/>
+		<Item id="34059" title="KCL002_簽章客戶端授權文件解析失敗" tooltip="" status="" short=""/>
+		<Item id="34060" title="KCL003_簽章系統檔案數據非法" tooltip="" status="" short=""/>
+		<Item id="34061" title="KCL004_該簽章功能未授權" tooltip="" status="" short=""/>
+		<Item id="34062" title="KCL005_%s授權已過期，請聯繫廠商更新授權" tooltip="" status="" short=""/>
+		<Item id="34063" title="KCL202_電子鑰匙盤中不存在電子簽章" tooltip="" status="" short=""/>
+		<Item id="34064" title="伺服器端未定義印章過期時間控制功能" tooltip="" status="" short=""/>
+		<Item id="34065" title="請先保存檔案，再進行蓋章!" tooltip="" status="" short=""/>
+		<Item id="34066" title="蓋章頁面範圍錯誤" tooltip="" status="" short=""/>
+		<Item id="34067" title="獲取鑰匙盤有效期异常，請重新嘗試簽章!" tooltip="" status="" short=""/>
+		<Item id="34068" title="KCL205_電子鑰匙盤未生效，不能簽章!" tooltip="" status="" short=""/>
+		<Item id="34069" title="KCL206_電子鑰匙盤已過期，不能簽章!" tooltip="" status="" short=""/>
+		<Item id="34070" title="載入簽章模塊失敗，請重新安裝應用程序" tooltip="" status="" short=""/>
+		<Item id="34071" title="無法獲取原文，數位簽章失敗!" tooltip="" status="" short=""/>
+		<Item id="34072" title="KCL231_數位簽章失敗!" tooltip="" status="" short=""/>
+		<Item id="34073" title="無法獲取證書，數位簽章失敗!" tooltip="" status="" short=""/>
+		<Item id="34074" title="數位簽章成功!" tooltip="" status="" short=""/>
+		<Item id="34075" title="請先保存檔案!" tooltip="" status="" short=""/>
+		<Item id="34076" title="KCL272_驗證簽章人證書失敗，簽章人證書已過期或未生效!" tooltip="" status="" short=""/>
+		<Item id="34077" title="KCL274驗證簽章人證書失敗，簽章人證書根證書驗證未通過!" tooltip="" status="" short=""/>
+		<Item id="34078" title="KCL270_驗證簽章人證書失敗，簽章人證書已被吊銷!" tooltip="" status="" short=""/>
+		<Item id="34079" title="KCL276驗證簽章人證書失敗，簽章人證書根證書安裝未成功!" tooltip="" status="" short=""/>
+		<Item id="34080" title="KCL266_驗證簽章人證書失敗，未檢測到簽章人證書吊銷清單!" tooltip="" status="" short=""/>
+		<Item id="34081" title="KCL260_驗證簽章人證書失敗，未檢測到簽章人證書!" tooltip="" status="" short=""/>
+		<Item id="34082" title="KCL262_驗證簽章人根證書失敗，未檢測到簽章人根證書!" tooltip="" status="" short=""/>
+		<Item id="34083" title="KCL264_驗證簽章人根證書失敗，簽章人證書與該證書的根證書不匹配!" tooltip="" status="" short=""/>
+		<Item id="34084" title="KCL268_驗證簽章人證書失敗，簽章人證書與該證書吊銷清單不匹配!" tooltip="" status="" short=""/>
+		<Item id="34085" title="離線簽章日誌檔不存在!" tooltip="" status="" short=""/>
+		
+		<Item id="34086" title="字體大小格式錯誤" tooltip="" status="" short=""/>
+		<Item id="34087" title="請選中日期格式" tooltip="" status="" short=""/>
+		<Item id="34088" title="騎縫章參數設置錯誤!" tooltip="" status="" short=""/>
+		<Item id="34089" title="證書資訊錯誤!" tooltip="" status="" short=""/>
+		<Item id="34090" title="獲取印章圖片失敗!" tooltip="" status="" short=""/>
+		<Item id="34091" title="請選擇有效的簽章後再進行操作" tooltip="" status="" short=""/>
+		<Item id="34092" title="KCL281_驗證制章人證書失敗，未檢測到制章人證書！" tooltip="" status="" short=""/>
+		<Item id="34093" title="KCL273_驗證制章人證書失敗，制章人證書已過期或未生效!" tooltip="" status="" short=""/>
+		<Item id="34094" title="KCL275_驗證制章人證書失敗，制章人證書根證書驗證未通過!" tooltip="" status="" short=""/>
+		<Item id="34095" title="KCL271_驗證制章人證書失敗，制章人證書已被吊銷！" tooltip="" status="" short=""/>
+		<Item id="34096" title="KCL277_驗證制章人證書失敗，制章人證書根證書安裝未成功!" tooltip="" status="" short=""/>
+		<Item id="34097" title="KCL267_驗證制章人證書失敗，未檢測到制章人證書吊銷清單！" tooltip="" status="" short=""/>
+		<Item id="34098" title="KCL263_驗證制章人根證書失敗，未檢測到制章人根證書！" tooltip="" status="" short=""/>
+		<Item id="34099" title="KCL265_驗證制章人根證書失敗，制章人證書與該證書的根證書不匹配！" tooltip="" status="" short=""/>
+		<Item id="34100" title="KCL269_驗證制章人證書失敗，制章人證書與該證書吊銷清單不匹配！" tooltip="" status="" short=""/>
+		<Item id="34101" title="KCL261_驗證簽章人證書失敗，簽章人證書不在印章的簽章人證書清單中！" tooltip="" status="" short=""/>
+		<Item id="34102" title="KCL278_驗證印章制章時間失敗，印章未生效！" tooltip="" status="" short=""/>
+		<Item id="34103" title="KCL279_驗證印章制章時間失敗，印章已經過期！" tooltip="" status="" short=""/>
+		<Item id="34104" title="硬件密鑰盤授權還剩%ld天過期，請盡快續期！" tooltip="" status="" short=""/>
+		
+		<Item id="34105" title="證書校驗失敗" tooltip="" status="" short=""/>
+		<Item id="34106" title="         請陞級iWebPDF2015！&#x000A; &#x000A;    詳詢： http://www.kinggrid.com" tooltip="" status="" short=""/>
+		<Item id="34107" title="宋體" tooltip="" status="" short=""/>
+			
+		<Item id="34108" title="居上" tooltip="" status="" short=""/>	
+		<Item id="34109" title="居中" tooltip="" status="" short=""/>
+		<Item id="34110" title="居下" tooltip="" status="" short=""/>
+		<Item id="34111" title="左上" tooltip="" status="" short=""/>		
+		<Item id="34112" title="左中" tooltip="" status="" short=""/>
+		<Item id="34113" title="左下" tooltip="" status="" short=""/>
+		<Item id="34114" title="右上" tooltip="" status="" short=""/>
+		<Item id="34115" title="右中" tooltip="" status="" short=""/>
+		<Item id="34116" title="右下" tooltip="" status="" short=""/>
+		<Item id="34117" title="左上外" tooltip="" status="" short=""/>
+		<Item id="34118" title="中上外" tooltip="" status="" short=""/>
+		<Item id="34119" title="右上外" tooltip="" status="" short=""/>
+		<Item id="34120" title="左下外" tooltip="" status="" short=""/>
+		<Item id="34121" title="中下外" tooltip="" status="" short=""/>
+		<Item id="34122" title="右下外" tooltip="" status="" short=""/>
+		<Item id="34123" title="左外上" tooltip="" status="" short=""/>
+		<Item id="34124" title="左外中" tooltip="" status="" short=""/>
+		<Item id="34125" title="左外下" tooltip="" status="" short=""/>
+		<Item id="34126" title="右外上" tooltip="" status="" short=""/>
+		<Item id="34127" title="右外中" tooltip="" status="" short=""/>
+		<Item id="34128" title="右外下" tooltip="" status="" short=""/>
+		
+		<Item id="34129" title="調用簽章助手失敗！" tooltip="" status="" short=""/>
+		<Item id="34130" title="調用手機盾失敗！" tooltip="" status="" short=""/>
+			
+			
+		<Item id="34131" title="驗證說明：&#x000D;&#x000A;一、根證書驗證為可選項，勾選則進行根證書驗證，如果提示根證書已經安裝，則不需要選擇根證書檔案，否則，需要選擇根證書檔案。未勾選則不進行根證書驗證。&#x000D;&#x000A;二、吊銷清單驗證為可選項，勾選則進行吊銷清單驗證，必須選擇吊銷清單檔案，不勾選則不進行吊銷清單驗證。&#x000D;&#x000A;三、數位簽章驗證是默認選項" tooltip="" status="" short=""/>
+		<Item id="34132" title="根證書驗證" tooltip="" status="" short=""/>	
+		<Item id="34133" title="選擇" tooltip="" status="" short=""/>	
+		<Item id="34134" title="(未安裝)" tooltip="" status="" short=""/>	
+		<Item id="34135" title="驗證證書是否是可信協力廠商證書頒發機构頒發" tooltip="" status="" short=""/>	
+		<Item id="34136" title="(吊銷清單驗證)" tooltip="" status="" short=""/>	
+		<Item id="34137" title="(驗證數位憑證是否已吊銷)" tooltip="" status="" short=""/>	
+		<Item id="34138" title="(數位簽章驗證)" tooltip="" status="" short=""/>	
+		<Item id="34139" title="驗證數位簽章資訊是否被篡改" tooltip="" status="" short=""/>
+		<Item id="34140" title="(已安裝)" tooltip="" status="" short=""/>
+			
+		<Item id="34141" title="證書檔案(*.cer;*.p7b)\0*.cer;0*.p7b\0" tooltip="" status="" short=""/>
+		<Item id="34142" title="證書檔案(*.crl)\0*.crl\0" tooltip="" status="" short=""/>						
+		<Item id="34143" title="請在此處輸入資訊" tooltip="" status="" short=""/>						
+		
+		<Item id="34144" title="驗證結果" tooltip="" status="" short=""/>						
+		<Item id="34145" title="根證書" tooltip="" status="" short=""/>						
+		<Item id="34146" title="吊销列表" tooltip="" status="" short=""/>
+			
+		<Item id="34147" title="未選擇根證書驗證！" tooltip="" status="" short=""/>						
+		<Item id="34148" title="驗證失敗，未找到信任機构根證書！" tooltip="" status="" short=""/>						
+		<Item id="34149" title="驗證成功，證書受頒發機构信任！" tooltip="" status="" short=""/>						
+		<Item id="34150" title="驗證失敗，證書已過期或未生效！" tooltip="" status="" short=""/>						
+		<Item id="34151" title="驗證成功，證書不在所指定的吊銷清單中！" tooltip="" status="" short=""/>						
+		<Item id="34152" title="驗證成功，證書存在所指定的吊銷清單中！" tooltip="" status="" short=""/>		
+		<Item id="34153" title="未選擇吊銷清單驗證！" tooltip="" status="" short=""/>
+		<Item id="34154" title="驗證成功，檔案完好無損！" tooltip="" status="" short=""/>
+		<Item id="34155" title="驗證失敗，檔案已被更改！" tooltip="" status="" short=""/>
+			
+		<Item id="34156" title="簽章統計資訊" tooltip="" status="" short=""/>
+		<Item id="34157" title="時戳證書" tooltip="" status="" short=""/>	
+			
+		<Item id="34158" title="檔案內共有簽章" tooltip="" status="" short=""/>
+		<Item id="34159" title="有效的簽章" tooltip="" status="" short=""/>
+		<Item id="34160" title="無效的簽章" tooltip="" status="" short=""/>
+		<Item id="34161" title="未保護簽章" tooltip="" status="" short=""/>
+			
+		<Item id="34162" title="檔案未被保護！" tooltip="" status="" short=""/>
+		<Item id="34163" title="該檔案已被篡改！" tooltip="" status="" short=""/>
+		<Item id="34164" title="（時間戳不可信任）" tooltip="" status="" short=""/>
+		<Item id="34165" title="檔案完好無損！" tooltip="" status="" short=""/>
+		<Item id="34166" title="（時間戳可信任）" tooltip="" status="" short=""/>
+		<Item id="34167" title="應用程序：" tooltip="" status="" short=""/>	
+		
+		<Item id="34168" title="檔案內容保護：" tooltip="" status="" short=""/>	
+		<Item id="34169" title="保護區域：" tooltip="" status="" short=""/>	
+		<Item id="34170" title="授權單位：" tooltip="" status="" short=""/>	
+		<Item id="34171" title="用戶名稱：" tooltip="" status="" short=""/>	
+		<Item id="34172" title="密鑰序列：" tooltip="" status="" short=""/>	
+		<Item id="34173" title="簽章名稱：" tooltip="" status="" short=""/>
+		<Item id="34174" title="簽章時間：" tooltip="" status="" short=""/>
+		<Item id="34175" title="(源自時間戳服務器)" tooltip="" status="" short=""/>
+		<Item id="34176" title="計算機IP：" tooltip="" status="" short=""/>
+		<Item id="34177" title="擴展資訊：" tooltip="" status="" short=""/>
+		<Item id="34178" title="制章人名：" tooltip="" status="" short=""/>
+		<Item id="34179" title="制章時間：" tooltip="" status="" short=""/>
+		
+		<Item id="34184" title="離線日誌" tooltip="" status="" short=""/>
+		<Item id="34185" title="簽章+日期" tooltip="" status="" short=""/>
+		<Item id="34186" title="電子簽名" tooltip="" status="" short=""/>
+		<Item id="34187" title="簽名+日期" tooltip="" status="" short=""/>
+		<Item id="34188" title="撤銷簽章需要輸入密碼" tooltip="" status="" short=""/>
+		<Item id="34189" title="请输入密码" tooltip="" status="" short=""/>
+			
+		<Item id="34190" title="年" tooltip="" status="" short=""/>	
+		<Item id="34191" title="月" tooltip="" status="" short=""/>	
+		<Item id="34192" title="日" tooltip="" status="" short=""/>		
+		
+		<Item id="34193" title="保護文檔內容" tooltip="" status="" short=""/>	
+		<Item id="34194" title="未生效" tooltip="" status="" short=""/>	
+		<Item id="34195" title="已過期" tooltip="" status="" short=""/>
+		<Item id="34196" title="多頁簽章" tooltip="" status="" short=""/>
+		<Item id="34197" title="印章類型：" tooltip="" status="" short=""/>
+		<Item id="34198" title="簽章序列：" tooltip="" status="" short=""/>	
+		<Item id="34199" title="選擇頁" tooltip="" status="" short=""/>	
+		<Item id="34200" title="数字签名需要输入密码" tooltip="" status="" short=""/>
+		<Item id="34201" title="商密一代" tooltip="" status="" short=""/>
+		<Item id="34202" title="政务印章" tooltip="" status="" short=""/>
+		<Item id="34203" title="文件名稱：" tooltip="" status="" short=""/>
+		<Item id="34204" title="(時間源來自於簽章服務器)" tooltip="" status="" short=""/>
+		<Item id="34205" title="印章霧化" tooltip="" status="" short=""/>
+		<Item id="34206" title="是" tooltip="" status="" short=""/>
+		<Item id="34207" title="否" tooltip="" status="" short=""/>
+		<Item id="34208" title="加載xml文件失敗!" tooltip="" status="" short=""/>
+		<Item id="34209" title="請選擇相應的簽章!" tooltip="" status="" short=""/>
+		<Item id="34210" title="KCL204_沒有進行正確初始化的電子鑰匙盤!" tooltip="" status="" short=""/>
+		<Item id="34211" title="函數執行失敗，您的操作將取消！" tooltip="" status="" short=""/>
+		<Item id="34212" title="KCL209_電子鑰匙盤里沒有通過審核的印章!" tooltip="" status="" short=""/>		
+		<Item id="34213" title="没有找到电子钥匙盘的驱动文件!" tooltip="" status="" short=""/>
+		<Item id="34214" title="驗證證書有效性過程中獲取證書資訊失敗!" tooltip="" status="" short=""/>
+		<Item id="34215" title="驗證證書有效性過程中轉換證書對象失敗!" tooltip="" status="" short=""/>
+		<Item id="34216" title="KCL234_數字證書已過期或未生效!" tooltip="" status="" short=""/>
+		<Item id="34217" title="您的證書將在 %d 天后開始生效!" tooltip="" status="" short=""/>
+		<Item id="34218" title="您的證書將在 %d小時%d分%d秒 后開始生效!" tooltip="" status="" short=""/>
+		<Item id="34219" title="您的證書還有 %d小時%d分%d秒 到期，請及時辦理證書延期!" tooltip="" status="" short=""/>
+		<Item id="34220" title="您的證書還有 %d 天到期，请及时办理证书延期!" tooltip="" status="" short=""/>
+		<Item id="34221" title="您的證書已過期 %d 天，请及时办理证书延期!" tooltip="" status="" short=""/>
+		<Item id="34222" title="您的證書已過期 %d小時%d分%d秒 ，请及时办理证书延期!" tooltip="" status="" short=""/>
+		<Item id="34223" title="驗證失敗，證書不受頒發機構信任！" tooltip="" status="" short=""/>
+		<Item id="34224" title="KCL280_驗證失敗，未知原因的驗證失敗!" tooltip="" status="" short=""/>
+		<Item id="34225" title="請選擇根證書文件路徑!" tooltip="" status="" short=""/>
+		<Item id="34226" title="根證書文件路徑不存在!" tooltip="" status="" short=""/>
+		<Item id="34227" title="服務器驗證證書失敗" tooltip="" status="" short=""/>
+		<Item id="34228" title="(時間源來自于本地)" tooltip="" status="" short=""/>
+		<Item id="34229" title="暫不支持此功能!" tooltip="" status="" short=""/>
+		<Item id="34230" title="蓋騎縫章文檔頁數不能小於2頁!" tooltip="" status="" short=""/>
+		<Item id="34231" title="簽章已失效，您的操作被取消!" tooltip="" status="" short=""/>
+		<Item id="34232" title="數字簽名失敗，原因:" tooltip="" status="" short=""/>
+		<Item id="34233" title="没有查找到该印章!" tooltip="" status="" short=""/>
+		<Item id="34234" title="檢測電子密鑰盤異常!" tooltip="" status="" short=""/>
+		<Item id="34235" title="連接服務器失敗!" tooltip="" status="" short=""/>
+		<Item id="34236" title="文檔內不存在電子簽章,不能脫密!" tooltip="" status="" short=""/>
+		<Item id="34237" title="請插入檔案中簽章的原始電子鑰匙盤進行脫密。" tooltip="" status="" short=""/>
+		<Item id="34238" title="电脑未安装二维条码组件!" tooltip="" status="" short=""/>
+		<Item id="34239" title="請在第壹頁定位蓋章。" tooltip="" status="" short=""/>
+		<Item id="34240" title="簽章失敗，操作被取消。" tooltip="" status="" short=""/>
+		<Item id="34241" title="請選擇吊銷列表文件路徑！" tooltip="" status="" short=""/>
+		<Item id="34242" title="吊銷列表文件路徑不存在！" tooltip="" status="" short=""/>
+		<Item id="34243" title="獲取證書內容失敗，請退出應用程序後重試!" tooltip="" status="" short=""/>
+		<Item id="34244" title="KCL203_電腦插入了太多電子鑰匙盤！" tooltip="" status="" short=""/>
+		<Item id="34245" title="KCL212_非法的電子鑰匙盤!" tooltip="" status="" short=""/>
+		<Item id="34246" title="沒有簽章圖片可以制作!" tooltip="" status="" short=""/>
+		<Item id="34247" title="寫入簽章圖片數據失敗!" tooltip="" status="" short=""/>	
+		
+		<Item id="34248" title="提示" tooltip="" status="" short=""/>
+		<Item id="34249" title="不再提示 (當天有效)" tooltip="" status="" short=""/>
+		<Item id="34250" title="前往續期" tooltip="" status="" short=""/>
+		<Item id="34251" title="電子印章已過期，請盡快續期！" tooltip="" status="" short=""/>
+		<Item id="34252" title="電子印章還有" tooltip="" status="" short=""/>
+		<Item id="34253" title="天" tooltip="" status="" short=""/>
+		<Item id="34254" title="到期,請盡快續期！" tooltip="" status="" short=""/>
+		<Item id="34255" title="鑰匙盤還有" tooltip="" status="" short=""/>
+		<Item id="34256" title="原因：" tooltip="" status="" short=""/>
+		<Item id="34257" title="沒有簽名位置" tooltip="" status="" short=""/>
+		<Item id="34258" title="未聯網，禁止打印，返回值:" tooltip="" status="" short=""/>
+		<Item id="34259" title="證書容器獲取失敗" tooltip="" status="" short=""/>
+		<Item id="34260" title="發送驗證碼" tooltip="" status="" short=""/>
+		<Item id="34261" title="驗證碼：" tooltip="" status="" short=""/>
+		<Item id="34262" title=" s後刷新" tooltip="" status="" short=""/>
+		<Item id="34263" title="掃碼簽章" tooltip="" status="" short=""/>
+		<Item id="34264" title="選擇主體:" tooltip="" status="" short=""/>			
+	</Strings>
+	<Dialogs>		
+	</Dialogs>
+</Localization>

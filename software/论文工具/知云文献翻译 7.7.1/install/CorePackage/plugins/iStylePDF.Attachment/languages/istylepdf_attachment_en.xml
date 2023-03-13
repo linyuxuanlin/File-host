@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Product id="iStylePDF" version="1.0" productVersion="2.0.0042.0000"/>
+	<Language eName="English" lName="English" lcid="0x0409" prefFont=""/>
+	<Strings>
+		<Item id="101" name="IDS_STRING_TITLE" title="Attachments"/>
+		<Item id="102" name="IDS_STRING_NAME" title="Name"/>
+		<Item id="103" name="IDS_STRING_DESC" title="Description"/>
+		<Item id="104" name="IDS_STRING_MODDATE" title="Modified Date"/>
+		<Item id="105" name="IDS_STRING_SIZE" title="Size"/>
+		<Item id="106" name="IDS_STRING_COMPRESSED_SIZE" title="Compressed Size" tooltip="" status="" short=""/>
+		<Item id="107" name="IDS_STRING_TOOL_TIP" title="Attachments : View document attachments" tooltip="" status="" short=""/>
+		<Item id="109" name="IDS_STRING_POS" title="The location in the document" tooltip="" status="" short=""/>
+		<Item id="110" name="IDS_STRING_ATTACHMENT_LIST" title="EmbeddedFiles" tooltip="" status="" short=""/>
+		<Item id="111" name="IDS_STRING_PAGE_NUM" title="In Page %d" tooltip="" status="" short=""/>
+		<Item id="112" name="IDS_STRING_ALLFILES" title="All Files" tooltip="" status="" short=""/>
+		<Item id="113" name="IDS_CONFIRM_DEL" title="Sure you want to delete&quot;%s&quot;?" tooltip="" status="" short=""/>
+		<Item id="32768" name="IDC_OPEN_ATTACHMENT" title="Open" tooltip="" status="" short=""/>
+		<Item id="32769" name="IDC_SAVE_ATTACHMENT" title="Save" tooltip="" status="" short=""/>
+		<Item id="32770" name="IDC_ADD_ATTACHMENT" title="Add" tooltip="" status="" short=""/>
+		<Item id="32771" name="IDC_DEL_ATTACHMENT" title="Delete" tooltip="" status="" short=""/>
+	</Strings>
+	<Dialogs>		
+	</Dialogs>
+</Localization>
